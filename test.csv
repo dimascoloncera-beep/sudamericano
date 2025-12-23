@@ -1,0 +1,1001 @@
+﻿id_registro,fecha_registro,nombre_completo,genero,ciudad_residencia,canal_captacion,nivel_educativo,anio_graduacion,carrera_interes,modalidad_interes,situacion_laboral,sector_trabajo,estado_lead,asesor_asignado,sede
+1,2025-04-22,Flora Tomas Cuevas,M,Guayaquil,Referido,Universitario,2020,Ciberseguridad,Presencial,Empleado,Servicios,Perdido,David Rosales,Loja
+2,2025-08-09,Emilio Montes,F,Cuenca,Página Web,Técnico,2019,Gastronomía,Presencial,Estudiante,Industrial,Contactado,Luis Pineda,Machala
+3,2025-09-22,Caridad Gonzalez Vilanova,M,Quito,WhatsApp,Bachiller,2024,Big Data e Inteligencia de Negocios,Presencial,Independiente,Salud,Matriculado,Ana Torres,Machala
+4,2025-05-30,Cesar Benavides Zapata,F,Guayaquil,Página Web,Universitario,2019,Talento Humano,Presencial,Empleado,Servicios,Nuevo,Ana Torres,Loja
+5,2025-06-29,Victoria Alberola,F,Loja,WhatsApp,Bachiller,2022,Talento Humano,Presencial,Desempleado,Servicios,Matriculado,Luis Pineda,Loja
+6,2025-07-14,Amparo Fabiana Carro Bru,F,Cuenca,Página Web,Técnico,2019,Big Data e Inteligencia de Negocios,Presencial,Desempleado,Tecnología,Contactado,Luis Pineda,Loja
+7,2025-06-25,Eli Vega Flor,M,Zamora,Facebook Ads,Técnico,2018,Administración Financiera,Presencial,Estudiante,Servicios,Contactado,María Hidalgo,Machala
+8,2025-07-24,Lourdes Cabello,M,Machala,WhatsApp,Universitario,2015,Electrónica,Presencial,Empleado,Educación,Matriculado,María Hidalgo,Loja
+9,2025-09-20,Daniel Cabanillas Mora,F,Loja,WhatsApp,Universitario,2017,Gastronomía,Presencial,Desempleado,Comercio,Nuevo,David Rosales,Loja
+10,2025-06-12,Ernesto Torres Franco,M,Quito,Referido,Bachiller,2018,Big Data e Inteligencia de Negocios,Presencial,Empleado,Salud,Nuevo,Luis Pineda,Loja
+11,2025-04-28,Dionisio Miguel García,M,Machala,Facebook Ads,Bachiller,2020,Administración Financiera,Presencial,Desempleado,Educación,Matriculado,María Hidalgo,Loja
+12,2025-08-01,Débora Grau Hervás,M,Guayaquil,WhatsApp,Universitario,2024,Desarrollo de Software,Presencial,Desempleado,Salud,Nuevo,Luis Pineda,Machala
+13,2025-08-28,Amanda Sierra García,F,Guayaquil,Página Web,Universitario,2015,Diseño Gráfico,Online,Desempleado,Servicios,Nuevo,David Rosales,Machala
+14,2025-08-19,Modesta Rosales Quesada,F,Guayaquil,WhatsApp,Técnico,2015,Gastronomía,Presencial,Independiente,Salud,Nuevo,Ana Torres,Loja
+15,2025-09-03,Celestina Estefanía Fuertes Chamorro,F,Zamora,WhatsApp,Bachiller,2018,Talento Humano,Presencial,Independiente,Tecnología,Contactado,Luis Pineda,Loja
+16,2025-04-06,Coral Ramis Meléndez,F,Zamora,Referido,Técnico,2024,Gastronomía,Presencial,Estudiante,Comercio,Perdido,David Rosales,Machala
+17,2025-07-18,Alfonso Miralles Barreda,F,Guayaquil,Facebook Ads,Bachiller,2019,Administración Financiera,Online,Estudiante,Comercio,Matriculado,Luis Pineda,Loja
+18,2025-06-22,Íngrid del Luján,F,Cuenca,Facebook Ads,Bachiller,2016,Administración Financiera,Presencial,Desempleado,Educación,Nuevo,David Rosales,Loja
+19,2025-04-17,Isaías del Higueras,M,Quito,WhatsApp,Bachiller,2021,Ciberseguridad,Online,Empleado,Comercio,Nuevo,Luis Pineda,Machala
+20,2025-07-03,Pepito Elorza,F,Zamora,Página Web,Bachiller,2023,Gastronomía,Presencial,Empleado,Salud,Contactado,María Hidalgo,Loja
+21,2025-08-25,Chus Catalá Robles,M,Machala,Página Web,Universitario,2022,Diseño Gráfico,Online,Desempleado,Tecnología,Nuevo,María Hidalgo,Machala
+22,2025-09-28,Galo Izquierdo Beltran,F,Quito,Facebook Ads,Universitario,2024,Talento Humano,Presencial,Estudiante,Tecnología,Matriculado,María Hidalgo,Machala
+23,2025-08-24,Cebrián Parra Alberola,M,Guayaquil,Facebook Ads,Universitario,2024,Desarrollo de Software,Presencial,Desempleado,Industrial,Contactado,Ana Torres,Loja
+24,2025-04-15,Melania Gloria Ibarra Saura,F,Zamora,Referido,Universitario,2018,Desarrollo de Software,Online,Empleado,Comercio,Contactado,Luis Pineda,Machala
+25,2025-07-15,Margarita María Fernanda Palma Gracia,M,Guayaquil,Página Web,Bachiller,2021,Diseño Gráfico,Presencial,Estudiante,Comercio,Contactado,David Rosales,Loja
+26,2025-03-15,Águeda Cabo Tolosa,F,Loja,Facebook Ads,Universitario,2023,Administración Financiera,Online,Desempleado,Comercio,Contactado,David Rosales,Loja
+27,2025-06-13,Maribel Dávila Puente,F,Zamora,Página Web,Técnico,2015,Gastronomía,Presencial,Empleado,Comercio,Nuevo,María Hidalgo,Loja
+28,2025-06-01,América Landa Vargas,F,Machala,Referido,Bachiller,2019,Administración Financiera,Presencial,Estudiante,Salud,Nuevo,David Rosales,Loja
+29,2025-08-03,Consuelo Casals,F,Quito,Referido,Bachiller,2016,Desarrollo de Software,Presencial,Estudiante,Educación,Nuevo,Luis Pineda,Loja
+30,2025-04-08,Filomena de Daza,M,Loja,Facebook Ads,Técnico,2015,Diseño Gráfico,Online,Empleado,Tecnología,Contactado,David Rosales,Machala
+31,2025-05-17,Salomé Rincón-Morera,F,Cuenca,WhatsApp,Bachiller,2015,Electrónica,Presencial,Desempleado,Tecnología,Nuevo,David Rosales,Loja
+32,2025-04-09,Piedad Vizcaíno,F,Cuenca,Facebook Ads,Universitario,2023,Desarrollo de Software,Presencial,Desempleado,Salud,Contactado,David Rosales,Loja
+33,2025-06-26,Encarnacion Porta-Giménez,M,Zamora,WhatsApp,Bachiller,2021,Administración Financiera,Presencial,Empleado,Comercio,Perdido,David Rosales,Loja
+34,2025-06-07,Ramiro Santos Juárez,F,Machala,Facebook Ads,Técnico,2022,Electrónica,Presencial,Estudiante,Tecnología,Contactado,David Rosales,Loja
+35,2025-06-03,Antonio Gabaldón Álvaro,F,Quito,Facebook Ads,Bachiller,2024,Electrónica,Presencial,Estudiante,Comercio,Matriculado,Ana Torres,Machala
+36,2025-04-15,Palmira Orozco Benavides,M,Zamora,Página Web,Técnico,2015,Electrónica,Online,Independiente,Educación,Nuevo,David Rosales,Loja
+37,2025-03-16,Ariel Revilla Piñeiro,F,Cuenca,WhatsApp,Bachiller,2020,Desarrollo de Software,Presencial,Desempleado,Industrial,Matriculado,Ana Torres,Loja
+38,2025-07-22,Graciano Manuel-Cisneros,M,Machala,Página Web,Bachiller,2015,Gastronomía,Presencial,Estudiante,Educación,Matriculado,Ana Torres,Loja
+39,2025-03-29,Samuel Carrasco,M,Cuenca,WhatsApp,Bachiller,2017,Talento Humano,Online,Independiente,Tecnología,Nuevo,David Rosales,Loja
+40,2025-07-02,Encarnación Blázquez Morera,M,Loja,Facebook Ads,Bachiller,2020,Administración Financiera,Presencial,Empleado,Industrial,Matriculado,María Hidalgo,Machala
+41,2025-04-02,Narcisa Esparza Abascal,F,Loja,Página Web,Técnico,2016,Enfermería,Presencial,Empleado,Servicios,Contactado,Ana Torres,Loja
+42,2025-09-18,Leire de Camps,M,Cuenca,WhatsApp,Técnico,2015,Diseño Gráfico,Presencial,Estudiante,Industrial,Contactado,María Hidalgo,Machala
+43,2025-06-19,Epifanio Marc Pedrosa Aliaga,M,Quito,WhatsApp,Bachiller,2022,Electrónica,Online,Estudiante,Comercio,Nuevo,María Hidalgo,Machala
+44,2025-06-11,Ligia Casal Gimeno,M,Cuenca,WhatsApp,Técnico,2023,Desarrollo de Software,Online,Desempleado,Educación,Matriculado,David Rosales,Machala
+45,2025-07-07,Lidia del Pla,M,Zamora,Página Web,Técnico,2016,Enfermería,Presencial,Empleado,Educación,Contactado,Ana Torres,Machala
+46,2025-07-02,Sebastián Hervia Palomo,M,Quito,Página Web,Universitario,2017,Talento Humano,Presencial,Empleado,Tecnología,Nuevo,David Rosales,Loja
+47,2025-08-18,Rosaura Solís,F,Zamora,Facebook Ads,Universitario,2015,Gastronomía,Presencial,Desempleado,Industrial,Nuevo,Luis Pineda,Loja
+48,2025-03-01,Flora Álamo Bermejo,F,Quito,Facebook Ads,Técnico,2023,Talento Humano,Online,Estudiante,Industrial,Perdido,María Hidalgo,Machala
+49,2025-07-21,Luis Barranco-Blanch,F,Cuenca,WhatsApp,Bachiller,2021,Ciberseguridad,Online,Empleado,Industrial,Nuevo,María Hidalgo,Machala
+50,2025-08-28,Encarnación Barral Roma,M,Cuenca,Referido,Universitario,2015,Administración Financiera,Presencial,Desempleado,Comercio,Matriculado,Luis Pineda,Loja
+51,2025-05-02,Liliana Noriega Diego,F,Quito,Página Web,Técnico,2019,Ciberseguridad,Presencial,Desempleado,Comercio,Contactado,Ana Torres,Loja
+52,2025-03-14,Hernán Murcia Prada,M,Zamora,Facebook Ads,Técnico,2024,Diseño Gráfico,Presencial,Desempleado,Industrial,Nuevo,David Rosales,Machala
+53,2025-09-15,Leocadia Gomez Pujadas,M,Zamora,Referido,Técnico,2021,Administración Financiera,Online,Desempleado,Servicios,Nuevo,Luis Pineda,Loja
+54,2025-07-11,Guadalupe Guitart,F,Zamora,WhatsApp,Técnico,2019,Enfermería,Online,Desempleado,Salud,Matriculado,Luis Pineda,Loja
+55,2025-03-26,Viviana Ribera Suárez,M,Quito,WhatsApp,Universitario,2020,Diseño Gráfico,Presencial,Desempleado,Comercio,Perdido,Luis Pineda,Loja
+56,2025-04-08,Abigaíl Valenzuela Córdoba,F,Loja,Facebook Ads,Bachiller,2015,Enfermería,Online,Desempleado,Tecnología,Perdido,Luis Pineda,Loja
+57,2025-06-08,Fernando Valverde Ferreras,F,Loja,Página Web,Universitario,2015,Diseño Gráfico,Presencial,Estudiante,Industrial,Nuevo,Ana Torres,Loja
+58,2025-05-08,Edelmiro Bernat Ripoll,M,Loja,WhatsApp,Técnico,2019,Gastronomía,Presencial,Empleado,Industrial,Nuevo,María Hidalgo,Loja
+59,2025-08-23,Severino Porta-Garay,F,Cuenca,Página Web,Técnico,2017,Electrónica,Online,Desempleado,Tecnología,Nuevo,Ana Torres,Machala
+60,2025-08-25,Andrés Losa Conesa,M,Quito,WhatsApp,Técnico,2019,Diseño Gráfico,Presencial,Empleado,Salud,Nuevo,María Hidalgo,Loja
+61,2025-04-05,Cristina Gabaldón,F,Quito,WhatsApp,Técnico,2018,Gastronomía,Presencial,Estudiante,Salud,Contactado,Ana Torres,Machala
+62,2025-04-22,Leandro Alba Zabala,F,Machala,WhatsApp,Técnico,2024,Desarrollo de Software,Online,Independiente,Educación,Nuevo,David Rosales,Machala
+63,2025-06-16,Nélida Carrasco Soria,F,Zamora,WhatsApp,Técnico,2015,Big Data e Inteligencia de Negocios,Presencial,Estudiante,Industrial,Contactado,Luis Pineda,Loja
+64,2025-03-13,Gabriela Beltrán-Gracia,F,Guayaquil,Facebook Ads,Universitario,2021,Administración Financiera,Presencial,Estudiante,Tecnología,Contactado,David Rosales,Loja
+65,2025-06-15,Conrado Montaña Merino,F,Quito,Página Web,Bachiller,2015,Administración Financiera,Presencial,Desempleado,Salud,Perdido,María Hidalgo,Machala
+66,2025-05-26,Tiburcio Giralt-Alcázar,M,Zamora,Página Web,Técnico,2021,Desarrollo de Software,Presencial,Empleado,Servicios,Nuevo,María Hidalgo,Machala
+67,2025-07-04,Marcio Barrios Tenorio,F,Cuenca,Página Web,Técnico,2018,Electrónica,Presencial,Empleado,Industrial,Matriculado,David Rosales,Loja
+68,2025-09-28,Bautista Real-Barceló,F,Guayaquil,Facebook Ads,Técnico,2023,Gastronomía,Presencial,Desempleado,Salud,Matriculado,María Hidalgo,Loja
+69,2025-06-17,Montserrat Nevado-Belmonte,F,Quito,WhatsApp,Bachiller,2016,Ciberseguridad,Presencial,Empleado,Salud,Matriculado,Ana Torres,Loja
+70,2025-04-17,América Fuente Piñol,F,Guayaquil,Referido,Técnico,2015,Administración Financiera,Online,Independiente,Comercio,Contactado,David Rosales,Loja
+71,2025-04-22,Marino Lucas Cornejo,F,Quito,WhatsApp,Bachiller,2022,Electrónica,Online,Estudiante,Comercio,Perdido,María Hidalgo,Machala
+72,2025-09-07,Otilia Carro Herrera,M,Quito,Página Web,Técnico,2015,Enfermería,Online,Estudiante,Tecnología,Contactado,Luis Pineda,Loja
+73,2025-06-15,Almudena Flor Feijoo,M,Zamora,WhatsApp,Técnico,2017,Ciberseguridad,Presencial,Empleado,Tecnología,Contactado,Ana Torres,Loja
+74,2025-09-01,Felipe Andrés,M,Cuenca,WhatsApp,Universitario,2020,Desarrollo de Software,Online,Empleado,Salud,Nuevo,Luis Pineda,Machala
+75,2025-03-13,Elena Cánovas-Pozo,F,Quito,WhatsApp,Bachiller,2021,Diseño Gráfico,Online,Independiente,Tecnología,Contactado,Ana Torres,Loja
+76,2025-06-08,Berta Vega Planas,F,Loja,Facebook Ads,Universitario,2023,Administración Financiera,Online,Desempleado,Salud,Matriculado,David Rosales,Loja
+77,2025-06-19,Manu Ramón Gabaldón,F,Machala,Facebook Ads,Bachiller,2024,Enfermería,Presencial,Estudiante,Salud,Contactado,Luis Pineda,Machala
+78,2025-09-04,Jennifer de Agudo,M,Loja,Referido,Universitario,2018,Administración Financiera,Presencial,Estudiante,Salud,Nuevo,María Hidalgo,Loja
+79,2025-08-18,Virgilio Paredes Escrivá,M,Zamora,WhatsApp,Bachiller,2017,Talento Humano,Presencial,Estudiante,Educación,Nuevo,María Hidalgo,Loja
+80,2025-08-14,Adelardo Madrigal Figueroa,M,Guayaquil,Facebook Ads,Técnico,2021,Diseño Gráfico,Presencial,Estudiante,Comercio,Contactado,David Rosales,Loja
+81,2025-05-30,Graciana Arribas Leiva,F,Guayaquil,Página Web,Universitario,2016,Enfermería,Presencial,Desempleado,Servicios,Matriculado,Ana Torres,Loja
+82,2025-05-27,Rolando Paz Bautista,M,Machala,WhatsApp,Técnico,2023,Desarrollo de Software,Presencial,Empleado,Servicios,Perdido,Ana Torres,Machala
+83,2025-09-11,Guadalupe Acero Rivero,M,Zamora,WhatsApp,Técnico,2016,Ciberseguridad,Online,Independiente,Comercio,Matriculado,David Rosales,Machala
+84,2025-07-18,Jacinta Zabaleta Lloret,F,Zamora,Facebook Ads,Universitario,2016,Gastronomía,Presencial,Independiente,Tecnología,Perdido,Luis Pineda,Loja
+85,2025-07-07,Herminio Crespo Perez,M,Guayaquil,WhatsApp,Bachiller,2024,Enfermería,Online,Estudiante,Comercio,Nuevo,María Hidalgo,Loja
+86,2025-09-16,Florentina Laguna Jara,F,Zamora,WhatsApp,Bachiller,2020,Electrónica,Presencial,Estudiante,Educación,Contactado,Ana Torres,Loja
+87,2025-05-25,Angelina Andrade,M,Loja,Facebook Ads,Universitario,2024,Big Data e Inteligencia de Negocios,Presencial,Independiente,Tecnología,Nuevo,David Rosales,Loja
+88,2025-06-25,Mirta Girón Jaén,M,Zamora,Página Web,Bachiller,2020,Diseño Gráfico,Presencial,Independiente,Tecnología,Matriculado,David Rosales,Machala
+89,2025-07-31,Salomón Bayona Riba,M,Guayaquil,WhatsApp,Universitario,2015,Desarrollo de Software,Presencial,Estudiante,Servicios,Matriculado,Ana Torres,Loja
+90,2025-07-02,Fabiana Fernanda Falcó Antón,F,Cuenca,Página Web,Técnico,2015,Diseño Gráfico,Online,Empleado,Tecnología,Contactado,Ana Torres,Loja
+91,2025-03-19,Basilio Calzada Cerdá,F,Loja,Página Web,Técnico,2023,Gastronomía,Presencial,Estudiante,Educación,Contactado,Ana Torres,Loja
+92,2025-08-04,Jaime Ramón Naranjo Vidal,M,Quito,WhatsApp,Universitario,2016,Administración Financiera,Presencial,Estudiante,Salud,Nuevo,María Hidalgo,Loja
+93,2025-03-15,Francisca Pizarro Amat,F,Loja,Página Web,Bachiller,2016,Ciberseguridad,Presencial,Independiente,Salud,Contactado,David Rosales,Loja
+94,2025-05-05,Dominga Pulido Almeida,F,Machala,WhatsApp,Bachiller,2017,Desarrollo de Software,Presencial,Desempleado,Servicios,Nuevo,David Rosales,Machala
+95,2025-08-27,Alondra Robles,M,Quito,Facebook Ads,Bachiller,2022,Administración Financiera,Presencial,Independiente,Comercio,Nuevo,David Rosales,Loja
+96,2025-04-26,Ovidio Bruno Ballester Tejero,F,Guayaquil,Facebook Ads,Universitario,2023,Talento Humano,Presencial,Estudiante,Industrial,Contactado,María Hidalgo,Machala
+97,2025-09-03,Claudio Rosell,F,Zamora,WhatsApp,Universitario,2021,Administración Financiera,Online,Estudiante,Educación,Matriculado,María Hidalgo,Machala
+98,2025-03-26,Chucho Goicoechea Vilanova,M,Zamora,WhatsApp,Técnico,2015,Desarrollo de Software,Online,Empleado,Salud,Perdido,Luis Pineda,Machala
+99,2025-07-29,Mirta Río Pascual,F,Zamora,Página Web,Bachiller,2016,Big Data e Inteligencia de Negocios,Presencial,Independiente,Industrial,Matriculado,Ana Torres,Machala
+100,2025-04-07,Fátima Álvarez Alberdi,F,Quito,WhatsApp,Universitario,2015,Diseño Gráfico,Presencial,Desempleado,Educación,Nuevo,David Rosales,Loja
+101,2025-03-16,Florentina Alcántara Belmonte,F,Zamora,Página Web,Universitario,2016,Ciberseguridad,Presencial,Estudiante,Tecnología,Nuevo,María Hidalgo,Loja
+102,2025-08-29,Pascual Espinosa Villalonga,M,Zamora,Facebook Ads,Bachiller,2023,Talento Humano,Presencial,Desempleado,Salud,Nuevo,David Rosales,Machala
+103,2025-05-01,Máxima Ponce Cerezo,M,Zamora,WhatsApp,Técnico,2024,Big Data e Inteligencia de Negocios,Online,Desempleado,Servicios,Contactado,María Hidalgo,Loja
+104,2025-08-04,Abril Alsina Castell,M,Loja,Facebook Ads,Técnico,2020,Gastronomía,Presencial,Independiente,Educación,Nuevo,Ana Torres,Loja
+105,2025-09-13,Guadalupe Bustamante Adán,M,Guayaquil,WhatsApp,Bachiller,2020,Enfermería,Online,Empleado,Salud,Matriculado,Luis Pineda,Loja
+106,2025-09-27,Enrique Suarez-Fonseca,M,Quito,WhatsApp,Bachiller,2018,Enfermería,Presencial,Estudiante,Salud,Contactado,David Rosales,Loja
+107,2025-08-08,Domingo Nogueira-Ayuso,M,Cuenca,WhatsApp,Bachiller,2020,Gastronomía,Online,Desempleado,Salud,Nuevo,David Rosales,Machala
+108,2025-09-04,Seve Barroso Cal,M,Loja,Facebook Ads,Técnico,2018,Diseño Gráfico,Online,Independiente,Educación,Matriculado,David Rosales,Loja
+109,2025-04-09,Aníbal Toro Pinilla,M,Cuenca,WhatsApp,Universitario,2024,Diseño Gráfico,Presencial,Empleado,Salud,Matriculado,María Hidalgo,Loja
+110,2025-04-06,Trini Lastra Quiroga,F,Loja,Referido,Universitario,2022,Gastronomía,Presencial,Empleado,Tecnología,Nuevo,David Rosales,Machala
+111,2025-05-21,Rosendo Álamo Acosta,M,Machala,Referido,Técnico,2022,Diseño Gráfico,Presencial,Independiente,Salud,Contactado,María Hidalgo,Loja
+112,2025-08-08,Rolando Tomás Martín,M,Zamora,WhatsApp,Técnico,2024,Desarrollo de Software,Presencial,Empleado,Educación,Contactado,María Hidalgo,Machala
+113,2025-07-14,Fidel Manzanares Zamora,M,Loja,WhatsApp,Técnico,2020,Gastronomía,Presencial,Estudiante,Servicios,Nuevo,Ana Torres,Loja
+114,2025-04-01,Lara Bárcena Pereira,F,Quito,Email,Técnico,2024,Desarrollo de Software,Online,Desempleado,Servicios,Contactado,María Hidalgo,Machala
+115,2025-04-05,Emigdio Burgos,F,Cuenca,Página Web,Técnico,2017,Diseño Gráfico,Presencial,Independiente,Industrial,Nuevo,María Hidalgo,Machala
+116,2025-04-12,Vidal Olivares-Barriga,F,Cuenca,WhatsApp,Técnico,2023,Diseño Gráfico,Presencial,Empleado,Comercio,Nuevo,María Hidalgo,Machala
+117,2025-07-16,Pánfilo Bonifacio Pozuelo Matas,F,Machala,WhatsApp,Universitario,2016,Diseño Gráfico,Online,Estudiante,Educación,Matriculado,Luis Pineda,Loja
+118,2025-05-16,Ceferino Zorrilla Bermudez,F,Zamora,Referido,Técnico,2016,Desarrollo de Software,Online,Estudiante,Industrial,Matriculado,María Hidalgo,Loja
+119,2025-09-05,Pablo Dávila Perez,F,Loja,Referido,Universitario,2021,Talento Humano,Presencial,Empleado,Salud,Contactado,María Hidalgo,Loja
+120,2025-08-29,Reina Santiago Olmedo,F,Loja,Página Web,Técnico,2024,Electrónica,Presencial,Estudiante,Tecnología,Nuevo,Ana Torres,Machala
+121,2025-09-04,Emiliano Huerta Blanes,M,Cuenca,Página Web,Bachiller,2024,Electrónica,Online,Independiente,Tecnología,Perdido,Ana Torres,Loja
+122,2025-06-22,Oriana Briones Campo,F,Guayaquil,Facebook Ads,Universitario,2019,Gastronomía,Presencial,Desempleado,Tecnología,Nuevo,David Rosales,Loja
+123,2025-07-24,Kike Núñez Carlos,F,Quito,Referido,Bachiller,2017,Administración Financiera,Presencial,Independiente,Comercio,Matriculado,Ana Torres,Machala
+124,2025-09-18,Julia Escrivá Real,F,Machala,Facebook Ads,Bachiller,2022,Big Data e Inteligencia de Negocios,Presencial,Estudiante,Comercio,Nuevo,Ana Torres,Machala
+125,2025-03-12,Leonel Figueroa Cornejo,F,Machala,WhatsApp,Técnico,2018,Desarrollo de Software,Presencial,Empleado,Industrial,Contactado,David Rosales,Machala
+126,2025-05-10,Vidal Marc Lara López,F,Loja,Referido,Bachiller,2024,Ciberseguridad,Online,Estudiante,Educación,Matriculado,Ana Torres,Loja
+127,2025-03-17,Berta de Gil,F,Zamora,Referido,Universitario,2022,Desarrollo de Software,Presencial,Empleado,Salud,Nuevo,Ana Torres,Loja
+128,2025-05-21,Espiridión Gual Pino,F,Loja,Facebook Ads,Universitario,2023,Enfermería,Online,Empleado,Educación,Perdido,Ana Torres,Loja
+129,2025-05-12,Mateo Alegria Nebot,M,Quito,WhatsApp,Bachiller,2015,Talento Humano,Presencial,Independiente,Industrial,Matriculado,María Hidalgo,Loja
+130,2025-05-27,Leonor Alcolea Ibañez,F,Quito,WhatsApp,Técnico,2024,Electrónica,Presencial,Desempleado,Servicios,Contactado,Luis Pineda,Machala
+131,2025-06-30,Jennifer Serna,M,Loja,WhatsApp,Universitario,2023,Ciberseguridad,Presencial,Desempleado,Educación,Nuevo,Luis Pineda,Machala
+132,2025-09-17,José Antonio Oller Muro,M,Loja,Referido,Bachiller,2019,Talento Humano,Presencial,Empleado,Industrial,Nuevo,David Rosales,Loja
+133,2025-08-26,Ramona Francisco Balaguer,F,Loja,WhatsApp,Técnico,2019,Electrónica,Presencial,Empleado,Industrial,Perdido,Luis Pineda,Machala
+134,2025-05-16,Reyna Pineda Sanjuan,M,Cuenca,WhatsApp,Bachiller,2024,Enfermería,Presencial,Empleado,Educación,Contactado,Ana Torres,Machala
+135,2025-08-24,Miriam Nogueira Rubio,M,Loja,WhatsApp,Técnico,2018,Diseño Gráfico,Online,Desempleado,Industrial,Nuevo,David Rosales,Machala
+136,2025-04-01,Raimundo de Llobet,M,Machala,WhatsApp,Bachiller,2021,Gastronomía,Presencial,Desempleado,Industrial,Contactado,Luis Pineda,Loja
+137,2025-08-23,Arcelia Pineda-Márquez,M,Machala,Página Web,Bachiller,2017,Big Data e Inteligencia de Negocios,Online,Empleado,Comercio,Nuevo,María Hidalgo,Machala
+138,2025-08-25,Édgar del Batalla,M,Quito,WhatsApp,Técnico,2017,Big Data e Inteligencia de Negocios,Online,Desempleado,Comercio,Perdido,David Rosales,Loja
+139,2025-07-15,Ángeles Lina Durán Gisbert,M,Machala,Facebook Ads,Técnico,2023,Desarrollo de Software,Presencial,Desempleado,Tecnología,Contactado,David Rosales,Loja
+140,2025-04-03,Bernardino de Pineda,M,Loja,Facebook Ads,Bachiller,2024,Big Data e Inteligencia de Negocios,Presencial,Estudiante,Industrial,Contactado,María Hidalgo,Machala
+141,2025-03-15,Fermín Íñigo Barco Albero,M,Zamora,Página Web,Bachiller,2021,Administración Financiera,Online,Independiente,Servicios,Contactado,Luis Pineda,Machala
+142,2025-04-06,Ligia Arias Varela,F,Machala,Página Web,Bachiller,2019,Enfermería,Presencial,Estudiante,Tecnología,Contactado,Ana Torres,Machala
+143,2025-09-17,Édgar de Sarmiento,F,Zamora,Facebook Ads,Universitario,2015,Diseño Gráfico,Presencial,Estudiante,Servicios,Contactado,Luis Pineda,Machala
+144,2025-03-30,Hernán Luis Ángel Escribano Iriarte,F,Cuenca,WhatsApp,Universitario,2020,Enfermería,Presencial,Empleado,Servicios,Nuevo,David Rosales,Machala
+145,2025-05-09,Erasmo Bolaños Abella,M,Quito,WhatsApp,Bachiller,2017,Electrónica,Presencial,Estudiante,Educación,Perdido,María Hidalgo,Loja
+146,2025-04-24,Rebeca Anita Prats Batlle,M,Loja,Página Web,Bachiller,2023,Administración Financiera,Presencial,Independiente,Comercio,Matriculado,Luis Pineda,Loja
+147,2025-03-12,Benita Florina Bolaños López,M,Cuenca,WhatsApp,Universitario,2015,Electrónica,Presencial,Empleado,Comercio,Matriculado,David Rosales,Loja
+148,2025-07-26,Jessica Torre,F,Zamora,Referido,Universitario,2023,Ciberseguridad,Presencial,Estudiante,Comercio,Contactado,María Hidalgo,Loja
+149,2025-08-05,Hilda Vaquero Bernad,F,Cuenca,Facebook Ads,Bachiller,2020,Gastronomía,Presencial,Desempleado,Tecnología,Contactado,María Hidalgo,Loja
+150,2025-08-06,Fidel Múgica Taboada,F,Machala,Facebook Ads,Técnico,2018,Electrónica,Presencial,Estudiante,Salud,Contactado,Ana Torres,Machala
+151,2025-03-06,Herminia Gordillo Pazos,M,Zamora,Referido,Universitario,2024,Ciberseguridad,Presencial,Desempleado,Industrial,Contactado,Ana Torres,Machala
+152,2025-05-20,Nando Morillo,M,Machala,Página Web,Técnico,2018,Desarrollo de Software,Presencial,Desempleado,Comercio,Matriculado,Luis Pineda,Loja
+153,2025-05-16,Gonzalo Piñeiro Suarez,F,Quito,Referido,Técnico,2022,Enfermería,Online,Estudiante,Educación,Matriculado,María Hidalgo,Loja
+154,2025-07-15,Bárbara Arenas Sanmiguel,F,Zamora,Facebook Ads,Universitario,2024,Electrónica,Online,Desempleado,Salud,Perdido,Ana Torres,Machala
+155,2025-08-27,Carmina de Casares,M,Loja,Facebook Ads,Bachiller,2016,Administración Financiera,Presencial,Estudiante,Industrial,Matriculado,Ana Torres,Loja
+156,2025-08-20,Inocencio Ocaña Dominguez,F,Guayaquil,Facebook Ads,Técnico,2015,Electrónica,Presencial,Estudiante,Servicios,Contactado,Ana Torres,Machala
+157,2025-03-22,Natanael Corbacho Cuéllar,M,Loja,WhatsApp,Bachiller,2021,Diseño Gráfico,Presencial,Desempleado,Servicios,Matriculado,Luis Pineda,Machala
+158,2025-09-24,Martina Olivera,F,Guayaquil,WhatsApp,Universitario,2020,Talento Humano,Presencial,Desempleado,Salud,Nuevo,David Rosales,Machala
+159,2025-06-18,Teo Riquelme Garzón,M,Machala,Facebook Ads,Bachiller,2023,Electrónica,Presencial,Estudiante,Tecnología,Nuevo,Luis Pineda,Loja
+160,2025-05-08,Reyna Sala Batalla,M,Guayaquil,WhatsApp,Técnico,2024,Electrónica,Presencial,Estudiante,Servicios,Contactado,Luis Pineda,Machala
+161,2025-07-07,Custodia Mas,F,Cuenca,Página Web,Bachiller,2023,Enfermería,Presencial,Desempleado,Educación,Matriculado,Ana Torres,Loja
+162,2025-03-06,Carmina Gutiérrez Beltrán,F,Quito,Email,Universitario,2020,Diseño Gráfico,Presencial,Empleado,Tecnología,Nuevo,María Hidalgo,Machala
+163,2025-09-28,Daniel Segovia Moya,F,Machala,Facebook Ads,Técnico,2023,Ciberseguridad,Presencial,Empleado,Comercio,Nuevo,Ana Torres,Loja
+164,2025-05-02,Cayetana Riba Adadia,M,Zamora,Referido,Bachiller,2015,Gastronomía,Presencial,Desempleado,Salud,Nuevo,David Rosales,Loja
+165,2025-05-27,Violeta de Ropero,M,Quito,Página Web,Bachiller,2018,Diseño Gráfico,Presencial,Estudiante,Industrial,Nuevo,David Rosales,Loja
+166,2025-05-02,Alejandra del Mínguez,M,Cuenca,WhatsApp,Universitario,2016,Electrónica,Presencial,Desempleado,Comercio,Contactado,Luis Pineda,Machala
+167,2025-08-14,Aristides de Camino,F,Machala,Facebook Ads,Universitario,2017,Ciberseguridad,Presencial,Estudiante,Comercio,Nuevo,María Hidalgo,Loja
+168,2025-08-01,Dionisia Sarmiento,F,Cuenca,WhatsApp,Técnico,2022,Enfermería,Presencial,Empleado,Comercio,Contactado,María Hidalgo,Loja
+169,2025-07-17,Miriam Gras Fajardo,M,Cuenca,Email,Universitario,2019,Diseño Gráfico,Online,Desempleado,Servicios,Nuevo,Ana Torres,Loja
+170,2025-08-21,Candela Gonzalez-Torrecilla,F,Quito,Facebook Ads,Bachiller,2019,Gastronomía,Presencial,Empleado,Comercio,Nuevo,Ana Torres,Loja
+171,2025-07-10,Catalina Espinosa Figueras,F,Guayaquil,Facebook Ads,Bachiller,2016,Talento Humano,Presencial,Independiente,Comercio,Nuevo,Luis Pineda,Loja
+172,2025-03-16,Sonia Casares Benavente,M,Quito,Referido,Técnico,2018,Talento Humano,Presencial,Estudiante,Salud,Matriculado,Ana Torres,Machala
+173,2025-04-12,Ignacio Tadeo Rey Román,F,Zamora,Facebook Ads,Técnico,2023,Diseño Gráfico,Presencial,Empleado,Industrial,Perdido,Ana Torres,Machala
+174,2025-03-24,Beatriz Clemente,M,Guayaquil,WhatsApp,Técnico,2024,Enfermería,Presencial,Estudiante,Servicios,Nuevo,Luis Pineda,Machala
+175,2025-09-29,Pedro Ibarra Arco,F,Machala,WhatsApp,Universitario,2021,Big Data e Inteligencia de Negocios,Presencial,Desempleado,Educación,Nuevo,Ana Torres,Loja
+176,2025-09-18,Benigna Belda Patiño,M,Zamora,Facebook Ads,Bachiller,2018,Administración Financiera,Presencial,Independiente,Servicios,Nuevo,María Hidalgo,Machala
+177,2025-07-11,Áurea Roldán Puga,F,Quito,WhatsApp,Bachiller,2016,Diseño Gráfico,Presencial,Estudiante,Salud,Nuevo,Ana Torres,Loja
+178,2025-03-08,Marco Gordillo Ariza,F,Loja,Facebook Ads,Bachiller,2020,Talento Humano,Online,Empleado,Industrial,Nuevo,Ana Torres,Loja
+179,2025-09-11,Apolinar Sandoval Prats,F,Guayaquil,Página Web,Bachiller,2017,Desarrollo de Software,Presencial,Independiente,Educación,Matriculado,Luis Pineda,Loja
+180,2025-07-05,Ruy Murcia-Pizarro,F,Guayaquil,WhatsApp,Bachiller,2024,Ciberseguridad,Presencial,Desempleado,Tecnología,Nuevo,Ana Torres,Loja
+181,2025-05-30,Seve Portillo Balaguer,M,Zamora,Facebook Ads,Bachiller,2023,Big Data e Inteligencia de Negocios,Presencial,Desempleado,Salud,Matriculado,David Rosales,Loja
+182,2025-07-09,Hilda Cases Arroyo,F,Quito,WhatsApp,Técnico,2019,Big Data e Inteligencia de Negocios,Presencial,Independiente,Salud,Contactado,Luis Pineda,Loja
+183,2025-07-02,Virgilio Samu Neira Cifuentes,F,Loja,WhatsApp,Universitario,2019,Diseño Gráfico,Online,Estudiante,Salud,Matriculado,María Hidalgo,Machala
+184,2025-03-08,María Jesús de Falcón,M,Cuenca,WhatsApp,Universitario,2016,Big Data e Inteligencia de Negocios,Online,Desempleado,Industrial,Nuevo,María Hidalgo,Loja
+185,2025-07-31,Pepe Marin-Heredia,M,Quito,Facebook Ads,Bachiller,2022,Diseño Gráfico,Online,Independiente,Tecnología,Nuevo,María Hidalgo,Loja
+186,2025-05-17,Eulalia del Manuel,M,Guayaquil,WhatsApp,Bachiller,2018,Desarrollo de Software,Online,Empleado,Industrial,Matriculado,David Rosales,Machala
+187,2025-06-10,Kike Villaverde-Arias,M,Quito,Página Web,Bachiller,2017,Enfermería,Presencial,Empleado,Industrial,Nuevo,Luis Pineda,Loja
+188,2025-04-23,Valeria Cortés Serna,M,Machala,Página Web,Bachiller,2022,Enfermería,Online,Desempleado,Comercio,Contactado,Luis Pineda,Machala
+189,2025-04-11,Alondra Escrivá Moll,F,Quito,WhatsApp,Universitario,2020,Electrónica,Presencial,Independiente,Educación,Perdido,María Hidalgo,Loja
+190,2025-07-10,Eduardo Guillen Cabo,F,Machala,Facebook Ads,Bachiller,2021,Talento Humano,Presencial,Desempleado,Salud,Matriculado,David Rosales,Machala
+191,2025-07-10,Azeneth Molins Navarrete,F,Quito,Facebook Ads,Universitario,2021,Gastronomía,Presencial,Desempleado,Industrial,Nuevo,Luis Pineda,Loja
+192,2025-05-16,Chus Piquer Campoy,F,Loja,Página Web,Universitario,2017,Big Data e Inteligencia de Negocios,Online,Independiente,Salud,Nuevo,María Hidalgo,Loja
+193,2025-07-25,Cruz María Ángeles Carro Noguera,F,Cuenca,Referido,Bachiller,2018,Desarrollo de Software,Presencial,Empleado,Industrial,Contactado,Luis Pineda,Loja
+194,2025-08-06,Áurea Marqués Higueras,M,Guayaquil,Página Web,Bachiller,2023,Big Data e Inteligencia de Negocios,Presencial,Independiente,Industrial,Perdido,Ana Torres,Machala
+195,2025-06-07,Angelino Buendía Juárez,M,Zamora,Facebook Ads,Técnico,2022,Gastronomía,Online,Desempleado,Educación,Matriculado,David Rosales,Loja
+196,2025-07-21,Olegario Briones Peláez,M,Quito,Página Web,Universitario,2016,Talento Humano,Presencial,Empleado,Servicios,Nuevo,María Hidalgo,Loja
+197,2025-04-05,Régulo Manso Torrecilla,M,Cuenca,Facebook Ads,Universitario,2017,Enfermería,Presencial,Independiente,Comercio,Perdido,Ana Torres,Machala
+198,2025-04-03,Etelvina Román Carpio,F,Cuenca,Página Web,Técnico,2018,Big Data e Inteligencia de Negocios,Presencial,Independiente,Industrial,Contactado,María Hidalgo,Loja
+199,2025-04-27,Hilda Galindo Ledesma,M,Loja,Página Web,Bachiller,2018,Talento Humano,Presencial,Empleado,Industrial,Nuevo,María Hidalgo,Loja
+200,2025-08-08,Xiomara Badía Segovia,F,Machala,Referido,Universitario,2017,Big Data e Inteligencia de Negocios,Presencial,Estudiante,Tecnología,Nuevo,María Hidalgo,Machala
+201,2025-03-18,Valero Granados-Vilalta,F,Zamora,WhatsApp,Bachiller,2023,Administración Financiera,Presencial,Estudiante,Educación,Nuevo,Luis Pineda,Machala
+202,2025-03-05,Pelayo Salcedo Nadal,F,Zamora,WhatsApp,Técnico,2020,Gastronomía,Presencial,Empleado,Servicios,Nuevo,David Rosales,Loja
+203,2025-03-02,Norberto Ayllón,M,Loja,WhatsApp,Universitario,2022,Big Data e Inteligencia de Negocios,Presencial,Estudiante,Tecnología,Nuevo,Ana Torres,Loja
+204,2025-08-31,Santiago Valencia,M,Zamora,WhatsApp,Universitario,2015,Ciberseguridad,Presencial,Estudiante,Tecnología,Nuevo,David Rosales,Loja
+205,2025-07-30,Carmen Palacios Valderrama,M,Guayaquil,Página Web,Universitario,2023,Big Data e Inteligencia de Negocios,Presencial,Empleado,Educación,Matriculado,Ana Torres,Loja
+206,2025-06-10,Nadia Rodriguez-Peralta,M,Guayaquil,Facebook Ads,Bachiller,2015,Big Data e Inteligencia de Negocios,Online,Desempleado,Servicios,Contactado,David Rosales,Machala
+207,2025-03-26,Salud Arroyo Corominas,F,Quito,Facebook Ads,Universitario,2020,Diseño Gráfico,Online,Desempleado,Industrial,Nuevo,Ana Torres,Loja
+208,2025-09-05,Alejandra Roura Mesa,M,Loja,Página Web,Técnico,2024,Desarrollo de Software,Presencial,Desempleado,Comercio,Contactado,Luis Pineda,Loja
+209,2025-07-18,Cipriano Valverde-Gras,M,Quito,Facebook Ads,Universitario,2021,Enfermería,Presencial,Desempleado,Servicios,Perdido,Luis Pineda,Loja
+210,2025-03-07,Herminia Hernando Barral,F,Guayaquil,WhatsApp,Técnico,2019,Talento Humano,Online,Empleado,Tecnología,Nuevo,Ana Torres,Machala
+211,2025-07-29,Artemio Lucas Aparicio Pazos,M,Machala,WhatsApp,Técnico,2015,Diseño Gráfico,Presencial,Empleado,Educación,Nuevo,Luis Pineda,Loja
+212,2025-04-10,Basilio Guerra Requena,M,Guayaquil,Facebook Ads,Técnico,2015,Gastronomía,Presencial,Empleado,Tecnología,Contactado,Luis Pineda,Loja
+213,2025-04-21,Edelmiro Llamas Fuertes,F,Zamora,WhatsApp,Universitario,2017,Electrónica,Presencial,Desempleado,Salud,Perdido,Luis Pineda,Loja
+214,2025-07-01,Sosimo Urrutia López,M,Zamora,Página Web,Universitario,2017,Big Data e Inteligencia de Negocios,Presencial,Estudiante,Salud,Matriculado,María Hidalgo,Loja
+215,2025-06-22,Bonifacio Arroyo Escolano,M,Guayaquil,Página Web,Bachiller,2019,Big Data e Inteligencia de Negocios,Presencial,Independiente,Tecnología,Perdido,María Hidalgo,Loja
+216,2025-09-10,Fidel Juliá Salas,M,Cuenca,WhatsApp,Técnico,2018,Desarrollo de Software,Presencial,Estudiante,Industrial,Matriculado,María Hidalgo,Machala
+217,2025-06-17,Ruperta Rozas Gargallo,F,Machala,Referido,Universitario,2016,Ciberseguridad,Presencial,Independiente,Educación,Perdido,David Rosales,Loja
+218,2025-07-23,Serafina Calleja Vega,M,Loja,WhatsApp,Universitario,2019,Gastronomía,Presencial,Independiente,Salud,Matriculado,María Hidalgo,Machala
+219,2025-03-04,Severiano Cordero Mendoza,F,Zamora,WhatsApp,Bachiller,2015,Desarrollo de Software,Online,Desempleado,Comercio,Nuevo,Luis Pineda,Loja
+220,2025-05-26,Bernardo Aguirre Benitez,M,Cuenca,WhatsApp,Técnico,2022,Diseño Gráfico,Presencial,Estudiante,Educación,Contactado,Luis Pineda,Machala
+221,2025-08-07,Dafne Villegas,M,Zamora,Referido,Universitario,2018,Talento Humano,Presencial,Desempleado,Servicios,Contactado,David Rosales,Machala
+222,2025-05-31,Sabina Arteaga Batalla,F,Quito,Referido,Bachiller,2018,Talento Humano,Online,Estudiante,Comercio,Perdido,María Hidalgo,Machala
+223,2025-04-30,Andrés Felipe Arana Higueras,M,Quito,WhatsApp,Técnico,2020,Desarrollo de Software,Online,Desempleado,Salud,Contactado,Ana Torres,Loja
+224,2025-07-25,Bonifacio Viana Lloret,F,Zamora,WhatsApp,Bachiller,2020,Gastronomía,Presencial,Estudiante,Comercio,Nuevo,David Rosales,Loja
+225,2025-05-28,Juanita Diego Mena,F,Loja,Facebook Ads,Técnico,2016,Big Data e Inteligencia de Negocios,Online,Independiente,Industrial,Matriculado,David Rosales,Loja
+226,2025-06-03,Ezequiel Llorente Vila,M,Zamora,Referido,Universitario,2021,Enfermería,Online,Desempleado,Educación,Perdido,Luis Pineda,Loja
+227,2025-05-07,Gonzalo Torrents Hierro,M,Zamora,Referido,Universitario,2022,Desarrollo de Software,Presencial,Empleado,Industrial,Contactado,Luis Pineda,Loja
+228,2025-03-27,Rafaela Tormo Manjón,M,Loja,WhatsApp,Bachiller,2017,Diseño Gráfico,Presencial,Desempleado,Industrial,Nuevo,Luis Pineda,Loja
+229,2025-03-26,Augusto Roig Maldonado,M,Cuenca,Facebook Ads,Técnico,2023,Electrónica,Online,Estudiante,Tecnología,Contactado,David Rosales,Loja
+230,2025-06-16,Teófila Suarez Gracia,F,Cuenca,Página Web,Bachiller,2017,Big Data e Inteligencia de Negocios,Presencial,Desempleado,Industrial,Nuevo,Luis Pineda,Machala
+231,2025-06-01,Josefa Bravo Carbó,M,Guayaquil,WhatsApp,Bachiller,2024,Administración Financiera,Online,Desempleado,Servicios,Nuevo,Luis Pineda,Loja
+232,2025-05-03,Leandro Santos Duque Herrero,M,Guayaquil,Referido,Técnico,2020,Enfermería,Presencial,Empleado,Tecnología,Contactado,María Hidalgo,Loja
+233,2025-03-05,Merche del Salvador,F,Machala,WhatsApp,Técnico,2023,Gastronomía,Presencial,Estudiante,Tecnología,Nuevo,Ana Torres,Loja
+234,2025-09-05,Jennifer Carbó Arellano,F,Quito,Facebook Ads,Bachiller,2016,Administración Financiera,Presencial,Independiente,Tecnología,Contactado,David Rosales,Machala
+235,2025-06-18,Elvira Quintana Izaguirre,M,Guayaquil,WhatsApp,Universitario,2016,Ciberseguridad,Presencial,Desempleado,Industrial,Contactado,Ana Torres,Loja
+236,2025-07-28,Blanca Alemany Huerta,M,Cuenca,Página Web,Bachiller,2016,Enfermería,Online,Estudiante,Servicios,Contactado,Luis Pineda,Machala
+237,2025-07-28,Matías Peñalver Haro,F,Guayaquil,Página Web,Bachiller,2022,Enfermería,Online,Independiente,Salud,Contactado,María Hidalgo,Loja
+238,2025-06-24,Natalia Juliá Calzada,M,Zamora,WhatsApp,Bachiller,2021,Enfermería,Online,Desempleado,Educación,Contactado,Luis Pineda,Loja
+239,2025-07-26,Delfina Anaya Cepeda,F,Guayaquil,WhatsApp,Técnico,2017,Gastronomía,Presencial,Independiente,Industrial,Contactado,David Rosales,Machala
+240,2025-08-29,Lázaro Calzada-Jimenez,M,Zamora,WhatsApp,Técnico,2022,Big Data e Inteligencia de Negocios,Presencial,Desempleado,Tecnología,Perdido,David Rosales,Machala
+241,2025-09-29,Rolando Báez Arcos,M,Machala,Email,Universitario,2024,Electrónica,Online,Independiente,Industrial,Nuevo,Luis Pineda,Machala
+242,2025-08-04,Bárbara Rosalía Garzón Cañas,F,Guayaquil,WhatsApp,Universitario,2019,Gastronomía,Presencial,Desempleado,Tecnología,Contactado,David Rosales,Machala
+243,2025-08-16,Ciriaco Toledo Pino,F,Quito,WhatsApp,Universitario,2018,Diseño Gráfico,Online,Independiente,Industrial,Perdido,Luis Pineda,Loja
+244,2025-08-14,Cloe Guillén Codina,F,Zamora,WhatsApp,Universitario,2016,Administración Financiera,Presencial,Estudiante,Servicios,Contactado,Ana Torres,Loja
+245,2025-08-09,Georgina Escudero-Trujillo,M,Loja,Facebook Ads,Técnico,2024,Big Data e Inteligencia de Negocios,Presencial,Estudiante,Industrial,Nuevo,David Rosales,Loja
+246,2025-04-08,Sonia Gabaldón Linares,F,Zamora,Página Web,Bachiller,2018,Talento Humano,Presencial,Estudiante,Servicios,Nuevo,María Hidalgo,Loja
+247,2025-03-13,Dimas Arribas Tamayo,F,Loja,WhatsApp,Bachiller,2019,Enfermería,Presencial,Empleado,Industrial,Matriculado,María Hidalgo,Machala
+248,2025-09-19,Toño Aller-Duque,F,Quito,Referido,Bachiller,2017,Desarrollo de Software,Presencial,Estudiante,Servicios,Matriculado,María Hidalgo,Loja
+249,2025-08-07,Julia Sacristán Vall,F,Guayaquil,Email,Técnico,2018,Ciberseguridad,Online,Desempleado,Industrial,Nuevo,María Hidalgo,Loja
+250,2025-08-26,Régulo Chaves Aguiló,F,Machala,WhatsApp,Técnico,2023,Gastronomía,Presencial,Desempleado,Tecnología,Contactado,Luis Pineda,Loja
+251,2025-09-12,Ariadna del Carranza,M,Zamora,Página Web,Técnico,2015,Electrónica,Presencial,Independiente,Servicios,Nuevo,Luis Pineda,Machala
+252,2025-09-28,Ambrosio Alfonso,F,Loja,WhatsApp,Técnico,2019,Administración Financiera,Online,Estudiante,Educación,Matriculado,Ana Torres,Loja
+253,2025-07-18,Hilda Corbacho Vara,M,Quito,Facebook Ads,Bachiller,2017,Diseño Gráfico,Presencial,Independiente,Comercio,Contactado,Ana Torres,Machala
+254,2025-08-30,Nacio Mata Fernandez,F,Cuenca,WhatsApp,Bachiller,2024,Electrónica,Presencial,Empleado,Servicios,Perdido,María Hidalgo,Machala
+255,2025-09-12,Oriana de Sainz,M,Machala,Referido,Universitario,2022,Electrónica,Online,Independiente,Servicios,Nuevo,Luis Pineda,Loja
+256,2025-05-30,Juanito Salvà Lobato,F,Machala,WhatsApp,Universitario,2017,Desarrollo de Software,Presencial,Independiente,Industrial,Matriculado,María Hidalgo,Machala
+257,2025-07-21,Marino Elorza Cañellas,M,Zamora,Facebook Ads,Bachiller,2022,Administración Financiera,Presencial,Estudiante,Educación,Matriculado,Luis Pineda,Loja
+258,2025-08-13,Adelia Fernández Osuna,F,Guayaquil,Facebook Ads,Bachiller,2024,Talento Humano,Presencial,Empleado,Industrial,Nuevo,David Rosales,Machala
+259,2025-08-17,Anselmo Nicolau Sáenz,F,Zamora,Página Web,Técnico,2020,Talento Humano,Presencial,Empleado,Tecnología,Nuevo,David Rosales,Machala
+260,2025-08-27,Tito Alcántara Sevilla,F,Cuenca,WhatsApp,Bachiller,2018,Electrónica,Online,Empleado,Tecnología,Matriculado,Ana Torres,Machala
+261,2025-06-02,Teodora del Melero,M,Cuenca,Referido,Bachiller,2018,Enfermería,Online,Empleado,Educación,Matriculado,Ana Torres,Loja
+262,2025-07-02,Flora Montalbán Juliá,M,Cuenca,Referido,Técnico,2021,Administración Financiera,Presencial,Estudiante,Comercio,Perdido,Luis Pineda,Machala
+263,2025-03-17,Daniela de Menendez,F,Quito,Referido,Universitario,2021,Talento Humano,Presencial,Empleado,Salud,Nuevo,Ana Torres,Machala
+264,2025-07-12,Ileana de Calatayud,F,Cuenca,WhatsApp,Bachiller,2021,Enfermería,Online,Desempleado,Servicios,Perdido,Luis Pineda,Loja
+265,2025-07-28,Horacio Sánchez Guzmán,F,Zamora,Referido,Universitario,2016,Big Data e Inteligencia de Negocios,Presencial,Estudiante,Servicios,Nuevo,David Rosales,Loja
+266,2025-06-05,Abraham Conde Rocamora,F,Zamora,Página Web,Universitario,2018,Talento Humano,Presencial,Empleado,Servicios,Contactado,María Hidalgo,Loja
+267,2025-09-10,Anita Flor Arenas,M,Zamora,WhatsApp,Técnico,2023,Electrónica,Presencial,Empleado,Educación,Nuevo,Luis Pineda,Loja
+268,2025-04-08,Domitila Casal,M,Loja,WhatsApp,Bachiller,2015,Diseño Gráfico,Presencial,Desempleado,Comercio,Nuevo,María Hidalgo,Loja
+269,2025-07-31,María Cristina del Navarro,M,Zamora,Referido,Técnico,2023,Enfermería,Presencial,Estudiante,Educación,Matriculado,Luis Pineda,Machala
+270,2025-03-26,Rodrigo Alberto Bauzà Girona,F,Quito,WhatsApp,Técnico,2023,Enfermería,Presencial,Independiente,Servicios,Nuevo,Ana Torres,Machala
+271,2025-07-14,Coral Reyna Porcel Ramos,F,Guayaquil,Email,Bachiller,2015,Talento Humano,Presencial,Estudiante,Servicios,Contactado,Luis Pineda,Machala
+272,2025-07-30,Ibán Noriega-Barragán,F,Cuenca,Facebook Ads,Técnico,2022,Big Data e Inteligencia de Negocios,Presencial,Desempleado,Industrial,Nuevo,Luis Pineda,Machala
+273,2025-07-05,María Manuela del Pozuelo,F,Machala,WhatsApp,Universitario,2021,Desarrollo de Software,Online,Desempleado,Servicios,Nuevo,Luis Pineda,Loja
+274,2025-03-24,Simón Rubio Roldan,F,Machala,Email,Universitario,2020,Electrónica,Online,Desempleado,Tecnología,Nuevo,María Hidalgo,Machala
+275,2025-09-09,Paulina Arnal Chamorro,F,Loja,WhatsApp,Técnico,2023,Electrónica,Online,Estudiante,Comercio,Nuevo,Luis Pineda,Machala
+276,2025-05-21,Bernabé Lalo Alfaro Gilabert,F,Machala,WhatsApp,Universitario,2019,Diseño Gráfico,Presencial,Estudiante,Industrial,Matriculado,Ana Torres,Machala
+277,2025-08-31,Antonio Alcolea Andrade,M,Guayaquil,WhatsApp,Universitario,2023,Desarrollo de Software,Presencial,Estudiante,Industrial,Matriculado,David Rosales,Machala
+278,2025-07-22,Juanita Márquez Tejera,M,Guayaquil,WhatsApp,Bachiller,2024,Administración Financiera,Presencial,Estudiante,Salud,Matriculado,Luis Pineda,Machala
+279,2025-06-14,Humberto Nacho Galan Muñoz,F,Cuenca,WhatsApp,Técnico,2015,Diseño Gráfico,Online,Empleado,Tecnología,Nuevo,Ana Torres,Loja
+280,2025-07-21,Baudelio Saez Girona,M,Zamora,WhatsApp,Universitario,2019,Talento Humano,Presencial,Independiente,Tecnología,Perdido,Luis Pineda,Machala
+281,2025-03-04,Jesús Mateo Armas Casas,M,Cuenca,WhatsApp,Universitario,2017,Big Data e Inteligencia de Negocios,Presencial,Independiente,Educación,Matriculado,Luis Pineda,Loja
+282,2025-04-24,Mirta Granados Teruel,F,Machala,Facebook Ads,Bachiller,2016,Ciberseguridad,Online,Desempleado,Educación,Matriculado,David Rosales,Loja
+283,2025-07-12,Che Vigil,F,Guayaquil,Referido,Bachiller,2018,Desarrollo de Software,Presencial,Empleado,Salud,Matriculado,Ana Torres,Machala
+284,2025-04-06,Rosa María Riquelme Coloma,F,Guayaquil,Página Web,Bachiller,2017,Electrónica,Presencial,Estudiante,Servicios,Matriculado,Luis Pineda,Machala
+285,2025-09-16,Modesta Izquierdo Cepeda,M,Zamora,WhatsApp,Bachiller,2017,Enfermería,Online,Empleado,Comercio,Matriculado,David Rosales,Machala
+286,2025-04-05,Emperatriz Ruano Barroso,M,Cuenca,Página Web,Técnico,2017,Talento Humano,Presencial,Desempleado,Tecnología,Contactado,Luis Pineda,Loja
+287,2025-05-20,Lalo del Salgado,F,Quito,Facebook Ads,Universitario,2015,Electrónica,Online,Desempleado,Industrial,Contactado,Luis Pineda,Loja
+288,2025-09-05,Rosa María Saez Borja,M,Guayaquil,WhatsApp,Universitario,2023,Administración Financiera,Presencial,Empleado,Educación,Nuevo,Luis Pineda,Loja
+289,2025-09-20,Tatiana Herrera Rosell,M,Machala,WhatsApp,Bachiller,2018,Talento Humano,Presencial,Independiente,Educación,Perdido,María Hidalgo,Machala
+290,2025-07-10,Calista de Amores,M,Zamora,WhatsApp,Técnico,2018,Administración Financiera,Presencial,Desempleado,Comercio,Nuevo,María Hidalgo,Loja
+291,2025-03-02,Jose Luis Puig,M,Loja,Página Web,Técnico,2019,Big Data e Inteligencia de Negocios,Presencial,Independiente,Comercio,Matriculado,Ana Torres,Loja
+292,2025-03-21,Telmo Simón Cortina Sainz,F,Machala,Facebook Ads,Técnico,2019,Desarrollo de Software,Online,Desempleado,Industrial,Contactado,David Rosales,Loja
+293,2025-06-14,Sofía Agustín,F,Cuenca,WhatsApp,Bachiller,2017,Ciberseguridad,Online,Independiente,Tecnología,Nuevo,David Rosales,Loja
+294,2025-05-01,Valentín León Batlle,M,Zamora,WhatsApp,Universitario,2020,Big Data e Inteligencia de Negocios,Presencial,Estudiante,Educación,Nuevo,David Rosales,Loja
+295,2025-04-30,Emelina Barros-Mateos,M,Quito,WhatsApp,Bachiller,2016,Gastronomía,Online,Estudiante,Tecnología,Matriculado,David Rosales,Loja
+296,2025-04-22,Germán Garrido Carpio,M,Cuenca,WhatsApp,Bachiller,2018,Talento Humano,Presencial,Empleado,Salud,Contactado,Ana Torres,Machala
+297,2025-07-03,María Teresa de Contreras,M,Machala,WhatsApp,Técnico,2016,Diseño Gráfico,Presencial,Independiente,Industrial,Contactado,Luis Pineda,Loja
+298,2025-05-08,Jesusa Andrés Merino,M,Zamora,WhatsApp,Universitario,2018,Talento Humano,Presencial,Desempleado,Servicios,Matriculado,Luis Pineda,Machala
+299,2025-07-28,Edmundo Clemente Cobos,M,Zamora,WhatsApp,Universitario,2015,Talento Humano,Presencial,Desempleado,Salud,Perdido,David Rosales,Machala
+300,2025-03-09,Darío Omar Marin Almansa,F,Loja,Facebook Ads,Universitario,2021,Desarrollo de Software,Online,Estudiante,Tecnología,Nuevo,Ana Torres,Loja
+301,2025-08-14,Ezequiel Torrecilla Fonseca,F,Guayaquil,Facebook Ads,Técnico,2022,Electrónica,Online,Estudiante,Salud,Contactado,Ana Torres,Loja
+302,2025-09-28,Félix Maza Orozco,M,Machala,Página Web,Bachiller,2017,Ciberseguridad,Presencial,Desempleado,Educación,Nuevo,Ana Torres,Machala
+303,2025-09-13,Amalia Contreras Alba,M,Cuenca,WhatsApp,Universitario,2024,Talento Humano,Presencial,Estudiante,Comercio,Nuevo,Luis Pineda,Machala
+304,2025-06-01,Nadia Sala Casals,F,Machala,Página Web,Universitario,2020,Electrónica,Presencial,Estudiante,Educación,Matriculado,María Hidalgo,Loja
+305,2025-06-02,Vidal Bosch Sans,M,Loja,Facebook Ads,Universitario,2024,Diseño Gráfico,Presencial,Independiente,Salud,Nuevo,Luis Pineda,Loja
+306,2025-07-29,Lucas Carrillo Arjona,F,Cuenca,WhatsApp,Técnico,2023,Administración Financiera,Presencial,Estudiante,Comercio,Contactado,Luis Pineda,Loja
+307,2025-05-27,Toni Pintor Yuste,F,Zamora,Página Web,Técnico,2016,Administración Financiera,Presencial,Estudiante,Educación,Matriculado,Luis Pineda,Loja
+308,2025-05-14,Modesta del Viana,F,Zamora,Facebook Ads,Universitario,2023,Big Data e Inteligencia de Negocios,Online,Independiente,Industrial,Perdido,María Hidalgo,Machala
+309,2025-03-23,Lupita Mariscal Miguel,M,Zamora,Facebook Ads,Bachiller,2016,Enfermería,Online,Desempleado,Educación,Nuevo,Ana Torres,Loja
+310,2025-04-03,Paula Sáenz Mata,M,Quito,Facebook Ads,Bachiller,2022,Ciberseguridad,Online,Independiente,Salud,Contactado,Ana Torres,Machala
+311,2025-08-16,Juan Antonio Corbacho-Cabrera,M,Loja,Página Web,Bachiller,2016,Enfermería,Presencial,Desempleado,Salud,Matriculado,David Rosales,Loja
+312,2025-09-10,Imelda Expósito Ribera,M,Guayaquil,Facebook Ads,Universitario,2017,Gastronomía,Presencial,Estudiante,Comercio,Matriculado,Ana Torres,Loja
+313,2025-07-05,Mohamed Escolano Aragonés,M,Loja,Página Web,Universitario,2018,Gastronomía,Presencial,Empleado,Industrial,Perdido,David Rosales,Loja
+314,2025-09-14,Leyre Montserrat Cárdenas,M,Machala,Página Web,Bachiller,2023,Ciberseguridad,Presencial,Independiente,Comercio,Nuevo,Luis Pineda,Loja
+315,2025-05-31,Serafina Baños Novoa,F,Guayaquil,WhatsApp,Técnico,2021,Gastronomía,Online,Independiente,Comercio,Contactado,Ana Torres,Machala
+316,2025-03-15,Amancio Carvajal Aroca,M,Cuenca,WhatsApp,Universitario,2019,Desarrollo de Software,Presencial,Desempleado,Tecnología,Perdido,Ana Torres,Machala
+317,2025-07-24,Concepción Llopis Aguilar,F,Guayaquil,WhatsApp,Universitario,2019,Talento Humano,Online,Empleado,Educación,Contactado,David Rosales,Loja
+318,2025-08-29,Octavio Barral Valentín,M,Zamora,Página Web,Bachiller,2018,Gastronomía,Presencial,Desempleado,Tecnología,Nuevo,Ana Torres,Machala
+319,2025-04-24,Chuy Larrañaga,M,Loja,WhatsApp,Universitario,2016,Electrónica,Presencial,Estudiante,Comercio,Nuevo,David Rosales,Machala
+320,2025-03-30,Amílcar Arana Gordillo,F,Cuenca,Página Web,Universitario,2019,Electrónica,Presencial,Desempleado,Tecnología,Nuevo,Luis Pineda,Loja
+321,2025-05-28,Ciro Zorrilla Padilla,F,Guayaquil,WhatsApp,Universitario,2024,Desarrollo de Software,Presencial,Desempleado,Industrial,Nuevo,David Rosales,Loja
+322,2025-06-30,Jerónimo Madrigal-Mariño,F,Loja,Facebook Ads,Universitario,2022,Gastronomía,Presencial,Desempleado,Servicios,Contactado,Ana Torres,Loja
+323,2025-06-20,Fabiola Azucena Collado Otero,F,Cuenca,WhatsApp,Universitario,2024,Gastronomía,Online,Independiente,Servicios,Perdido,Luis Pineda,Loja
+324,2025-06-30,Andrés Sarmiento Terrón,M,Zamora,Página Web,Universitario,2018,Big Data e Inteligencia de Negocios,Presencial,Desempleado,Tecnología,Nuevo,Luis Pineda,Loja
+325,2025-06-24,Paco Ferrera Balaguer,F,Quito,WhatsApp,Bachiller,2016,Ciberseguridad,Presencial,Desempleado,Servicios,Matriculado,María Hidalgo,Machala
+326,2025-03-13,Onofre de Diez,F,Loja,Facebook Ads,Bachiller,2020,Ciberseguridad,Presencial,Independiente,Educación,Nuevo,David Rosales,Loja
+327,2025-05-17,Natalia Camino-Villalba,M,Zamora,Facebook Ads,Bachiller,2019,Enfermería,Presencial,Estudiante,Salud,Matriculado,David Rosales,Machala
+328,2025-05-02,Jerónimo Millán Benitez,F,Quito,WhatsApp,Universitario,2015,Administración Financiera,Presencial,Desempleado,Tecnología,Nuevo,David Rosales,Loja
+329,2025-03-25,Ligia Ariño-Cano,M,Loja,Referido,Bachiller,2020,Big Data e Inteligencia de Negocios,Presencial,Empleado,Tecnología,Nuevo,David Rosales,Loja
+330,2025-06-22,Leandro Garzón García,M,Cuenca,WhatsApp,Bachiller,2024,Desarrollo de Software,Online,Empleado,Educación,Nuevo,Ana Torres,Loja
+331,2025-06-16,Arturo Manzano Sanjuan,M,Cuenca,WhatsApp,Bachiller,2019,Electrónica,Presencial,Empleado,Industrial,Contactado,María Hidalgo,Machala
+332,2025-09-19,Edelmiro Bonifacio Crespi Maldonado,M,Guayaquil,Referido,Universitario,2018,Big Data e Inteligencia de Negocios,Presencial,Empleado,Educación,Perdido,David Rosales,Loja
+333,2025-08-18,Melchor Hurtado-Roig,F,Loja,WhatsApp,Técnico,2018,Talento Humano,Online,Independiente,Servicios,Contactado,Luis Pineda,Loja
+334,2025-06-24,Valentín Palacio Abad,F,Quito,Referido,Bachiller,2018,Gastronomía,Presencial,Independiente,Educación,Nuevo,Ana Torres,Machala
+335,2025-07-08,Belen Narcisa Perera Aguilera,F,Zamora,WhatsApp,Bachiller,2024,Enfermería,Presencial,Independiente,Salud,Matriculado,Luis Pineda,Machala
+336,2025-06-08,Juan Francisco de Catalá,M,Cuenca,WhatsApp,Universitario,2018,Enfermería,Online,Independiente,Salud,Nuevo,Ana Torres,Machala
+337,2025-08-10,Francisco Jose Lopez Oliver,M,Zamora,WhatsApp,Bachiller,2018,Electrónica,Presencial,Estudiante,Comercio,Nuevo,Ana Torres,Loja
+338,2025-07-22,Anselmo Alsina Peralta,M,Quito,Email,Técnico,2023,Diseño Gráfico,Presencial,Estudiante,Servicios,Nuevo,David Rosales,Loja
+339,2025-09-07,Loida Checa Guillen,M,Quito,WhatsApp,Técnico,2024,Electrónica,Presencial,Desempleado,Salud,Contactado,María Hidalgo,Loja
+340,2025-09-26,Almudena Barón,M,Guayaquil,Página Web,Universitario,2019,Gastronomía,Presencial,Estudiante,Educación,Contactado,David Rosales,Loja
+341,2025-04-08,Dionisia del Gaya,F,Quito,Facebook Ads,Bachiller,2017,Enfermería,Presencial,Desempleado,Salud,Contactado,María Hidalgo,Loja
+342,2025-08-29,Aura Rosa-Paz,M,Loja,WhatsApp,Técnico,2022,Talento Humano,Presencial,Desempleado,Salud,Contactado,Ana Torres,Machala
+343,2025-09-11,Nicanor Pinilla Cueto,M,Guayaquil,WhatsApp,Técnico,2020,Enfermería,Presencial,Estudiante,Salud,Nuevo,Ana Torres,Loja
+344,2025-07-18,Elba Cordero-Marín,M,Loja,WhatsApp,Técnico,2018,Ciberseguridad,Online,Desempleado,Industrial,Nuevo,David Rosales,Loja
+345,2025-06-15,Araceli Millán Valcárcel,M,Machala,Referido,Bachiller,2018,Diseño Gráfico,Online,Independiente,Servicios,Matriculado,María Hidalgo,Loja
+346,2025-09-16,Vidal Pelayo Flores,F,Cuenca,WhatsApp,Técnico,2020,Desarrollo de Software,Presencial,Estudiante,Industrial,Matriculado,María Hidalgo,Loja
+347,2025-05-04,Leonardo Cid Almazán,M,Quito,Facebook Ads,Universitario,2022,Administración Financiera,Presencial,Desempleado,Servicios,Nuevo,Luis Pineda,Machala
+348,2025-08-08,Óscar Olivera Díaz,F,Guayaquil,Facebook Ads,Universitario,2017,Desarrollo de Software,Presencial,Independiente,Servicios,Contactado,David Rosales,Machala
+349,2025-07-05,Luciana Pou Guitart,F,Zamora,Referido,Técnico,2018,Desarrollo de Software,Presencial,Estudiante,Servicios,Matriculado,María Hidalgo,Machala
+350,2025-05-19,Hernando Lastra Bayona,F,Guayaquil,Página Web,Bachiller,2017,Electrónica,Presencial,Independiente,Tecnología,Perdido,María Hidalgo,Machala
+351,2025-09-07,Heriberto Escolano Garzón,F,Cuenca,Email,Universitario,2024,Big Data e Inteligencia de Negocios,Presencial,Desempleado,Servicios,Contactado,Ana Torres,Loja
+352,2025-09-14,Jordi Escribano-Sandoval,M,Loja,WhatsApp,Universitario,2020,Talento Humano,Presencial,Estudiante,Educación,Perdido,David Rosales,Loja
+353,2025-04-03,Saturnina Cabeza Martin,F,Zamora,Referido,Técnico,2017,Administración Financiera,Presencial,Estudiante,Salud,Contactado,Luis Pineda,Machala
+354,2025-08-25,Fernando Cadenas,M,Zamora,WhatsApp,Universitario,2019,Ciberseguridad,Presencial,Desempleado,Tecnología,Nuevo,Luis Pineda,Loja
+355,2025-08-22,Roberta del Castro,M,Guayaquil,Facebook Ads,Bachiller,2024,Diseño Gráfico,Presencial,Empleado,Tecnología,Nuevo,Ana Torres,Loja
+356,2025-05-19,Urbano del Bas,F,Machala,Referido,Bachiller,2015,Big Data e Inteligencia de Negocios,Presencial,Estudiante,Tecnología,Contactado,David Rosales,Loja
+357,2025-09-24,María Pilar Quirós Tomas,F,Machala,Referido,Bachiller,2017,Ciberseguridad,Online,Empleado,Servicios,Contactado,María Hidalgo,Loja
+358,2025-05-28,Joan Macias Conesa,F,Machala,Página Web,Bachiller,2022,Administración Financiera,Presencial,Desempleado,Educación,Contactado,Luis Pineda,Machala
+359,2025-03-02,Dolores Mínguez-Blanco,F,Loja,Página Web,Técnico,2015,Enfermería,Online,Estudiante,Comercio,Contactado,Luis Pineda,Machala
+360,2025-09-07,Alejo Santamaría,F,Quito,WhatsApp,Universitario,2023,Enfermería,Presencial,Empleado,Comercio,Nuevo,Ana Torres,Loja
+361,2025-05-08,Nacio Santos Falcón,F,Machala,Facebook Ads,Universitario,2016,Big Data e Inteligencia de Negocios,Presencial,Estudiante,Servicios,Matriculado,María Hidalgo,Machala
+362,2025-07-15,Salud Carbonell Aguiló,F,Zamora,Facebook Ads,Técnico,2018,Administración Financiera,Presencial,Independiente,Servicios,Nuevo,David Rosales,Loja
+363,2025-08-01,Marcela Larrañaga Estévez,M,Cuenca,Email,Técnico,2021,Enfermería,Online,Estudiante,Salud,Perdido,Ana Torres,Loja
+364,2025-06-11,Vera Redondo-Bermejo,F,Machala,Facebook Ads,Técnico,2015,Desarrollo de Software,Online,Empleado,Educación,Contactado,Luis Pineda,Loja
+365,2025-08-30,Juan José Guardia Bravo,F,Machala,WhatsApp,Universitario,2022,Diseño Gráfico,Presencial,Independiente,Tecnología,Matriculado,María Hidalgo,Machala
+366,2025-07-29,Nerea Sanchez-Miralles,F,Loja,WhatsApp,Bachiller,2023,Electrónica,Presencial,Independiente,Educación,Nuevo,Ana Torres,Machala
+367,2025-06-13,Hilda Osuna Cáceres,F,Cuenca,Facebook Ads,Técnico,2022,Ciberseguridad,Presencial,Empleado,Comercio,Matriculado,Luis Pineda,Machala
+368,2025-06-30,Bruno de Corominas,M,Machala,Página Web,Universitario,2022,Big Data e Inteligencia de Negocios,Online,Independiente,Salud,Contactado,Luis Pineda,Machala
+369,2025-03-23,Cipriano Morillo Corominas,M,Machala,Página Web,Técnico,2019,Administración Financiera,Presencial,Desempleado,Servicios,Nuevo,Ana Torres,Machala
+370,2025-06-03,Iván Mariño Arjona,F,Quito,WhatsApp,Bachiller,2019,Electrónica,Presencial,Empleado,Salud,Matriculado,Luis Pineda,Machala
+371,2025-09-13,Nydia Cecilia Alcalde Cabrero,M,Guayaquil,Página Web,Universitario,2015,Diseño Gráfico,Presencial,Estudiante,Salud,Matriculado,María Hidalgo,Loja
+372,2025-04-09,Salomé Salazar Sáez,M,Machala,Facebook Ads,Universitario,2020,Big Data e Inteligencia de Negocios,Online,Desempleado,Educación,Nuevo,Ana Torres,Loja
+373,2025-04-09,Odalis Zorrilla Rosales,F,Cuenca,Facebook Ads,Técnico,2015,Talento Humano,Presencial,Independiente,Servicios,Contactado,María Hidalgo,Loja
+374,2025-06-09,Raúl de Duque,F,Quito,WhatsApp,Universitario,2024,Talento Humano,Presencial,Independiente,Tecnología,Perdido,Luis Pineda,Loja
+375,2025-08-18,José Manuel de Bermejo,M,Machala,Facebook Ads,Universitario,2022,Big Data e Inteligencia de Negocios,Presencial,Desempleado,Servicios,Perdido,Ana Torres,Loja
+376,2025-09-28,Marisa Olivera Sevillano,F,Machala,Referido,Universitario,2016,Administración Financiera,Presencial,Desempleado,Tecnología,Contactado,Ana Torres,Loja
+377,2025-03-30,Raquel Mayo Toro,F,Guayaquil,WhatsApp,Técnico,2021,Enfermería,Online,Estudiante,Tecnología,Contactado,Luis Pineda,Loja
+378,2025-05-07,Alexandra Verdugo Hervás,M,Machala,WhatsApp,Universitario,2018,Gastronomía,Online,Estudiante,Comercio,Nuevo,Ana Torres,Loja
+379,2025-07-08,Vinicio Castell Solé,F,Quito,WhatsApp,Bachiller,2016,Diseño Gráfico,Presencial,Empleado,Tecnología,Perdido,María Hidalgo,Loja
+380,2025-04-04,Carlos Caballero,F,Machala,WhatsApp,Bachiller,2018,Desarrollo de Software,Presencial,Independiente,Comercio,Matriculado,David Rosales,Loja
+381,2025-07-28,Valerio Barriga-Maza,F,Guayaquil,Página Web,Técnico,2016,Electrónica,Presencial,Estudiante,Educación,Perdido,David Rosales,Machala
+382,2025-07-28,Marita Carbajo Oliveras,F,Quito,Página Web,Técnico,2016,Ciberseguridad,Presencial,Independiente,Tecnología,Contactado,David Rosales,Machala
+383,2025-03-03,Javi Ochoa-Jordá,M,Guayaquil,WhatsApp,Bachiller,2015,Electrónica,Online,Empleado,Industrial,Matriculado,María Hidalgo,Machala
+384,2025-09-08,Rosalva del Pascual,M,Zamora,WhatsApp,Bachiller,2021,Enfermería,Presencial,Estudiante,Servicios,Matriculado,Luis Pineda,Loja
+385,2025-05-13,Lara Jesusa Miguel Sales,M,Quito,Facebook Ads,Bachiller,2018,Ciberseguridad,Presencial,Independiente,Servicios,Contactado,Ana Torres,Machala
+386,2025-08-19,Ramiro Barral Company,M,Quito,Facebook Ads,Bachiller,2021,Diseño Gráfico,Presencial,Desempleado,Comercio,Contactado,David Rosales,Loja
+387,2025-03-09,Ildefonso Barbero Cortina,M,Zamora,WhatsApp,Bachiller,2022,Diseño Gráfico,Presencial,Empleado,Salud,Perdido,David Rosales,Loja
+388,2025-03-26,Lucas Morell Alemán,M,Guayaquil,WhatsApp,Universitario,2018,Big Data e Inteligencia de Negocios,Online,Independiente,Industrial,Contactado,María Hidalgo,Machala
+389,2025-07-10,Fausto Alex Arregui Osuna,F,Zamora,Facebook Ads,Universitario,2022,Gastronomía,Presencial,Empleado,Educación,Nuevo,Ana Torres,Loja
+390,2025-08-24,Amador Galindo Nevado,M,Loja,WhatsApp,Técnico,2016,Ciberseguridad,Presencial,Desempleado,Educación,Contactado,María Hidalgo,Machala
+391,2025-09-28,Leopoldo Bolaños Revilla,M,Cuenca,Facebook Ads,Universitario,2018,Administración Financiera,Presencial,Estudiante,Servicios,Matriculado,María Hidalgo,Loja
+392,2025-06-27,Olga Ortuño Hernandez,M,Loja,WhatsApp,Bachiller,2017,Big Data e Inteligencia de Negocios,Online,Estudiante,Comercio,Nuevo,Ana Torres,Machala
+393,2025-03-13,Judith Sobrino Bou,F,Guayaquil,WhatsApp,Técnico,2024,Electrónica,Presencial,Estudiante,Comercio,Matriculado,Ana Torres,Loja
+394,2025-03-27,Félix Cabeza Juliá,F,Machala,WhatsApp,Técnico,2021,Ciberseguridad,Presencial,Estudiante,Servicios,Matriculado,María Hidalgo,Machala
+395,2025-04-18,Leonor de Alberdi,M,Zamora,Facebook Ads,Universitario,2023,Administración Financiera,Presencial,Independiente,Educación,Contactado,Luis Pineda,Machala
+396,2025-05-23,Manu Almagro Rey,M,Quito,Referido,Universitario,2022,Desarrollo de Software,Presencial,Empleado,Educación,Nuevo,Ana Torres,Loja
+397,2025-05-29,Julie Feliu Cases,M,Quito,Facebook Ads,Bachiller,2016,Desarrollo de Software,Online,Empleado,Industrial,Matriculado,Luis Pineda,Machala
+398,2025-06-21,Hilda Pedrosa Soria,M,Cuenca,WhatsApp,Técnico,2018,Gastronomía,Presencial,Desempleado,Tecnología,Matriculado,Luis Pineda,Loja
+399,2025-03-07,Lucía Elba Lluch Pedrosa,F,Zamora,Facebook Ads,Bachiller,2017,Talento Humano,Presencial,Desempleado,Tecnología,Matriculado,Luis Pineda,Loja
+400,2025-05-04,Marcelino Mauricio Granados Pedro,F,Zamora,Referido,Bachiller,2017,Enfermería,Presencial,Desempleado,Educación,Perdido,María Hidalgo,Loja
+401,2025-09-23,Beatriz Acedo Quintero,M,Cuenca,Página Web,Técnico,2017,Desarrollo de Software,Presencial,Empleado,Tecnología,Matriculado,David Rosales,Loja
+402,2025-03-09,Andrés Felipe Santos Sáez,M,Quito,WhatsApp,Bachiller,2019,Big Data e Inteligencia de Negocios,Presencial,Estudiante,Salud,Contactado,David Rosales,Loja
+403,2025-03-25,Valentín Nazario Solera Pons,F,Quito,Facebook Ads,Técnico,2024,Enfermería,Online,Desempleado,Industrial,Contactado,Luis Pineda,Loja
+404,2025-06-29,Graciano Bellido Abril,F,Cuenca,Referido,Técnico,2021,Diseño Gráfico,Presencial,Desempleado,Tecnología,Matriculado,Luis Pineda,Machala
+405,2025-04-24,Renato Colomer Romero,F,Loja,WhatsApp,Técnico,2019,Gastronomía,Online,Independiente,Educación,Contactado,Ana Torres,Loja
+406,2025-09-17,Juliana Vera-Marquez,M,Machala,Referido,Técnico,2019,Desarrollo de Software,Presencial,Desempleado,Educación,Matriculado,Luis Pineda,Loja
+407,2025-04-02,Ileana Miranda Lozano,F,Quito,WhatsApp,Bachiller,2020,Ciberseguridad,Presencial,Independiente,Servicios,Nuevo,María Hidalgo,Loja
+408,2025-07-05,Gema del Redondo,F,Zamora,Facebook Ads,Técnico,2020,Talento Humano,Presencial,Estudiante,Salud,Nuevo,Ana Torres,Machala
+409,2025-08-26,Leocadia Vergara Díaz,M,Machala,Página Web,Técnico,2018,Desarrollo de Software,Presencial,Empleado,Salud,Nuevo,David Rosales,Loja
+410,2025-09-24,Augusto Mauricio Frutos Olmo,M,Machala,Facebook Ads,Bachiller,2016,Gastronomía,Online,Estudiante,Industrial,Nuevo,Luis Pineda,Loja
+411,2025-07-07,Anna Visitación Mayoral Luque,F,Cuenca,WhatsApp,Bachiller,2016,Diseño Gráfico,Presencial,Estudiante,Tecnología,Contactado,Ana Torres,Loja
+412,2025-05-20,Celestina Bru Bonilla,M,Machala,WhatsApp,Técnico,2023,Big Data e Inteligencia de Negocios,Online,Empleado,Industrial,Nuevo,Luis Pineda,Loja
+413,2025-08-05,Regina Rivero Pascual,M,Loja,WhatsApp,Bachiller,2016,Electrónica,Presencial,Independiente,Comercio,Nuevo,Luis Pineda,Machala
+414,2025-08-03,Luz Guardiola Montaña,F,Machala,WhatsApp,Bachiller,2023,Diseño Gráfico,Presencial,Desempleado,Servicios,Contactado,María Hidalgo,Loja
+415,2025-09-07,Maximiliano Noriega-Corral,M,Cuenca,WhatsApp,Universitario,2021,Talento Humano,Presencial,Independiente,Salud,Perdido,Ana Torres,Loja
+416,2025-04-22,Moreno Exposito Leal,M,Cuenca,Referido,Universitario,2024,Diseño Gráfico,Presencial,Desempleado,Industrial,Perdido,David Rosales,Loja
+417,2025-08-05,Zacarías Morera Ferrer,M,Guayaquil,Página Web,Bachiller,2024,Enfermería,Presencial,Desempleado,Salud,Nuevo,Ana Torres,Loja
+418,2025-04-07,Juan Luis Andreu Girón,F,Zamora,WhatsApp,Bachiller,2020,Gastronomía,Presencial,Estudiante,Industrial,Matriculado,David Rosales,Machala
+419,2025-04-03,Nicanor Pagès Mur,M,Machala,Facebook Ads,Universitario,2023,Ciberseguridad,Presencial,Empleado,Servicios,Matriculado,Ana Torres,Loja
+420,2025-04-23,Eli Gabaldón Suarez,F,Guayaquil,Referido,Universitario,2017,Enfermería,Online,Independiente,Salud,Matriculado,Luis Pineda,Machala
+421,2025-04-10,Cirino Godoy-Hidalgo,M,Loja,Email,Técnico,2015,Ciberseguridad,Presencial,Empleado,Industrial,Nuevo,María Hidalgo,Machala
+422,2025-06-03,Ignacia Palacio Luís,M,Cuenca,WhatsApp,Universitario,2020,Enfermería,Presencial,Desempleado,Comercio,Matriculado,Luis Pineda,Loja
+423,2025-06-21,Leocadio Barriga Sanmiguel,M,Machala,WhatsApp,Universitario,2015,Desarrollo de Software,Presencial,Desempleado,Servicios,Matriculado,Luis Pineda,Machala
+424,2025-05-14,Eduardo Querol Almazán,F,Guayaquil,WhatsApp,Técnico,2015,Big Data e Inteligencia de Negocios,Presencial,Empleado,Tecnología,Nuevo,María Hidalgo,Machala
+425,2025-04-01,Celestina Tirado Cámara,M,Quito,WhatsApp,Técnico,2016,Diseño Gráfico,Online,Empleado,Tecnología,Nuevo,Luis Pineda,Loja
+426,2025-04-11,Bienvenida Pombo Herrero,F,Loja,WhatsApp,Técnico,2018,Enfermería,Presencial,Independiente,Educación,Nuevo,Ana Torres,Loja
+427,2025-09-23,Febe Ignacia Losada Jove,F,Loja,WhatsApp,Bachiller,2021,Diseño Gráfico,Online,Empleado,Servicios,Nuevo,María Hidalgo,Machala
+428,2025-08-07,Lucila Bermejo Guitart,F,Loja,WhatsApp,Universitario,2015,Administración Financiera,Online,Desempleado,Tecnología,Nuevo,Luis Pineda,Machala
+429,2025-07-06,Eugenia Teruel Cobo,M,Quito,WhatsApp,Universitario,2017,Diseño Gráfico,Presencial,Desempleado,Servicios,Contactado,David Rosales,Loja
+430,2025-07-22,Fidela Guzmán Blanch,F,Machala,Página Web,Técnico,2015,Desarrollo de Software,Presencial,Independiente,Comercio,Nuevo,María Hidalgo,Loja
+431,2025-06-29,Emma Solís Peñas,M,Guayaquil,Facebook Ads,Universitario,2015,Desarrollo de Software,Presencial,Independiente,Industrial,Contactado,María Hidalgo,Machala
+432,2025-05-05,Fátima Juan Arias,F,Loja,WhatsApp,Técnico,2018,Administración Financiera,Presencial,Independiente,Industrial,Contactado,David Rosales,Loja
+433,2025-03-27,Lorenza Herranz Gascón,M,Machala,Email,Técnico,2022,Enfermería,Online,Desempleado,Educación,Contactado,María Hidalgo,Machala
+434,2025-03-24,Ágata Taboada-Pascual,M,Machala,Referido,Bachiller,2024,Enfermería,Online,Desempleado,Tecnología,Matriculado,María Hidalgo,Loja
+435,2025-03-08,Lupita Machado-Paniagua,F,Loja,Referido,Bachiller,2019,Talento Humano,Online,Estudiante,Salud,Nuevo,Luis Pineda,Machala
+436,2025-08-27,Guadalupe Ángel Albero,M,Zamora,WhatsApp,Bachiller,2021,Desarrollo de Software,Online,Estudiante,Educación,Contactado,María Hidalgo,Machala
+437,2025-09-03,Amaro Elías Arco,M,Quito,Página Web,Universitario,2016,Diseño Gráfico,Online,Empleado,Comercio,Nuevo,Luis Pineda,Loja
+438,2025-09-10,Moisés Otero Marqués,M,Cuenca,WhatsApp,Técnico,2019,Talento Humano,Presencial,Independiente,Servicios,Perdido,María Hidalgo,Machala
+439,2025-08-14,Rosalinda Diego Cantero,M,Guayaquil,Página Web,Técnico,2022,Ciberseguridad,Presencial,Independiente,Servicios,Nuevo,María Hidalgo,Machala
+440,2025-05-02,Marianela Talavera Solera,M,Zamora,WhatsApp,Bachiller,2023,Desarrollo de Software,Presencial,Independiente,Industrial,Matriculado,David Rosales,Loja
+441,2025-08-14,Ernesto Barreda Huguet,M,Zamora,Facebook Ads,Técnico,2023,Electrónica,Presencial,Independiente,Comercio,Contactado,David Rosales,Machala
+442,2025-09-22,Maristela Esteban Vilaplana,M,Guayaquil,WhatsApp,Bachiller,2019,Talento Humano,Presencial,Desempleado,Tecnología,Nuevo,María Hidalgo,Loja
+443,2025-05-26,Bernarda Cañellas Mármol,F,Cuenca,Email,Universitario,2019,Enfermería,Presencial,Desempleado,Salud,Perdido,Ana Torres,Loja
+444,2025-04-02,Paulina Ángel Cerro,M,Quito,Página Web,Bachiller,2023,Ciberseguridad,Presencial,Independiente,Salud,Matriculado,Luis Pineda,Loja
+445,2025-05-02,Faustino Vendrell,F,Zamora,Facebook Ads,Bachiller,2023,Administración Financiera,Presencial,Estudiante,Educación,Contactado,David Rosales,Machala
+446,2025-04-22,Artemio Almagro Palomo,F,Guayaquil,WhatsApp,Universitario,2022,Gastronomía,Online,Independiente,Educación,Nuevo,María Hidalgo,Machala
+447,2025-07-21,Félix Diego,M,Quito,Facebook Ads,Universitario,2015,Gastronomía,Presencial,Desempleado,Industrial,Matriculado,María Hidalgo,Machala
+448,2025-09-05,Merche Posada Correa,M,Loja,Facebook Ads,Bachiller,2017,Big Data e Inteligencia de Negocios,Presencial,Independiente,Comercio,Nuevo,Ana Torres,Loja
+449,2025-06-26,Juan Bautista Malo,M,Zamora,WhatsApp,Universitario,2017,Enfermería,Presencial,Desempleado,Tecnología,Matriculado,Luis Pineda,Loja
+450,2025-08-26,Marcos Pellicer Romeu,F,Machala,WhatsApp,Universitario,2021,Big Data e Inteligencia de Negocios,Online,Empleado,Comercio,Contactado,María Hidalgo,Loja
+451,2025-06-21,Valentín de Mateo,M,Guayaquil,Email,Técnico,2017,Talento Humano,Online,Empleado,Salud,Nuevo,David Rosales,Machala
+452,2025-04-09,Dalila Arcelia Palomino Piña,F,Loja,WhatsApp,Bachiller,2018,Enfermería,Presencial,Desempleado,Salud,Contactado,Ana Torres,Machala
+453,2025-07-19,Heriberto Castejón Bilbao,F,Loja,Email,Bachiller,2022,Desarrollo de Software,Presencial,Desempleado,Salud,Contactado,Ana Torres,Loja
+454,2025-07-04,Rodrigo Cabanillas Peral,M,Machala,Facebook Ads,Bachiller,2015,Diseño Gráfico,Online,Estudiante,Industrial,Nuevo,David Rosales,Machala
+455,2025-09-25,Corona Mulet Ripoll,M,Machala,WhatsApp,Técnico,2023,Ciberseguridad,Presencial,Desempleado,Tecnología,Nuevo,María Hidalgo,Loja
+456,2025-03-13,Lucas Sarabia Vega,F,Quito,WhatsApp,Universitario,2021,Electrónica,Presencial,Estudiante,Tecnología,Matriculado,María Hidalgo,Loja
+457,2025-07-20,Leonardo Izquierdo Rosado,F,Cuenca,Email,Bachiller,2023,Enfermería,Presencial,Empleado,Salud,Contactado,María Hidalgo,Machala
+458,2025-09-02,Sigfrido Elías Ortuño,M,Guayaquil,Página Web,Bachiller,2019,Big Data e Inteligencia de Negocios,Presencial,Empleado,Educación,Matriculado,María Hidalgo,Loja
+459,2025-05-06,Pepito Prats-Tormo,M,Loja,Facebook Ads,Universitario,2017,Ciberseguridad,Online,Independiente,Tecnología,Contactado,David Rosales,Machala
+460,2025-05-13,Elisa Giralt,F,Quito,WhatsApp,Bachiller,2020,Desarrollo de Software,Presencial,Independiente,Educación,Nuevo,María Hidalgo,Loja
+461,2025-08-03,Seve Colomer Iriarte,M,Machala,Facebook Ads,Bachiller,2019,Ciberseguridad,Presencial,Estudiante,Educación,Matriculado,Luis Pineda,Loja
+462,2025-08-02,Domitila Blazquez,M,Zamora,Facebook Ads,Bachiller,2021,Enfermería,Presencial,Estudiante,Tecnología,Matriculado,David Rosales,Loja
+463,2025-09-16,Pascuala Roselló Bustamante,M,Machala,Facebook Ads,Universitario,2016,Desarrollo de Software,Presencial,Independiente,Tecnología,Nuevo,María Hidalgo,Loja
+464,2025-03-12,Che Prats Chaves,M,Guayaquil,Facebook Ads,Técnico,2020,Administración Financiera,Presencial,Empleado,Salud,Matriculado,Ana Torres,Loja
+465,2025-08-30,Prudencia Chaparro Moya,M,Zamora,WhatsApp,Universitario,2023,Electrónica,Presencial,Independiente,Salud,Nuevo,Luis Pineda,Loja
+466,2025-09-21,Zoraida Mosquera Carrera,F,Zamora,Email,Bachiller,2022,Administración Financiera,Presencial,Empleado,Comercio,Contactado,David Rosales,Loja
+467,2025-05-02,Rolando Boix-Pons,M,Quito,Facebook Ads,Técnico,2015,Electrónica,Online,Empleado,Educación,Nuevo,María Hidalgo,Machala
+468,2025-04-28,Juan Manuel Iglesia Pla,M,Zamora,Email,Bachiller,2015,Diseño Gráfico,Presencial,Independiente,Salud,Nuevo,María Hidalgo,Machala
+469,2025-06-30,María Barrena-Contreras,M,Cuenca,Facebook Ads,Técnico,2015,Enfermería,Online,Estudiante,Tecnología,Nuevo,Luis Pineda,Loja
+470,2025-04-25,Rosalinda Páez Gómez,M,Machala,Página Web,Bachiller,2021,Ciberseguridad,Presencial,Empleado,Comercio,Nuevo,Ana Torres,Machala
+471,2025-09-27,Prudencio Vilaplana Manjón,F,Guayaquil,WhatsApp,Técnico,2016,Electrónica,Online,Desempleado,Salud,Perdido,María Hidalgo,Loja
+472,2025-07-16,Plácido Villena Barrio,M,Guayaquil,Página Web,Bachiller,2015,Talento Humano,Online,Empleado,Educación,Contactado,David Rosales,Loja
+473,2025-05-24,Norberto Iñiguez Parejo,M,Quito,Página Web,Universitario,2023,Diseño Gráfico,Presencial,Independiente,Tecnología,Matriculado,Luis Pineda,Machala
+474,2025-09-23,Óscar Vaquero-Planas,M,Quito,WhatsApp,Bachiller,2023,Diseño Gráfico,Online,Empleado,Comercio,Perdido,María Hidalgo,Machala
+475,2025-07-09,Agapito Tirado Carbonell,M,Quito,Página Web,Bachiller,2021,Electrónica,Online,Desempleado,Salud,Matriculado,Ana Torres,Machala
+476,2025-07-30,Loreto Cases Pinilla,M,Zamora,WhatsApp,Universitario,2016,Ciberseguridad,Presencial,Independiente,Tecnología,Perdido,David Rosales,Loja
+477,2025-06-10,Fito Ismael Rovira Escobar,F,Loja,WhatsApp,Técnico,2015,Desarrollo de Software,Presencial,Desempleado,Comercio,Matriculado,Luis Pineda,Machala
+478,2025-06-12,Nilda Cid Salazar,M,Loja,Facebook Ads,Universitario,2016,Diseño Gráfico,Online,Estudiante,Servicios,Matriculado,David Rosales,Machala
+479,2025-05-20,Rodrigo Nadal Cantón,M,Guayaquil,WhatsApp,Bachiller,2023,Electrónica,Online,Estudiante,Industrial,Nuevo,Luis Pineda,Machala
+480,2025-05-05,Ainara de Parra,M,Loja,Página Web,Universitario,2019,Gastronomía,Presencial,Empleado,Industrial,Nuevo,Ana Torres,Loja
+481,2025-06-23,Liliana Barrena-Fabregat,M,Quito,Página Web,Técnico,2020,Talento Humano,Online,Desempleado,Salud,Nuevo,Luis Pineda,Loja
+482,2025-09-17,Feliciana Torrecilla,F,Zamora,WhatsApp,Técnico,2020,Ciberseguridad,Online,Independiente,Servicios,Nuevo,David Rosales,Machala
+483,2025-03-11,Evita Mas Pozo,F,Machala,Referido,Universitario,2018,Gastronomía,Online,Estudiante,Comercio,Perdido,Luis Pineda,Loja
+484,2025-08-17,Adrián Paniagua Iriarte,F,Quito,WhatsApp,Técnico,2021,Talento Humano,Presencial,Independiente,Industrial,Nuevo,Ana Torres,Loja
+485,2025-04-10,Lupe Jimenez Cazorla,M,Guayaquil,Referido,Universitario,2015,Ciberseguridad,Presencial,Desempleado,Tecnología,Nuevo,Luis Pineda,Machala
+486,2025-04-02,Jacobo Barba,M,Machala,Facebook Ads,Universitario,2017,Administración Financiera,Presencial,Estudiante,Servicios,Nuevo,María Hidalgo,Machala
+487,2025-03-27,Antonia Daza Toro,F,Guayaquil,Página Web,Bachiller,2023,Electrónica,Online,Empleado,Industrial,Nuevo,David Rosales,Loja
+488,2025-08-14,Victor Escudero-Costa,F,Cuenca,WhatsApp,Técnico,2017,Ciberseguridad,Presencial,Estudiante,Tecnología,Nuevo,Luis Pineda,Machala
+489,2025-04-13,Tristán Roldan,M,Machala,Referido,Bachiller,2018,Electrónica,Online,Estudiante,Servicios,Nuevo,Ana Torres,Machala
+490,2025-07-26,María Pilar Salvador Montes,M,Loja,Facebook Ads,Bachiller,2018,Enfermería,Presencial,Empleado,Comercio,Matriculado,Ana Torres,Loja
+491,2025-09-13,Fabiana Estefanía Moll Cazorla,M,Machala,Página Web,Bachiller,2019,Administración Financiera,Online,Desempleado,Industrial,Nuevo,Luis Pineda,Loja
+492,2025-09-06,Baldomero Cuadrado Gallego,F,Guayaquil,Página Web,Técnico,2024,Electrónica,Online,Independiente,Salud,Contactado,David Rosales,Loja
+493,2025-05-02,Fátima Querol,F,Cuenca,Referido,Técnico,2020,Desarrollo de Software,Online,Desempleado,Servicios,Matriculado,David Rosales,Machala
+494,2025-05-04,Fidel Echevarría Mena,M,Loja,WhatsApp,Universitario,2018,Gastronomía,Online,Independiente,Comercio,Contactado,David Rosales,Machala
+495,2025-03-12,Mireia Álvarez-Juliá,F,Loja,Facebook Ads,Técnico,2020,Talento Humano,Presencial,Independiente,Educación,Nuevo,David Rosales,Loja
+496,2025-07-19,Lino del Cerro,F,Zamora,Página Web,Bachiller,2023,Diseño Gráfico,Presencial,Empleado,Salud,Contactado,Ana Torres,Loja
+497,2025-04-15,Fabio Pallarès Fuster,F,Guayaquil,Referido,Técnico,2021,Diseño Gráfico,Presencial,Independiente,Servicios,Matriculado,Ana Torres,Loja
+498,2025-05-31,Filomena Quero Mosquera,M,Quito,Facebook Ads,Bachiller,2022,Administración Financiera,Presencial,Independiente,Comercio,Contactado,María Hidalgo,Machala
+499,2025-09-15,Manu Navas Otero,F,Guayaquil,Página Web,Bachiller,2019,Administración Financiera,Presencial,Estudiante,Comercio,Matriculado,María Hidalgo,Loja
+500,2025-04-02,Marcela Pablo-Lara,M,Zamora,Referido,Técnico,2023,Talento Humano,Presencial,Estudiante,Tecnología,Nuevo,Luis Pineda,Loja
+501,2025-08-16,Duilio Prado Alberola,M,Machala,Facebook Ads,Bachiller,2016,Diseño Gráfico,Presencial,Empleado,Industrial,Perdido,Luis Pineda,Loja
+502,2025-03-08,Manola Rosselló-Barranco,F,Cuenca,Facebook Ads,Técnico,2024,Administración Financiera,Online,Independiente,Comercio,Contactado,María Hidalgo,Machala
+503,2025-03-22,María Ángeles Pombo,F,Machala,WhatsApp,Bachiller,2015,Ciberseguridad,Presencial,Desempleado,Tecnología,Contactado,María Hidalgo,Machala
+504,2025-07-31,Petrona Piñeiro Márquez,F,Quito,Página Web,Bachiller,2017,Talento Humano,Presencial,Desempleado,Comercio,Matriculado,María Hidalgo,Loja
+505,2025-09-12,Azahar Lumbreras-Villar,F,Machala,WhatsApp,Universitario,2020,Talento Humano,Presencial,Independiente,Educación,Contactado,Luis Pineda,Machala
+506,2025-07-31,Felix Pombo Iglesia,F,Quito,Facebook Ads,Técnico,2020,Ciberseguridad,Presencial,Independiente,Tecnología,Contactado,María Hidalgo,Loja
+507,2025-03-13,Nicodemo Moles Aguilera,M,Guayaquil,WhatsApp,Universitario,2021,Diseño Gráfico,Presencial,Estudiante,Salud,Perdido,David Rosales,Machala
+508,2025-04-26,Eufemia Jovita Tapia Tormo,M,Quito,Página Web,Técnico,2021,Ciberseguridad,Presencial,Empleado,Comercio,Perdido,Luis Pineda,Loja
+509,2025-06-24,Vicenta Ale Bermúdez Miralles,M,Quito,Facebook Ads,Bachiller,2016,Ciberseguridad,Online,Desempleado,Comercio,Contactado,David Rosales,Loja
+510,2025-09-20,Bernardino Sáenz Azorin,M,Quito,WhatsApp,Técnico,2015,Talento Humano,Presencial,Desempleado,Salud,Contactado,María Hidalgo,Loja
+511,2025-07-11,Pepe Campillo-Barros,M,Loja,Facebook Ads,Universitario,2022,Big Data e Inteligencia de Negocios,Presencial,Desempleado,Educación,Contactado,Luis Pineda,Loja
+512,2025-03-31,Marisa Lucila Gabaldón Llanos,M,Quito,Página Web,Universitario,2019,Administración Financiera,Presencial,Independiente,Salud,Contactado,Ana Torres,Machala
+513,2025-03-24,Gastón del Gelabert,M,Zamora,WhatsApp,Técnico,2015,Administración Financiera,Presencial,Desempleado,Tecnología,Nuevo,María Hidalgo,Machala
+514,2025-08-19,Loreto Sanchez Landa,M,Cuenca,Facebook Ads,Técnico,2020,Gastronomía,Presencial,Empleado,Educación,Nuevo,María Hidalgo,Loja
+515,2025-09-07,Paola Torrents-Cervera,F,Machala,Referido,Bachiller,2024,Big Data e Inteligencia de Negocios,Presencial,Empleado,Salud,Nuevo,David Rosales,Machala
+516,2025-03-28,Teresita Crespo-Rojas,M,Quito,Facebook Ads,Universitario,2019,Gastronomía,Presencial,Empleado,Educación,Matriculado,María Hidalgo,Loja
+517,2025-04-09,Narcisa Plaza Escribano,M,Loja,WhatsApp,Universitario,2016,Desarrollo de Software,Online,Estudiante,Tecnología,Nuevo,David Rosales,Loja
+518,2025-04-15,Jenaro Cases Cárdenas,M,Loja,Facebook Ads,Bachiller,2021,Desarrollo de Software,Presencial,Desempleado,Salud,Matriculado,Ana Torres,Loja
+519,2025-07-23,Azeneth Arrieta Jaume,M,Quito,WhatsApp,Universitario,2020,Gastronomía,Presencial,Independiente,Educación,Contactado,Luis Pineda,Machala
+520,2025-05-31,Trinidad Vallés Conde,F,Zamora,Facebook Ads,Universitario,2015,Administración Financiera,Presencial,Estudiante,Salud,Matriculado,Luis Pineda,Loja
+521,2025-07-20,Luis Varela Orozco,M,Cuenca,Página Web,Universitario,2016,Gastronomía,Online,Independiente,Industrial,Nuevo,David Rosales,Machala
+522,2025-05-18,Lalo Sancho Llopis,M,Machala,WhatsApp,Bachiller,2016,Talento Humano,Online,Estudiante,Comercio,Nuevo,Luis Pineda,Machala
+523,2025-03-15,Eduardo Bejarano Elorza,M,Machala,Referido,Universitario,2022,Enfermería,Presencial,Empleado,Servicios,Nuevo,Ana Torres,Loja
+524,2025-03-16,Amelia Valenciano Calderon,M,Cuenca,WhatsApp,Universitario,2020,Ciberseguridad,Online,Desempleado,Tecnología,Nuevo,David Rosales,Loja
+525,2025-06-20,Otilia Galvez-Raya,F,Machala,Facebook Ads,Bachiller,2021,Gastronomía,Online,Empleado,Educación,Perdido,Luis Pineda,Loja
+526,2025-07-11,Felipa de Macias,M,Cuenca,WhatsApp,Técnico,2018,Ciberseguridad,Presencial,Independiente,Tecnología,Matriculado,María Hidalgo,Loja
+527,2025-08-27,Agapito Montes,M,Loja,Facebook Ads,Bachiller,2021,Talento Humano,Presencial,Desempleado,Industrial,Matriculado,Luis Pineda,Machala
+528,2025-04-26,María Carmen de Jordá,F,Zamora,WhatsApp,Universitario,2023,Talento Humano,Presencial,Estudiante,Tecnología,Matriculado,María Hidalgo,Loja
+529,2025-08-11,Teófilo Franch Frías,F,Loja,Facebook Ads,Técnico,2024,Gastronomía,Presencial,Empleado,Comercio,Contactado,Ana Torres,Loja
+530,2025-08-20,Rosalina Hervia Maestre,M,Zamora,Referido,Bachiller,2022,Big Data e Inteligencia de Negocios,Presencial,Empleado,Salud,Matriculado,David Rosales,Machala
+531,2025-06-13,Tadeo de Martorell,F,Machala,WhatsApp,Universitario,2016,Desarrollo de Software,Presencial,Estudiante,Tecnología,Matriculado,María Hidalgo,Loja
+532,2025-06-18,José María Alonso Gual Rodríguez,F,Guayaquil,Facebook Ads,Bachiller,2016,Gastronomía,Presencial,Estudiante,Salud,Contactado,Ana Torres,Machala
+533,2025-08-27,Teófilo Casal-Pomares,F,Loja,WhatsApp,Bachiller,2019,Desarrollo de Software,Online,Independiente,Servicios,Nuevo,María Hidalgo,Loja
+534,2025-04-19,Eliana Mariscal Saura,F,Guayaquil,WhatsApp,Técnico,2024,Electrónica,Presencial,Desempleado,Comercio,Nuevo,David Rosales,Machala
+535,2025-08-30,Celestina Amarilis Olivares Beltrán,F,Zamora,WhatsApp,Universitario,2022,Enfermería,Presencial,Estudiante,Educación,Contactado,Luis Pineda,Machala
+536,2025-04-06,Seve Gonzalo-Donaire,F,Zamora,Email,Técnico,2022,Enfermería,Presencial,Desempleado,Salud,Contactado,María Hidalgo,Machala
+537,2025-08-22,Adela Tejada Morante,F,Quito,WhatsApp,Técnico,2017,Desarrollo de Software,Online,Independiente,Tecnología,Contactado,David Rosales,Loja
+538,2025-05-14,Jose Manuel Franco-Pizarro,F,Machala,WhatsApp,Universitario,2021,Talento Humano,Online,Estudiante,Educación,Contactado,David Rosales,Loja
+539,2025-04-20,Marino Roda Alcalá,F,Zamora,WhatsApp,Técnico,2023,Diseño Gráfico,Presencial,Empleado,Comercio,Contactado,Luis Pineda,Machala
+540,2025-09-12,Severiano Navarro Gárate,M,Guayaquil,WhatsApp,Universitario,2022,Big Data e Inteligencia de Negocios,Online,Empleado,Tecnología,Matriculado,María Hidalgo,Machala
+541,2025-05-21,Estela Agustín Guzmán,M,Loja,Facebook Ads,Técnico,2023,Talento Humano,Presencial,Independiente,Educación,Matriculado,David Rosales,Machala
+542,2025-09-17,Sabas Amaya Sancho,M,Zamora,Referido,Universitario,2021,Big Data e Inteligencia de Negocios,Presencial,Desempleado,Salud,Contactado,David Rosales,Loja
+543,2025-05-01,Aitana Salcedo Mínguez,F,Quito,WhatsApp,Bachiller,2017,Ciberseguridad,Presencial,Independiente,Salud,Contactado,María Hidalgo,Loja
+544,2025-06-14,Emelina Mayo-Segura,F,Quito,WhatsApp,Universitario,2021,Diseño Gráfico,Presencial,Desempleado,Comercio,Contactado,María Hidalgo,Loja
+545,2025-09-21,Olimpia Cuesta Blázquez,M,Cuenca,WhatsApp,Universitario,2020,Gastronomía,Presencial,Empleado,Servicios,Nuevo,María Hidalgo,Loja
+546,2025-09-26,Mateo Reguera Ferreras,F,Machala,WhatsApp,Universitario,2015,Administración Financiera,Presencial,Empleado,Comercio,Matriculado,Luis Pineda,Loja
+547,2025-03-26,Cruz Marí Cuéllar,F,Zamora,Página Web,Técnico,2015,Administración Financiera,Presencial,Estudiante,Servicios,Contactado,Ana Torres,Loja
+548,2025-09-19,Cándido Anaya Chaves,F,Quito,WhatsApp,Técnico,2022,Talento Humano,Presencial,Estudiante,Salud,Perdido,María Hidalgo,Loja
+549,2025-07-19,Ámbar Urrutia Marí,M,Zamora,WhatsApp,Bachiller,2023,Ciberseguridad,Presencial,Estudiante,Servicios,Nuevo,Luis Pineda,Loja
+550,2025-05-27,Blanca Miró,F,Loja,Facebook Ads,Bachiller,2022,Desarrollo de Software,Presencial,Empleado,Servicios,Perdido,David Rosales,Loja
+551,2025-04-12,Sebastián Juan Bautista Pulido Torrent,F,Machala,Facebook Ads,Universitario,2018,Gastronomía,Presencial,Independiente,Industrial,Contactado,María Hidalgo,Loja
+552,2025-03-10,Brígida Andrade,M,Loja,WhatsApp,Bachiller,2024,Big Data e Inteligencia de Negocios,Presencial,Empleado,Industrial,Matriculado,Ana Torres,Loja
+553,2025-05-31,José del Calvet,M,Guayaquil,Página Web,Universitario,2017,Desarrollo de Software,Presencial,Desempleado,Industrial,Contactado,David Rosales,Machala
+554,2025-05-01,Elodia Fonseca Llobet,F,Cuenca,WhatsApp,Universitario,2021,Electrónica,Presencial,Empleado,Servicios,Contactado,Luis Pineda,Loja
+555,2025-06-18,Rodolfo Valls Corral,M,Quito,Facebook Ads,Técnico,2018,Talento Humano,Presencial,Independiente,Industrial,Nuevo,Luis Pineda,Loja
+556,2025-03-30,Jacinto Cueto Vergara,M,Loja,Página Web,Bachiller,2016,Ciberseguridad,Presencial,Independiente,Educación,Nuevo,David Rosales,Loja
+557,2025-08-28,Hernán Luis Ángel Cerro Arévalo,F,Cuenca,Facebook Ads,Universitario,2017,Gastronomía,Presencial,Independiente,Servicios,Matriculado,Ana Torres,Loja
+558,2025-06-30,Gil Hernán Salgado Echeverría,M,Quito,Página Web,Técnico,2023,Talento Humano,Presencial,Empleado,Servicios,Nuevo,Ana Torres,Loja
+559,2025-05-10,Paulina Delgado Bernal,M,Zamora,Página Web,Universitario,2020,Diseño Gráfico,Presencial,Desempleado,Servicios,Matriculado,María Hidalgo,Machala
+560,2025-07-04,Leopoldo Torrents Calzada,M,Zamora,Referido,Universitario,2019,Administración Financiera,Presencial,Desempleado,Salud,Nuevo,David Rosales,Machala
+561,2025-03-29,Leonardo Casals Sastre,M,Zamora,Página Web,Bachiller,2017,Electrónica,Presencial,Estudiante,Tecnología,Contactado,María Hidalgo,Loja
+562,2025-04-09,Sofía Antonia Vives Falcó,F,Loja,WhatsApp,Universitario,2017,Gastronomía,Presencial,Estudiante,Comercio,Matriculado,David Rosales,Machala
+563,2025-08-28,Pablo Miró Montes,F,Guayaquil,Referido,Bachiller,2019,Talento Humano,Presencial,Desempleado,Salud,Nuevo,David Rosales,Machala
+564,2025-08-09,Rafa Nicodemo Corral Sanmiguel,F,Guayaquil,Página Web,Bachiller,2017,Ciberseguridad,Online,Estudiante,Industrial,Perdido,David Rosales,Loja
+565,2025-03-15,Julio Ismael López Lluch,M,Cuenca,Página Web,Universitario,2022,Ciberseguridad,Presencial,Desempleado,Educación,Contactado,Luis Pineda,Machala
+566,2025-04-03,Ulises Angulo Robles,F,Machala,Página Web,Bachiller,2022,Desarrollo de Software,Presencial,Independiente,Tecnología,Contactado,Luis Pineda,Machala
+567,2025-03-25,Carmelo Llobet Ribas,M,Zamora,WhatsApp,Universitario,2024,Electrónica,Presencial,Empleado,Comercio,Nuevo,María Hidalgo,Machala
+568,2025-06-08,Dominga Escamilla-Julián,M,Quito,Página Web,Técnico,2015,Administración Financiera,Presencial,Empleado,Salud,Contactado,Luis Pineda,Loja
+569,2025-07-26,Balduino Manolo Guitart Barba,M,Zamora,Página Web,Técnico,2022,Big Data e Inteligencia de Negocios,Presencial,Desempleado,Industrial,Nuevo,Ana Torres,Machala
+570,2025-08-13,Nuria Montserrat Adán,M,Machala,WhatsApp,Bachiller,2020,Talento Humano,Online,Independiente,Comercio,Matriculado,David Rosales,Machala
+571,2025-05-20,Dora Peláez-Blasco,F,Cuenca,WhatsApp,Bachiller,2022,Talento Humano,Presencial,Desempleado,Servicios,Nuevo,David Rosales,Loja
+572,2025-09-17,Antonio Vizcaíno Pinilla,M,Machala,Facebook Ads,Bachiller,2016,Administración Financiera,Presencial,Desempleado,Industrial,Nuevo,David Rosales,Loja
+573,2025-04-14,Xiomara Blanch Palomares,F,Quito,Referido,Universitario,2023,Electrónica,Presencial,Desempleado,Tecnología,Nuevo,Luis Pineda,Machala
+574,2025-06-07,Irene Plaza Osorio,F,Zamora,WhatsApp,Bachiller,2019,Gastronomía,Presencial,Empleado,Servicios,Contactado,María Hidalgo,Loja
+575,2025-09-26,Belen Aragonés Español,M,Guayaquil,WhatsApp,Técnico,2024,Big Data e Inteligencia de Negocios,Presencial,Estudiante,Industrial,Matriculado,David Rosales,Machala
+576,2025-04-20,Pascuala Andrade Ayala,M,Guayaquil,Email,Universitario,2020,Desarrollo de Software,Presencial,Estudiante,Tecnología,Nuevo,María Hidalgo,Loja
+577,2025-07-15,Sebastián Morante Badía,M,Machala,Página Web,Universitario,2016,Gastronomía,Presencial,Independiente,Industrial,Nuevo,María Hidalgo,Loja
+578,2025-07-22,Blanca Nebot Araujo,M,Quito,Página Web,Técnico,2019,Talento Humano,Online,Empleado,Comercio,Nuevo,Ana Torres,Loja
+579,2025-07-22,Edelmiro Verdú,M,Zamora,Página Web,Bachiller,2016,Gastronomía,Presencial,Estudiante,Educación,Nuevo,María Hidalgo,Machala
+580,2025-07-17,Isaías de Vera,M,Zamora,WhatsApp,Bachiller,2021,Big Data e Inteligencia de Negocios,Online,Desempleado,Tecnología,Perdido,Luis Pineda,Loja
+581,2025-06-18,Aránzazu Arias-Santamaría,M,Loja,Página Web,Técnico,2021,Desarrollo de Software,Presencial,Desempleado,Salud,Matriculado,Luis Pineda,Machala
+582,2025-04-29,Montserrat Nydia Puig Adán,F,Cuenca,WhatsApp,Universitario,2020,Talento Humano,Online,Estudiante,Industrial,Contactado,Luis Pineda,Machala
+583,2025-06-06,Remedios Baños Asenjo,F,Quito,WhatsApp,Bachiller,2019,Enfermería,Presencial,Desempleado,Salud,Contactado,Ana Torres,Loja
+584,2025-08-29,Tere de Tapia,F,Machala,Página Web,Técnico,2021,Enfermería,Presencial,Estudiante,Servicios,Nuevo,Luis Pineda,Loja
+585,2025-08-31,Amanda Azorin Batlle,F,Machala,Facebook Ads,Universitario,2023,Administración Financiera,Online,Estudiante,Tecnología,Contactado,María Hidalgo,Loja
+586,2025-03-07,Jorge Morera Arnal,M,Loja,Facebook Ads,Técnico,2024,Diseño Gráfico,Presencial,Empleado,Servicios,Contactado,David Rosales,Machala
+587,2025-05-04,Adora Perera,F,Quito,WhatsApp,Bachiller,2017,Electrónica,Presencial,Estudiante,Servicios,Matriculado,María Hidalgo,Loja
+588,2025-05-18,Sosimo Mateu,F,Zamora,Facebook Ads,Técnico,2024,Desarrollo de Software,Presencial,Estudiante,Comercio,Perdido,Ana Torres,Loja
+589,2025-09-13,Hortensia Miró,F,Loja,Página Web,Técnico,2020,Big Data e Inteligencia de Negocios,Presencial,Desempleado,Salud,Contactado,María Hidalgo,Machala
+590,2025-06-14,Adelia Mercader Roura,F,Cuenca,Página Web,Universitario,2022,Electrónica,Presencial,Estudiante,Educación,Matriculado,Luis Pineda,Machala
+591,2025-03-13,Patricia Herrero Estevez,F,Zamora,Página Web,Bachiller,2023,Electrónica,Presencial,Empleado,Comercio,Contactado,David Rosales,Loja
+592,2025-06-30,Sigfrido Roma Iglesia,M,Guayaquil,WhatsApp,Técnico,2019,Enfermería,Presencial,Estudiante,Industrial,Nuevo,Ana Torres,Loja
+593,2025-05-10,Jacobo Vaquero Cortes,F,Quito,Facebook Ads,Bachiller,2020,Big Data e Inteligencia de Negocios,Presencial,Independiente,Industrial,Nuevo,Ana Torres,Loja
+594,2025-05-15,Geraldo Barón Luque,F,Machala,Facebook Ads,Bachiller,2015,Desarrollo de Software,Online,Independiente,Tecnología,Nuevo,María Hidalgo,Machala
+595,2025-04-22,Hilda de Navarro,F,Guayaquil,Facebook Ads,Bachiller,2020,Big Data e Inteligencia de Negocios,Presencial,Desempleado,Comercio,Matriculado,Luis Pineda,Machala
+596,2025-03-06,Maxi del Donoso,M,Loja,Facebook Ads,Universitario,2017,Diseño Gráfico,Online,Independiente,Tecnología,Contactado,Ana Torres,Loja
+597,2025-08-11,Maximiano de Crespi,F,Machala,WhatsApp,Técnico,2019,Gastronomía,Online,Independiente,Salud,Nuevo,David Rosales,Loja
+598,2025-05-20,Jovita Ochoa,M,Guayaquil,Referido,Técnico,2023,Big Data e Inteligencia de Negocios,Presencial,Estudiante,Salud,Matriculado,Luis Pineda,Loja
+599,2025-05-11,José Luis Amaya Naranjo,F,Loja,Referido,Técnico,2023,Gastronomía,Online,Independiente,Servicios,Contactado,María Hidalgo,Machala
+600,2025-05-20,Angélica Yáñez,M,Zamora,Facebook Ads,Técnico,2024,Gastronomía,Presencial,Empleado,Tecnología,Matriculado,María Hidalgo,Loja
+601,2025-08-21,Lupe Ocaña-Gutierrez,F,Machala,Página Web,Universitario,2017,Big Data e Inteligencia de Negocios,Presencial,Independiente,Salud,Nuevo,David Rosales,Loja
+602,2025-04-10,Azahara Gimenez Gracia,F,Zamora,WhatsApp,Universitario,2024,Electrónica,Online,Empleado,Salud,Contactado,María Hidalgo,Loja
+603,2025-05-29,Domitila Piquer Valera,F,Loja,Facebook Ads,Bachiller,2018,Enfermería,Online,Desempleado,Educación,Perdido,David Rosales,Loja
+604,2025-04-02,Vicente Cuadrado Gilabert,M,Loja,Facebook Ads,Universitario,2024,Ciberseguridad,Presencial,Empleado,Tecnología,Matriculado,María Hidalgo,Machala
+605,2025-08-03,Gala Burgos Sala,F,Loja,Página Web,Bachiller,2020,Gastronomía,Presencial,Estudiante,Educación,Perdido,Ana Torres,Loja
+606,2025-05-02,Vera Alberola Miranda,M,Zamora,WhatsApp,Técnico,2024,Talento Humano,Presencial,Desempleado,Comercio,Nuevo,David Rosales,Machala
+607,2025-03-21,Apolinar Parejo Seguí,M,Zamora,Página Web,Bachiller,2022,Desarrollo de Software,Presencial,Estudiante,Educación,Nuevo,Luis Pineda,Machala
+608,2025-05-20,Kike Sosa Solé,F,Quito,Página Web,Universitario,2022,Administración Financiera,Presencial,Empleado,Tecnología,Contactado,Luis Pineda,Loja
+609,2025-08-04,Quirino Llopis Benet,F,Quito,WhatsApp,Bachiller,2024,Administración Financiera,Presencial,Desempleado,Salud,Perdido,María Hidalgo,Machala
+610,2025-09-15,Cristian Bauzà Calderón,F,Zamora,Página Web,Universitario,2015,Talento Humano,Presencial,Estudiante,Servicios,Contactado,María Hidalgo,Machala
+611,2025-04-07,Salomón Montaña Esparza,M,Machala,Página Web,Universitario,2016,Electrónica,Online,Independiente,Salud,Contactado,David Rosales,Loja
+612,2025-03-12,Eugenia Colomer Cabezas,F,Cuenca,WhatsApp,Bachiller,2019,Gastronomía,Presencial,Empleado,Comercio,Contactado,David Rosales,Machala
+613,2025-09-07,Juan Bautista Suarez Tena,M,Loja,Página Web,Bachiller,2024,Administración Financiera,Online,Empleado,Salud,Contactado,María Hidalgo,Loja
+614,2025-05-08,Valentín Rosales Cañas,F,Machala,Referido,Técnico,2020,Administración Financiera,Online,Desempleado,Industrial,Matriculado,Ana Torres,Machala
+615,2025-08-26,Emigdio Vives-Soriano,M,Zamora,Facebook Ads,Técnico,2022,Talento Humano,Presencial,Estudiante,Tecnología,Nuevo,María Hidalgo,Machala
+616,2025-04-01,Rafael Balduino Ferrando Gordillo,M,Quito,WhatsApp,Bachiller,2016,Big Data e Inteligencia de Negocios,Presencial,Empleado,Comercio,Nuevo,María Hidalgo,Loja
+617,2025-04-30,Estela Cano Arribas,M,Machala,Referido,Universitario,2020,Ciberseguridad,Online,Empleado,Industrial,Contactado,Ana Torres,Machala
+618,2025-04-25,Moisés Falcó Llabrés,M,Loja,WhatsApp,Técnico,2017,Desarrollo de Software,Online,Estudiante,Educación,Contactado,David Rosales,Machala
+619,2025-06-29,Catalina de Andrade,M,Loja,WhatsApp,Técnico,2016,Desarrollo de Software,Presencial,Independiente,Servicios,Nuevo,Ana Torres,Loja
+620,2025-07-19,Ale de Lastra,F,Loja,Página Web,Técnico,2017,Gastronomía,Presencial,Empleado,Servicios,Matriculado,María Hidalgo,Loja
+621,2025-05-01,Hernando Garriga Pi,M,Machala,WhatsApp,Técnico,2015,Big Data e Inteligencia de Negocios,Presencial,Empleado,Servicios,Contactado,María Hidalgo,Loja
+622,2025-05-11,Ágata Viña,F,Machala,WhatsApp,Universitario,2018,Gastronomía,Online,Independiente,Educación,Nuevo,David Rosales,Loja
+623,2025-05-02,Sofía Duran Bou,F,Guayaquil,WhatsApp,Bachiller,2021,Administración Financiera,Presencial,Estudiante,Tecnología,Nuevo,Luis Pineda,Loja
+624,2025-08-11,Tristán Villar Torrijos,F,Quito,Página Web,Técnico,2020,Enfermería,Online,Independiente,Industrial,Contactado,David Rosales,Machala
+625,2025-04-20,Leonel Almansa-Valle,M,Zamora,WhatsApp,Técnico,2016,Ciberseguridad,Presencial,Estudiante,Salud,Matriculado,María Hidalgo,Machala
+626,2025-04-17,Clímaco Ibáñez,F,Machala,Página Web,Bachiller,2018,Gastronomía,Online,Independiente,Salud,Nuevo,David Rosales,Loja
+627,2025-03-17,Máxima Cerdán Amores,F,Loja,Email,Bachiller,2020,Ciberseguridad,Presencial,Empleado,Industrial,Nuevo,Ana Torres,Loja
+628,2025-03-08,Félix Marí Arenas,F,Loja,Facebook Ads,Universitario,2024,Diseño Gráfico,Presencial,Independiente,Tecnología,Perdido,Ana Torres,Machala
+629,2025-04-03,Sebastián del Raya,M,Cuenca,Facebook Ads,Bachiller,2022,Ciberseguridad,Presencial,Empleado,Salud,Perdido,María Hidalgo,Loja
+630,2025-07-18,Felicia Borja Vendrell,F,Machala,Email,Bachiller,2021,Gastronomía,Presencial,Estudiante,Salud,Contactado,María Hidalgo,Machala
+631,2025-08-06,José Granados Zamora,F,Guayaquil,Referido,Universitario,2021,Big Data e Inteligencia de Negocios,Presencial,Independiente,Educación,Contactado,Ana Torres,Loja
+632,2025-08-28,Delfina Aliaga Murillo,M,Guayaquil,WhatsApp,Bachiller,2021,Gastronomía,Presencial,Empleado,Industrial,Matriculado,David Rosales,Machala
+633,2025-04-21,Rebeca Armengol Puente,M,Guayaquil,WhatsApp,Técnico,2024,Ciberseguridad,Presencial,Desempleado,Educación,Perdido,Ana Torres,Loja
+634,2025-05-02,Fortunata Sandoval Sainz,F,Guayaquil,WhatsApp,Técnico,2022,Gastronomía,Online,Independiente,Tecnología,Contactado,María Hidalgo,Machala
+635,2025-08-16,Chita Berrocal Juan,F,Quito,Facebook Ads,Bachiller,2021,Enfermería,Presencial,Empleado,Industrial,Perdido,Ana Torres,Loja
+636,2025-05-18,Quique Contreras Delgado,M,Cuenca,Facebook Ads,Técnico,2022,Administración Financiera,Online,Desempleado,Industrial,Matriculado,Luis Pineda,Loja
+637,2025-03-04,Áurea Peiró Múñiz,F,Zamora,Email,Universitario,2015,Administración Financiera,Online,Estudiante,Tecnología,Contactado,Ana Torres,Loja
+638,2025-04-23,Sebastian Echevarría,M,Quito,Facebook Ads,Universitario,2018,Enfermería,Online,Independiente,Servicios,Matriculado,David Rosales,Loja
+639,2025-07-18,Rosalinda Suárez-Sarmiento,M,Zamora,WhatsApp,Bachiller,2018,Diseño Gráfico,Online,Desempleado,Educación,Matriculado,Luis Pineda,Loja
+640,2025-08-30,Emilia Andrea Goicoechea Larrea,M,Machala,Facebook Ads,Universitario,2019,Electrónica,Presencial,Estudiante,Salud,Nuevo,Luis Pineda,Loja
+641,2025-07-23,Ambrosio del Jara,F,Machala,Facebook Ads,Técnico,2016,Ciberseguridad,Online,Desempleado,Comercio,Contactado,Ana Torres,Machala
+642,2025-07-27,Timoteo Garriga Ros,M,Zamora,Página Web,Universitario,2021,Administración Financiera,Online,Desempleado,Servicios,Nuevo,Luis Pineda,Loja
+643,2025-06-21,Samanta Cañas,M,Machala,Página Web,Universitario,2015,Gastronomía,Online,Estudiante,Salud,Contactado,María Hidalgo,Loja
+644,2025-08-02,Benigno Albero Barroso,F,Machala,WhatsApp,Bachiller,2018,Diseño Gráfico,Presencial,Independiente,Comercio,Matriculado,David Rosales,Machala
+645,2025-04-13,Aureliano Palomares Cuéllar,F,Loja,WhatsApp,Técnico,2015,Ciberseguridad,Presencial,Desempleado,Salud,Perdido,María Hidalgo,Loja
+646,2025-09-12,Obdulia Anaya Saez,F,Loja,WhatsApp,Universitario,2024,Gastronomía,Online,Independiente,Comercio,Nuevo,David Rosales,Machala
+647,2025-04-13,Eufemia Guijarro-Mata,F,Guayaquil,Email,Bachiller,2018,Ciberseguridad,Presencial,Estudiante,Servicios,Contactado,María Hidalgo,Loja
+648,2025-03-06,Lucila Alarcón,F,Quito,Página Web,Técnico,2023,Enfermería,Online,Estudiante,Servicios,Nuevo,Luis Pineda,Loja
+649,2025-04-29,Timoteo de Pastor,M,Guayaquil,Facebook Ads,Universitario,2021,Gastronomía,Presencial,Desempleado,Servicios,Contactado,Luis Pineda,Machala
+650,2025-08-21,Rosa de Carmona,F,Loja,WhatsApp,Técnico,2023,Administración Financiera,Online,Desempleado,Comercio,Matriculado,David Rosales,Machala
+651,2025-06-25,Azucena Nicolau-Aragonés,F,Machala,WhatsApp,Universitario,2017,Desarrollo de Software,Presencial,Independiente,Comercio,Perdido,Ana Torres,Loja
+652,2025-09-29,Leyre Narváez Heredia,F,Loja,WhatsApp,Técnico,2019,Ciberseguridad,Presencial,Independiente,Servicios,Contactado,David Rosales,Loja
+653,2025-03-25,Américo del Osuna,F,Guayaquil,Facebook Ads,Técnico,2024,Talento Humano,Online,Desempleado,Comercio,Matriculado,Luis Pineda,Loja
+654,2025-08-08,Wálter Rius Olmo,M,Quito,WhatsApp,Bachiller,2022,Talento Humano,Online,Desempleado,Comercio,Nuevo,Ana Torres,Loja
+655,2025-03-28,Wilfredo Alcántara Grau,F,Cuenca,Página Web,Técnico,2019,Electrónica,Online,Independiente,Comercio,Perdido,Luis Pineda,Loja
+656,2025-06-26,Graciela Agustí Bustamante,M,Cuenca,WhatsApp,Técnico,2020,Talento Humano,Presencial,Independiente,Comercio,Perdido,Luis Pineda,Loja
+657,2025-06-11,Herminia Lloret Blanch,M,Zamora,WhatsApp,Universitario,2022,Desarrollo de Software,Online,Independiente,Servicios,Nuevo,Ana Torres,Machala
+658,2025-04-02,Eusebia Ángeles Acero Barrena,F,Machala,Página Web,Bachiller,2019,Desarrollo de Software,Presencial,Empleado,Servicios,Nuevo,María Hidalgo,Machala
+659,2025-07-03,Anita Garmendia Baquero,M,Cuenca,Referido,Bachiller,2015,Electrónica,Presencial,Desempleado,Educación,Nuevo,María Hidalgo,Loja
+660,2025-06-16,Carmelita Sabina Vilar Guillén,F,Quito,WhatsApp,Bachiller,2024,Ciberseguridad,Presencial,Desempleado,Comercio,Nuevo,Luis Pineda,Machala
+661,2025-05-27,Alondra Asenjo Blanco,M,Cuenca,Página Web,Técnico,2024,Ciberseguridad,Presencial,Independiente,Tecnología,Nuevo,David Rosales,Loja
+662,2025-04-03,Maricruz Ferreras Tudela,F,Cuenca,Facebook Ads,Técnico,2016,Electrónica,Presencial,Empleado,Industrial,Nuevo,David Rosales,Loja
+663,2025-06-25,Perla Nieto Vallejo,M,Loja,Facebook Ads,Técnico,2023,Ciberseguridad,Online,Independiente,Servicios,Nuevo,Luis Pineda,Loja
+664,2025-08-01,Maribel Valls Leiva,M,Cuenca,Referido,Técnico,2016,Talento Humano,Presencial,Desempleado,Comercio,Nuevo,María Hidalgo,Loja
+665,2025-03-15,Paulino Quesada,M,Cuenca,Referido,Técnico,2015,Ciberseguridad,Presencial,Desempleado,Tecnología,Contactado,Ana Torres,Machala
+666,2025-03-15,Sancho Lloret Gámez,M,Loja,Facebook Ads,Técnico,2024,Enfermería,Presencial,Empleado,Comercio,Contactado,María Hidalgo,Loja
+667,2025-05-31,José Antonio de Andrade,M,Guayaquil,WhatsApp,Universitario,2024,Enfermería,Presencial,Empleado,Industrial,Matriculado,Ana Torres,Machala
+668,2025-04-06,Pascual del Múñiz,F,Cuenca,Facebook Ads,Técnico,2021,Enfermería,Presencial,Desempleado,Tecnología,Perdido,David Rosales,Machala
+669,2025-05-01,Ángela González Rius,F,Loja,WhatsApp,Universitario,2019,Gastronomía,Presencial,Desempleado,Educación,Nuevo,David Rosales,Machala
+670,2025-05-21,Gertrudis Maestre Valverde,M,Guayaquil,Facebook Ads,Técnico,2023,Enfermería,Presencial,Desempleado,Comercio,Nuevo,David Rosales,Loja
+671,2025-08-19,Natalia Miranda Cerro,M,Quito,Página Web,Universitario,2021,Gastronomía,Presencial,Empleado,Industrial,Nuevo,Luis Pineda,Machala
+672,2025-09-08,Tania de Ferreras,F,Machala,Email,Técnico,2024,Administración Financiera,Presencial,Desempleado,Educación,Perdido,David Rosales,Loja
+673,2025-06-11,Fabián Peralta Gabaldón,F,Guayaquil,Facebook Ads,Bachiller,2018,Desarrollo de Software,Presencial,Desempleado,Industrial,Matriculado,Luis Pineda,Machala
+674,2025-08-13,Rosalva Colomer-Burgos,F,Zamora,Email,Bachiller,2020,Electrónica,Presencial,Empleado,Industrial,Matriculado,Luis Pineda,Machala
+675,2025-04-30,Cirino Lloret-Pedrero,M,Loja,Facebook Ads,Universitario,2017,Talento Humano,Presencial,Independiente,Comercio,Nuevo,David Rosales,Machala
+676,2025-04-14,Purificación Marqués Grau,F,Guayaquil,WhatsApp,Universitario,2021,Big Data e Inteligencia de Negocios,Presencial,Estudiante,Educación,Matriculado,Luis Pineda,Machala
+677,2025-03-07,Íngrid Morante Lopez,M,Guayaquil,WhatsApp,Bachiller,2022,Enfermería,Presencial,Desempleado,Industrial,Matriculado,David Rosales,Loja
+678,2025-05-05,Ernesto Guillén Donaire,F,Zamora,Página Web,Universitario,2024,Desarrollo de Software,Presencial,Desempleado,Comercio,Contactado,David Rosales,Loja
+679,2025-07-24,Adán Luís Ávila Abella,F,Quito,Facebook Ads,Bachiller,2023,Gastronomía,Presencial,Desempleado,Industrial,Matriculado,Luis Pineda,Loja
+680,2025-04-07,Lola Calleja Albero,F,Guayaquil,Facebook Ads,Universitario,2021,Desarrollo de Software,Presencial,Empleado,Educación,Contactado,Ana Torres,Loja
+681,2025-03-04,Alejandra Pinedo Coronado,M,Zamora,Email,Bachiller,2016,Diseño Gráfico,Presencial,Desempleado,Educación,Matriculado,María Hidalgo,Loja
+682,2025-04-12,Elba Tejada Escudero,F,Zamora,WhatsApp,Universitario,2016,Ciberseguridad,Presencial,Desempleado,Tecnología,Nuevo,Ana Torres,Machala
+683,2025-03-31,Urbano Cristian Alegria Cerdán,F,Guayaquil,WhatsApp,Técnico,2022,Talento Humano,Presencial,Estudiante,Servicios,Contactado,Ana Torres,Loja
+684,2025-07-23,Gerónimo Perea Solano,F,Quito,WhatsApp,Universitario,2017,Administración Financiera,Presencial,Estudiante,Salud,Contactado,David Rosales,Loja
+685,2025-04-21,Jennifer Lamas Pomares,F,Cuenca,Página Web,Universitario,2020,Ciberseguridad,Presencial,Empleado,Industrial,Matriculado,Ana Torres,Loja
+686,2025-05-06,Baltasar Torralba Moles,F,Zamora,Referido,Bachiller,2021,Ciberseguridad,Online,Estudiante,Industrial,Matriculado,Luis Pineda,Loja
+687,2025-06-15,Sol Pili Checa Nicolau,M,Loja,WhatsApp,Técnico,2023,Diseño Gráfico,Online,Independiente,Tecnología,Nuevo,Luis Pineda,Machala
+688,2025-07-22,Maristela Bermejo Vizcaíno,M,Guayaquil,Facebook Ads,Universitario,2020,Electrónica,Presencial,Empleado,Salud,Contactado,David Rosales,Machala
+689,2025-09-12,Marcelo Barceló-Jáuregui,M,Quito,WhatsApp,Universitario,2017,Ciberseguridad,Presencial,Independiente,Servicios,Contactado,Luis Pineda,Loja
+690,2025-08-19,Geraldo de Páez,F,Guayaquil,WhatsApp,Universitario,2023,Enfermería,Presencial,Estudiante,Educación,Contactado,David Rosales,Loja
+691,2025-09-19,Poncio Tejero Amores,F,Zamora,Facebook Ads,Bachiller,2022,Electrónica,Presencial,Empleado,Salud,Nuevo,María Hidalgo,Loja
+692,2025-05-05,Azucena Sáenz Esteve,F,Machala,Facebook Ads,Técnico,2016,Big Data e Inteligencia de Negocios,Presencial,Desempleado,Educación,Nuevo,Luis Pineda,Loja
+693,2025-03-01,Herminia Almeida Sainz,F,Quito,Página Web,Bachiller,2022,Gastronomía,Presencial,Independiente,Industrial,Contactado,Ana Torres,Loja
+694,2025-05-03,Pastora Cabrera Landa,M,Quito,Página Web,Técnico,2021,Talento Humano,Presencial,Empleado,Industrial,Matriculado,David Rosales,Loja
+695,2025-05-20,Isaac Vazquez Rico,F,Guayaquil,Email,Bachiller,2020,Administración Financiera,Presencial,Independiente,Educación,Perdido,Ana Torres,Machala
+696,2025-08-23,Conrado de Rivas,M,Cuenca,WhatsApp,Bachiller,2016,Electrónica,Presencial,Desempleado,Tecnología,Nuevo,María Hidalgo,Machala
+697,2025-08-25,Elisa Lara Blasco,M,Quito,Página Web,Bachiller,2023,Talento Humano,Presencial,Empleado,Servicios,Matriculado,Ana Torres,Loja
+698,2025-07-23,Eugenia Valbuena Pinedo,F,Machala,Referido,Universitario,2018,Talento Humano,Presencial,Desempleado,Tecnología,Nuevo,Ana Torres,Machala
+699,2025-05-12,Amada Ana Cruz Arcos,F,Quito,WhatsApp,Bachiller,2018,Desarrollo de Software,Presencial,Estudiante,Comercio,Matriculado,María Hidalgo,Machala
+700,2025-04-08,Mauricio Sobrino Costa,F,Zamora,Referido,Universitario,2015,Desarrollo de Software,Online,Independiente,Salud,Perdido,David Rosales,Machala
+701,2025-07-04,Ale Melero Palomar,F,Machala,WhatsApp,Bachiller,2024,Administración Financiera,Online,Estudiante,Servicios,Nuevo,María Hidalgo,Loja
+702,2025-03-03,Bautista Torralba Carretero,M,Guayaquil,WhatsApp,Técnico,2022,Gastronomía,Presencial,Estudiante,Salud,Nuevo,Ana Torres,Machala
+703,2025-03-28,Luis Miguel del Borja,M,Zamora,WhatsApp,Universitario,2024,Administración Financiera,Online,Estudiante,Salud,Matriculado,David Rosales,Loja
+704,2025-03-31,Edelmira Anaya Canet,F,Quito,Facebook Ads,Bachiller,2022,Desarrollo de Software,Presencial,Estudiante,Educación,Contactado,María Hidalgo,Loja
+705,2025-08-31,Danilo Vila Solera,F,Cuenca,Facebook Ads,Universitario,2022,Gastronomía,Presencial,Empleado,Servicios,Nuevo,María Hidalgo,Machala
+706,2025-07-23,Julio Mínguez Mir,M,Guayaquil,Facebook Ads,Técnico,2016,Big Data e Inteligencia de Negocios,Presencial,Desempleado,Tecnología,Contactado,Ana Torres,Loja
+707,2025-07-13,Prudencio Oliveras-Torrecilla,F,Quito,Página Web,Bachiller,2016,Enfermería,Presencial,Empleado,Salud,Matriculado,Ana Torres,Machala
+708,2025-09-09,Plinio Gilberto Torre Alcaraz,M,Machala,Referido,Técnico,2023,Electrónica,Presencial,Desempleado,Comercio,Contactado,María Hidalgo,Loja
+709,2025-06-04,Clementina Bustamante Acevedo,F,Machala,WhatsApp,Universitario,2024,Big Data e Inteligencia de Negocios,Presencial,Empleado,Educación,Matriculado,Ana Torres,Loja
+710,2025-09-27,Encarnacion Tejada Sacristán,F,Guayaquil,Referido,Bachiller,2018,Electrónica,Online,Desempleado,Comercio,Contactado,David Rosales,Loja
+711,2025-03-24,Ignacia Gomis Arjona,F,Cuenca,Facebook Ads,Técnico,2015,Gastronomía,Presencial,Desempleado,Salud,Nuevo,María Hidalgo,Machala
+712,2025-04-25,Adora Montero Salvà,M,Guayaquil,WhatsApp,Universitario,2023,Electrónica,Online,Estudiante,Servicios,Matriculado,María Hidalgo,Loja
+713,2025-05-15,Carolina Pujadas Hernando,F,Guayaquil,WhatsApp,Universitario,2018,Administración Financiera,Presencial,Desempleado,Tecnología,Contactado,Ana Torres,Machala
+714,2025-09-12,Federico Egea Trillo,F,Quito,Facebook Ads,Técnico,2020,Big Data e Inteligencia de Negocios,Online,Independiente,Comercio,Contactado,Luis Pineda,Machala
+715,2025-05-22,Mercedes Angelina Lastra Ugarte,F,Machala,Referido,Bachiller,2022,Gastronomía,Presencial,Independiente,Educación,Matriculado,David Rosales,Loja
+716,2025-03-11,Esther Gascón-Mancebo,M,Guayaquil,Página Web,Bachiller,2018,Big Data e Inteligencia de Negocios,Presencial,Independiente,Servicios,Nuevo,Ana Torres,Loja
+717,2025-07-28,Ambrosio Mate,M,Quito,Página Web,Universitario,2021,Electrónica,Presencial,Independiente,Comercio,Contactado,María Hidalgo,Loja
+718,2025-07-04,Josep Vaquero Roselló,F,Guayaquil,WhatsApp,Bachiller,2017,Talento Humano,Presencial,Independiente,Tecnología,Nuevo,Ana Torres,Loja
+719,2025-08-21,Juan Manuel Rueda Hidalgo,F,Loja,WhatsApp,Técnico,2016,Electrónica,Presencial,Desempleado,Educación,Contactado,María Hidalgo,Machala
+720,2025-04-18,Bartolomé Ruiz Clavero,F,Cuenca,Facebook Ads,Universitario,2023,Diseño Gráfico,Online,Desempleado,Industrial,Nuevo,David Rosales,Loja
+721,2025-06-10,Graciela Llorente,M,Loja,Página Web,Técnico,2019,Enfermería,Presencial,Independiente,Tecnología,Nuevo,María Hidalgo,Loja
+722,2025-07-06,Jesús Rocamora Gordillo,F,Quito,Facebook Ads,Bachiller,2020,Electrónica,Presencial,Desempleado,Servicios,Nuevo,Luis Pineda,Loja
+723,2025-04-17,Samu Colomer-Olmedo,M,Quito,Facebook Ads,Técnico,2016,Desarrollo de Software,Online,Independiente,Educación,Nuevo,Ana Torres,Loja
+724,2025-09-02,Emilia Batalla Mora,M,Guayaquil,Referido,Universitario,2017,Diseño Gráfico,Presencial,Desempleado,Salud,Nuevo,María Hidalgo,Loja
+725,2025-09-06,Cleto Barranco Campos,M,Machala,WhatsApp,Técnico,2019,Electrónica,Online,Empleado,Comercio,Matriculado,Luis Pineda,Loja
+726,2025-07-14,Azeneth Calvet Melero,M,Machala,Facebook Ads,Bachiller,2016,Desarrollo de Software,Presencial,Empleado,Comercio,Matriculado,María Hidalgo,Loja
+727,2025-07-21,Eusebio Carreño Botella,M,Guayaquil,Referido,Técnico,2021,Desarrollo de Software,Presencial,Empleado,Industrial,Nuevo,María Hidalgo,Loja
+728,2025-08-04,Pedro Mínguez Aparicio,M,Cuenca,WhatsApp,Técnico,2017,Electrónica,Presencial,Empleado,Educación,Nuevo,Ana Torres,Loja
+729,2025-08-16,Sandalio Castillo Gárate,F,Quito,Facebook Ads,Universitario,2018,Gastronomía,Presencial,Desempleado,Salud,Matriculado,María Hidalgo,Machala
+730,2025-09-24,Filomena Rincón Landa,M,Loja,Facebook Ads,Universitario,2016,Enfermería,Presencial,Estudiante,Educación,Nuevo,David Rosales,Loja
+731,2025-09-19,Marisa Riquelme Fiol,M,Zamora,WhatsApp,Universitario,2019,Electrónica,Presencial,Estudiante,Industrial,Contactado,Ana Torres,Loja
+732,2025-04-20,Julia Soria Córdoba,M,Zamora,Página Web,Universitario,2020,Gastronomía,Online,Empleado,Salud,Contactado,Ana Torres,Loja
+733,2025-03-19,Soledad Odalis Girona Palacio,F,Loja,WhatsApp,Técnico,2021,Gastronomía,Presencial,Independiente,Industrial,Perdido,María Hidalgo,Machala
+734,2025-08-02,Eligio Águila-Puig,F,Cuenca,WhatsApp,Bachiller,2020,Gastronomía,Presencial,Independiente,Tecnología,Matriculado,Luis Pineda,Machala
+735,2025-03-02,Cebrián de Feijoo,M,Zamora,Referido,Técnico,2015,Gastronomía,Presencial,Desempleado,Salud,Contactado,Ana Torres,Machala
+736,2025-09-14,Dalila Rafaela Nuñez Baena,F,Machala,Página Web,Bachiller,2020,Diseño Gráfico,Presencial,Estudiante,Servicios,Matriculado,María Hidalgo,Loja
+737,2025-07-11,Borja Arcos,F,Zamora,Referido,Universitario,2021,Diseño Gráfico,Presencial,Desempleado,Comercio,Contactado,David Rosales,Machala
+738,2025-06-22,Lalo Girón Lopez,F,Machala,Referido,Técnico,2022,Diseño Gráfico,Presencial,Estudiante,Industrial,Nuevo,María Hidalgo,Loja
+739,2025-09-28,Teresa Castro-Garrido,M,Zamora,WhatsApp,Bachiller,2023,Electrónica,Presencial,Empleado,Servicios,Nuevo,David Rosales,Machala
+740,2025-06-20,Jose Carlos Soto Piquer,M,Guayaquil,Referido,Bachiller,2021,Enfermería,Presencial,Estudiante,Servicios,Contactado,Ana Torres,Machala
+741,2025-05-13,Melania Solana Bauzà,F,Zamora,WhatsApp,Técnico,2023,Electrónica,Online,Empleado,Tecnología,Nuevo,David Rosales,Loja
+742,2025-08-07,Inmaculada Valls Viana,F,Cuenca,Página Web,Universitario,2020,Talento Humano,Presencial,Independiente,Tecnología,Contactado,David Rosales,Loja
+743,2025-05-16,Angelino Exposito Mercader,F,Loja,WhatsApp,Universitario,2020,Talento Humano,Online,Empleado,Tecnología,Nuevo,María Hidalgo,Loja
+744,2025-08-31,María Pilar Espejo Llopis,M,Quito,Facebook Ads,Técnico,2019,Administración Financiera,Presencial,Empleado,Salud,Matriculado,Ana Torres,Machala
+745,2025-03-14,Rocío Primitiva Baeza Bosch,F,Guayaquil,Página Web,Universitario,2019,Ciberseguridad,Presencial,Desempleado,Servicios,Contactado,Luis Pineda,Machala
+746,2025-06-28,Clímaco del Nogués,F,Cuenca,WhatsApp,Técnico,2015,Big Data e Inteligencia de Negocios,Presencial,Empleado,Educación,Contactado,María Hidalgo,Loja
+747,2025-08-30,Sabina Peinado,F,Loja,Facebook Ads,Universitario,2015,Ciberseguridad,Presencial,Independiente,Tecnología,Perdido,David Rosales,Loja
+748,2025-08-10,Hector de Gómez,M,Machala,Facebook Ads,Bachiller,2019,Administración Financiera,Presencial,Empleado,Comercio,Nuevo,María Hidalgo,Loja
+749,2025-03-08,Arturo Quintero Jódar,M,Quito,Referido,Universitario,2023,Diseño Gráfico,Online,Independiente,Servicios,Matriculado,Luis Pineda,Machala
+750,2025-05-17,Dolores Acero Madrigal,M,Loja,WhatsApp,Bachiller,2017,Ciberseguridad,Presencial,Desempleado,Servicios,Nuevo,Luis Pineda,Machala
+751,2025-08-14,Andrés del Asensio,F,Guayaquil,Página Web,Bachiller,2024,Administración Financiera,Presencial,Empleado,Salud,Contactado,Luis Pineda,Loja
+752,2025-07-07,Juan Antonio Casado Blanca,M,Loja,Página Web,Técnico,2021,Big Data e Inteligencia de Negocios,Presencial,Desempleado,Industrial,Matriculado,Luis Pineda,Loja
+753,2025-08-14,Domitila Evangelina Gibert Marquez,F,Quito,WhatsApp,Universitario,2015,Big Data e Inteligencia de Negocios,Presencial,Independiente,Industrial,Nuevo,Luis Pineda,Loja
+754,2025-04-15,Severiano Ortiz Sanmartín,M,Zamora,Facebook Ads,Técnico,2019,Talento Humano,Presencial,Desempleado,Salud,Nuevo,Luis Pineda,Loja
+755,2025-07-01,Marino Frías Alberdi,F,Zamora,WhatsApp,Universitario,2024,Diseño Gráfico,Presencial,Desempleado,Servicios,Perdido,Luis Pineda,Machala
+756,2025-05-11,María Luisa Maestre Catalá,F,Guayaquil,Página Web,Universitario,2021,Enfermería,Presencial,Desempleado,Educación,Perdido,David Rosales,Machala
+757,2025-06-17,Ramón Serna,F,Cuenca,Facebook Ads,Universitario,2022,Administración Financiera,Presencial,Desempleado,Comercio,Contactado,María Hidalgo,Loja
+758,2025-05-11,Amaro Otero-Estrada,F,Guayaquil,Referido,Bachiller,2022,Talento Humano,Presencial,Independiente,Servicios,Nuevo,María Hidalgo,Loja
+759,2025-04-17,Quique Villalobos,F,Cuenca,Página Web,Técnico,2022,Big Data e Inteligencia de Negocios,Presencial,Estudiante,Servicios,Contactado,Luis Pineda,Loja
+760,2025-05-29,Marcia Ortiz Riba,F,Guayaquil,Facebook Ads,Técnico,2022,Gastronomía,Presencial,Desempleado,Industrial,Matriculado,María Hidalgo,Loja
+761,2025-06-15,Ignacia Marisol Angulo Figuerola,F,Loja,WhatsApp,Bachiller,2017,Talento Humano,Online,Independiente,Comercio,Contactado,María Hidalgo,Loja
+762,2025-03-18,Cipriano Tomas,M,Guayaquil,WhatsApp,Bachiller,2017,Enfermería,Presencial,Estudiante,Servicios,Contactado,David Rosales,Loja
+763,2025-03-09,Jordán Garriga Uría,F,Machala,Página Web,Bachiller,2015,Talento Humano,Presencial,Empleado,Tecnología,Contactado,Luis Pineda,Loja
+764,2025-05-26,Jose Miguel Chaparro,M,Cuenca,WhatsApp,Universitario,2021,Diseño Gráfico,Presencial,Empleado,Tecnología,Nuevo,Luis Pineda,Loja
+765,2025-09-15,Bernarda Tormo Huguet,F,Cuenca,Referido,Bachiller,2020,Enfermería,Presencial,Independiente,Tecnología,Perdido,Ana Torres,Machala
+766,2025-08-01,Juan Pablo Linares Morales,F,Zamora,Página Web,Técnico,2022,Electrónica,Presencial,Desempleado,Servicios,Matriculado,Ana Torres,Loja
+767,2025-05-18,Bernardino Balaguer Patiño,M,Guayaquil,Facebook Ads,Técnico,2016,Administración Financiera,Presencial,Desempleado,Industrial,Nuevo,Ana Torres,Machala
+768,2025-04-14,Trinidad Yolanda Bermúdez Alarcón,F,Guayaquil,Página Web,Bachiller,2020,Administración Financiera,Presencial,Empleado,Educación,Perdido,Ana Torres,Loja
+769,2025-06-26,Calixto Puig Cornejo,F,Zamora,Página Web,Universitario,2015,Diseño Gráfico,Presencial,Desempleado,Industrial,Nuevo,Luis Pineda,Loja
+770,2025-07-18,Glauco Leocadio Navarrete Delgado,F,Guayaquil,Referido,Técnico,2019,Talento Humano,Online,Independiente,Industrial,Contactado,Ana Torres,Loja
+771,2025-09-23,Martirio del Leiva,F,Guayaquil,WhatsApp,Bachiller,2022,Desarrollo de Software,Presencial,Independiente,Comercio,Contactado,David Rosales,Loja
+772,2025-09-19,Maite Pérez Galvez,M,Loja,Facebook Ads,Universitario,2021,Electrónica,Presencial,Empleado,Educación,Matriculado,Ana Torres,Machala
+773,2025-05-29,Tristán Vilaplana,F,Machala,WhatsApp,Bachiller,2021,Desarrollo de Software,Online,Estudiante,Servicios,Perdido,María Hidalgo,Loja
+774,2025-03-20,Julieta Iglesias Águila,F,Zamora,Referido,Bachiller,2021,Diseño Gráfico,Presencial,Estudiante,Educación,Nuevo,Luis Pineda,Loja
+775,2025-03-17,Florinda Cabello Coll,M,Cuenca,Facebook Ads,Bachiller,2018,Big Data e Inteligencia de Negocios,Presencial,Empleado,Industrial,Contactado,Luis Pineda,Machala
+776,2025-04-28,Darío Jove-Terrón,M,Guayaquil,Email,Universitario,2023,Talento Humano,Presencial,Independiente,Salud,Nuevo,David Rosales,Loja
+777,2025-06-14,Alcides Sarabia Exposito,M,Loja,WhatsApp,Universitario,2019,Administración Financiera,Presencial,Desempleado,Educación,Contactado,Luis Pineda,Machala
+778,2025-07-21,Paula Rey,M,Loja,Facebook Ads,Bachiller,2024,Gastronomía,Presencial,Independiente,Educación,Perdido,Ana Torres,Loja
+779,2025-03-25,Luis Lozano,M,Cuenca,WhatsApp,Universitario,2022,Gastronomía,Online,Independiente,Educación,Nuevo,David Rosales,Machala
+780,2025-06-28,Wilfredo Barrera Robles,F,Quito,Página Web,Técnico,2023,Talento Humano,Presencial,Empleado,Tecnología,Contactado,María Hidalgo,Machala
+781,2025-08-22,Severino Alfonso Oliveras,F,Quito,WhatsApp,Bachiller,2020,Enfermería,Presencial,Estudiante,Tecnología,Perdido,Luis Pineda,Machala
+782,2025-03-28,Lupita Ferrán Mata,F,Quito,WhatsApp,Bachiller,2020,Administración Financiera,Presencial,Desempleado,Servicios,Matriculado,David Rosales,Machala
+783,2025-07-09,Teodoro del Ferrer,M,Loja,Facebook Ads,Universitario,2024,Desarrollo de Software,Online,Empleado,Educación,Nuevo,David Rosales,Loja
+784,2025-08-09,José Manuel Meléndez Salamanca,M,Cuenca,Página Web,Técnico,2019,Big Data e Inteligencia de Negocios,Online,Desempleado,Educación,Nuevo,María Hidalgo,Loja
+785,2025-06-01,Roldán Carreras Llabrés,F,Machala,WhatsApp,Universitario,2024,Electrónica,Presencial,Estudiante,Servicios,Nuevo,David Rosales,Loja
+786,2025-07-13,Marcia Cordero Reguera,F,Loja,Página Web,Bachiller,2017,Administración Financiera,Presencial,Empleado,Comercio,Matriculado,Ana Torres,Machala
+787,2025-06-11,Azahar Gelabert-Juan,F,Guayaquil,WhatsApp,Bachiller,2021,Ciberseguridad,Presencial,Estudiante,Industrial,Matriculado,María Hidalgo,Loja
+788,2025-07-26,Jacinta Bastida Pozuelo,M,Machala,Página Web,Técnico,2023,Ciberseguridad,Presencial,Desempleado,Industrial,Matriculado,David Rosales,Machala
+789,2025-04-21,Débora Mosquera-Cifuentes,F,Quito,Referido,Bachiller,2020,Talento Humano,Online,Empleado,Salud,Contactado,María Hidalgo,Loja
+790,2025-06-18,María Jesús Fuertes,F,Loja,Facebook Ads,Bachiller,2020,Electrónica,Presencial,Estudiante,Salud,Contactado,Ana Torres,Loja
+791,2025-09-07,Edmundo de Aroca,M,Guayaquil,Página Web,Bachiller,2017,Talento Humano,Online,Desempleado,Comercio,Matriculado,David Rosales,Machala
+792,2025-07-05,María Rovira Porras,F,Guayaquil,Facebook Ads,Universitario,2022,Diseño Gráfico,Online,Estudiante,Educación,Nuevo,Ana Torres,Machala
+793,2025-08-30,Mateo Máximo Capdevila Blanco,F,Loja,Facebook Ads,Bachiller,2017,Administración Financiera,Presencial,Empleado,Comercio,Contactado,Ana Torres,Machala
+794,2025-04-21,Dolores Noriega-Miró,M,Loja,Referido,Bachiller,2015,Talento Humano,Online,Estudiante,Industrial,Contactado,David Rosales,Loja
+795,2025-07-02,Clara Sol Arnal Suárez,F,Loja,WhatsApp,Bachiller,2022,Administración Financiera,Presencial,Estudiante,Industrial,Contactado,María Hidalgo,Loja
+796,2025-07-23,María Amorós Corbacho,F,Cuenca,WhatsApp,Técnico,2021,Gastronomía,Presencial,Estudiante,Servicios,Contactado,David Rosales,Machala
+797,2025-04-28,Juana Ferrán,M,Cuenca,Página Web,Técnico,2018,Desarrollo de Software,Online,Empleado,Industrial,Nuevo,David Rosales,Machala
+798,2025-09-21,Melisa Salmerón Rubio,M,Guayaquil,Facebook Ads,Técnico,2021,Gastronomía,Online,Desempleado,Servicios,Perdido,David Rosales,Loja
+799,2025-08-23,Ruy Antón Acosta,F,Cuenca,Facebook Ads,Técnico,2018,Enfermería,Online,Estudiante,Industrial,Matriculado,Luis Pineda,Machala
+800,2025-06-20,Estefanía de Gisbert,M,Machala,Facebook Ads,Universitario,2024,Big Data e Inteligencia de Negocios,Presencial,Independiente,Educación,Contactado,María Hidalgo,Loja
+801,2025-04-19,René Guzmán Blanco,F,Machala,WhatsApp,Universitario,2022,Ciberseguridad,Online,Empleado,Salud,Nuevo,María Hidalgo,Machala
+802,2025-09-21,Lorenzo Pascual Vidal,M,Zamora,WhatsApp,Técnico,2023,Big Data e Inteligencia de Negocios,Presencial,Empleado,Servicios,Perdido,Ana Torres,Machala
+803,2025-05-12,Salvador Acedo Girona,F,Zamora,Facebook Ads,Técnico,2021,Diseño Gráfico,Online,Independiente,Salud,Nuevo,Ana Torres,Machala
+804,2025-04-10,Emilio Palau-Zamorano,F,Guayaquil,Página Web,Bachiller,2017,Talento Humano,Presencial,Estudiante,Educación,Matriculado,Ana Torres,Loja
+805,2025-05-27,Diana Piñol-Albero,F,Machala,WhatsApp,Universitario,2024,Administración Financiera,Presencial,Desempleado,Educación,Contactado,Ana Torres,Machala
+806,2025-04-25,Tatiana Tejada Mendizábal,F,Cuenca,WhatsApp,Bachiller,2019,Administración Financiera,Online,Independiente,Industrial,Nuevo,Ana Torres,Machala
+807,2025-06-27,Raimundo Garrido Madrid,F,Cuenca,WhatsApp,Bachiller,2020,Big Data e Inteligencia de Negocios,Online,Desempleado,Comercio,Perdido,Ana Torres,Machala
+808,2025-06-29,Reyes Guitart,F,Machala,Página Web,Bachiller,2023,Big Data e Inteligencia de Negocios,Presencial,Independiente,Servicios,Matriculado,Luis Pineda,Loja
+809,2025-09-16,Francisco Jose Seco Manjón,M,Guayaquil,Facebook Ads,Universitario,2023,Ciberseguridad,Presencial,Desempleado,Educación,Contactado,Luis Pineda,Loja
+810,2025-07-23,Baudelio Morata Egea,M,Quito,WhatsApp,Técnico,2016,Administración Financiera,Presencial,Empleado,Educación,Nuevo,Luis Pineda,Loja
+811,2025-03-14,Feliciano Seguí Sedano,M,Machala,WhatsApp,Universitario,2020,Desarrollo de Software,Presencial,Empleado,Educación,Contactado,David Rosales,Machala
+812,2025-07-28,Maristela Barriga,M,Quito,Facebook Ads,Universitario,2024,Gastronomía,Presencial,Estudiante,Industrial,Contactado,María Hidalgo,Machala
+813,2025-06-25,Irma Agustín Caro,M,Zamora,WhatsApp,Universitario,2019,Big Data e Inteligencia de Negocios,Presencial,Independiente,Educación,Nuevo,María Hidalgo,Loja
+814,2025-07-24,Lorenzo Saavedra-Soler,M,Loja,Página Web,Bachiller,2021,Diseño Gráfico,Presencial,Empleado,Servicios,Contactado,Luis Pineda,Loja
+815,2025-06-05,Lucio Donoso Barroso,F,Cuenca,Referido,Técnico,2018,Talento Humano,Presencial,Independiente,Servicios,Contactado,David Rosales,Machala
+816,2025-07-01,Jaime del Viña,F,Quito,WhatsApp,Bachiller,2017,Talento Humano,Presencial,Empleado,Educación,Matriculado,David Rosales,Machala
+817,2025-05-05,Pío Tamayo Benavides,M,Cuenca,WhatsApp,Universitario,2022,Talento Humano,Presencial,Desempleado,Servicios,Contactado,María Hidalgo,Loja
+818,2025-09-28,María Fernanda Adán Malo,M,Machala,Facebook Ads,Técnico,2022,Enfermería,Presencial,Empleado,Educación,Matriculado,David Rosales,Machala
+819,2025-04-28,Inocencio Ferrándiz Mínguez,F,Guayaquil,WhatsApp,Universitario,2017,Ciberseguridad,Online,Desempleado,Salud,Matriculado,Luis Pineda,Machala
+820,2025-06-12,Miguel Montesinos Maza,F,Cuenca,WhatsApp,Universitario,2017,Enfermería,Presencial,Estudiante,Educación,Contactado,María Hidalgo,Machala
+821,2025-09-04,Balduino Abril,F,Quito,Página Web,Universitario,2024,Enfermería,Presencial,Empleado,Comercio,Nuevo,Ana Torres,Machala
+822,2025-09-22,Pablo Donoso-Perea,M,Quito,Facebook Ads,Universitario,2017,Gastronomía,Presencial,Independiente,Salud,Contactado,David Rosales,Loja
+823,2025-08-13,Matías Font Rozas,M,Loja,WhatsApp,Bachiller,2017,Administración Financiera,Presencial,Desempleado,Tecnología,Nuevo,Ana Torres,Machala
+824,2025-04-10,Tito Bejarano Gargallo,M,Guayaquil,Facebook Ads,Bachiller,2024,Electrónica,Presencial,Desempleado,Industrial,Nuevo,María Hidalgo,Machala
+825,2025-08-14,Dani Pedro Torrecilla,M,Quito,Página Web,Bachiller,2020,Ciberseguridad,Online,Desempleado,Servicios,Matriculado,David Rosales,Loja
+826,2025-09-27,Flavio de Gras,F,Quito,WhatsApp,Técnico,2017,Administración Financiera,Presencial,Independiente,Industrial,Matriculado,David Rosales,Machala
+827,2025-07-02,Felicidad Pizarro Baños,F,Quito,WhatsApp,Bachiller,2024,Administración Financiera,Presencial,Estudiante,Tecnología,Matriculado,Luis Pineda,Loja
+828,2025-07-24,Juan Manuel Vallejo-Cardona,M,Cuenca,Referido,Bachiller,2020,Diseño Gráfico,Online,Empleado,Comercio,Nuevo,Ana Torres,Loja
+829,2025-04-29,Kike de Peñas,F,Machala,WhatsApp,Universitario,2016,Gastronomía,Presencial,Independiente,Educación,Nuevo,Luis Pineda,Loja
+830,2025-03-29,Paulina Rivero Jáuregui,F,Quito,WhatsApp,Universitario,2019,Desarrollo de Software,Presencial,Independiente,Educación,Contactado,María Hidalgo,Loja
+831,2025-06-27,Francisco Jose Castro Acedo,F,Guayaquil,WhatsApp,Técnico,2019,Electrónica,Presencial,Estudiante,Comercio,Nuevo,Luis Pineda,Loja
+832,2025-07-26,Ascensión Tur Sanz,M,Guayaquil,WhatsApp,Técnico,2018,Talento Humano,Presencial,Empleado,Comercio,Nuevo,David Rosales,Machala
+833,2025-03-04,Emilio Cabeza Llano,M,Guayaquil,WhatsApp,Técnico,2022,Enfermería,Online,Estudiante,Industrial,Contactado,Luis Pineda,Loja
+834,2025-09-10,Anabel Segovia Cornejo,F,Guayaquil,Página Web,Bachiller,2015,Gastronomía,Presencial,Empleado,Tecnología,Perdido,Ana Torres,Machala
+835,2025-06-16,Aureliano de Manzanares,F,Machala,WhatsApp,Bachiller,2024,Electrónica,Online,Estudiante,Servicios,Contactado,David Rosales,Loja
+836,2025-08-22,Calixta Tomé Barrios,F,Zamora,Página Web,Técnico,2020,Administración Financiera,Presencial,Desempleado,Salud,Nuevo,Ana Torres,Loja
+837,2025-08-24,Marc Giner Amor,M,Machala,Facebook Ads,Universitario,2015,Talento Humano,Online,Independiente,Salud,Nuevo,María Hidalgo,Loja
+838,2025-03-02,Cebrián Jose Luis Catalán Fuente,F,Loja,WhatsApp,Bachiller,2024,Desarrollo de Software,Presencial,Empleado,Industrial,Contactado,María Hidalgo,Loja
+839,2025-08-27,Perla Doménech Guitart,F,Cuenca,Facebook Ads,Bachiller,2015,Administración Financiera,Presencial,Estudiante,Comercio,Contactado,Ana Torres,Machala
+840,2025-06-25,Dani Casals Portillo,M,Quito,Facebook Ads,Bachiller,2022,Electrónica,Online,Desempleado,Tecnología,Nuevo,Ana Torres,Machala
+841,2025-08-24,Ruth Lara,M,Guayaquil,Facebook Ads,Técnico,2021,Diseño Gráfico,Presencial,Estudiante,Tecnología,Contactado,Ana Torres,Loja
+842,2025-03-02,Francisco Jose Tejero Antón,F,Machala,WhatsApp,Universitario,2023,Big Data e Inteligencia de Negocios,Presencial,Independiente,Tecnología,Contactado,Luis Pineda,Loja
+843,2025-08-16,Chucho Serra Gracia,M,Guayaquil,WhatsApp,Universitario,2021,Big Data e Inteligencia de Negocios,Presencial,Independiente,Comercio,Nuevo,Luis Pineda,Loja
+844,2025-09-24,Nilo Campos Almeida,F,Quito,Facebook Ads,Universitario,2021,Electrónica,Presencial,Empleado,Industrial,Contactado,David Rosales,Loja
+845,2025-05-11,Carmelita Amelia Canales Olivera,M,Zamora,WhatsApp,Técnico,2023,Desarrollo de Software,Presencial,Empleado,Comercio,Matriculado,David Rosales,Machala
+846,2025-04-18,Eliana Carbó Madrid,M,Guayaquil,WhatsApp,Técnico,2019,Diseño Gráfico,Presencial,Desempleado,Educación,Nuevo,Ana Torres,Loja
+847,2025-03-02,Jennifer del Llanos,M,Guayaquil,Facebook Ads,Técnico,2024,Diseño Gráfico,Presencial,Empleado,Industrial,Matriculado,David Rosales,Machala
+848,2025-06-30,Felipe Macías-Manrique,F,Guayaquil,Referido,Bachiller,2023,Electrónica,Presencial,Estudiante,Industrial,Contactado,María Hidalgo,Loja
+849,2025-05-19,Pascuala Toledo-Dalmau,M,Machala,Página Web,Técnico,2019,Gastronomía,Presencial,Empleado,Industrial,Nuevo,David Rosales,Machala
+850,2025-09-11,Graciela Verdugo Galán,M,Zamora,WhatsApp,Universitario,2020,Big Data e Inteligencia de Negocios,Presencial,Independiente,Servicios,Perdido,María Hidalgo,Machala
+851,2025-04-03,María Teresa Pedrero Roselló,F,Quito,Página Web,Bachiller,2018,Desarrollo de Software,Presencial,Independiente,Educación,Matriculado,David Rosales,Loja
+852,2025-05-07,Fabiana Giner Cózar,M,Zamora,Página Web,Bachiller,2024,Big Data e Inteligencia de Negocios,Presencial,Empleado,Comercio,Matriculado,Luis Pineda,Machala
+853,2025-06-24,Cayetano Azcona-Baquero,M,Loja,Página Web,Universitario,2020,Enfermería,Presencial,Estudiante,Educación,Contactado,Ana Torres,Machala
+854,2025-07-31,Cesar Mariano Tolosa Echeverría,M,Machala,Facebook Ads,Bachiller,2016,Gastronomía,Online,Empleado,Salud,Nuevo,David Rosales,Machala
+855,2025-07-01,Luís Iñiguez Mora,F,Loja,Página Web,Bachiller,2015,Gastronomía,Online,Empleado,Tecnología,Nuevo,Ana Torres,Machala
+856,2025-09-06,Esteban Reyes Calleja,F,Machala,Referido,Bachiller,2017,Big Data e Inteligencia de Negocios,Presencial,Empleado,Tecnología,Matriculado,María Hidalgo,Loja
+857,2025-05-14,José Mari Andres Cañizares,M,Quito,WhatsApp,Universitario,2024,Administración Financiera,Presencial,Desempleado,Comercio,Matriculado,María Hidalgo,Loja
+858,2025-07-23,Carmina Meléndez Méndez,M,Loja,Facebook Ads,Universitario,2020,Big Data e Inteligencia de Negocios,Online,Independiente,Industrial,Contactado,David Rosales,Machala
+859,2025-05-19,Flor Muro,F,Machala,Facebook Ads,Universitario,2017,Diseño Gráfico,Presencial,Independiente,Salud,Contactado,Ana Torres,Loja
+860,2025-07-31,Pepito Caparrós Carballo,F,Guayaquil,Facebook Ads,Bachiller,2023,Desarrollo de Software,Presencial,Estudiante,Tecnología,Perdido,David Rosales,Machala
+861,2025-09-24,Goyo Larrañaga Carpio,F,Loja,WhatsApp,Técnico,2022,Enfermería,Presencial,Estudiante,Educación,Matriculado,Luis Pineda,Loja
+862,2025-06-02,Jose Manuel Peñalver Arrieta,F,Guayaquil,Página Web,Bachiller,2020,Enfermería,Presencial,Independiente,Educación,Contactado,David Rosales,Loja
+863,2025-05-26,Sol Gomez-Tomé,F,Cuenca,Facebook Ads,Universitario,2018,Big Data e Inteligencia de Negocios,Presencial,Desempleado,Servicios,Nuevo,Ana Torres,Machala
+864,2025-05-05,Yolanda Anselma Casares Casado,F,Machala,WhatsApp,Universitario,2024,Administración Financiera,Online,Desempleado,Tecnología,Matriculado,Ana Torres,Machala
+865,2025-06-20,Rosaura Anguita Borrego,F,Machala,WhatsApp,Bachiller,2017,Desarrollo de Software,Online,Estudiante,Salud,Matriculado,Ana Torres,Loja
+866,2025-07-20,Gertrudis Suarez Barbero,F,Guayaquil,Facebook Ads,Bachiller,2021,Enfermería,Presencial,Empleado,Educación,Nuevo,David Rosales,Loja
+867,2025-07-01,Gerardo Isaías Carrasco Pineda,F,Zamora,Referido,Técnico,2024,Desarrollo de Software,Presencial,Empleado,Industrial,Contactado,Luis Pineda,Machala
+868,2025-06-17,Carlota León Gil,F,Zamora,Referido,Técnico,2021,Talento Humano,Presencial,Independiente,Servicios,Contactado,Luis Pineda,Machala
+869,2025-03-17,Alcides Durán Barriga,M,Zamora,WhatsApp,Técnico,2015,Electrónica,Online,Empleado,Servicios,Contactado,Ana Torres,Machala
+870,2025-06-03,Ezequiel Cervera Andres,F,Quito,Facebook Ads,Técnico,2015,Gastronomía,Presencial,Empleado,Servicios,Nuevo,María Hidalgo,Machala
+871,2025-09-08,Itziar Llorens Cerdá,M,Cuenca,Email,Bachiller,2020,Talento Humano,Presencial,Empleado,Servicios,Contactado,Ana Torres,Machala
+872,2025-08-28,Sabas Perales Madrid,F,Quito,WhatsApp,Bachiller,2020,Enfermería,Presencial,Empleado,Educación,Nuevo,Luis Pineda,Machala
+873,2025-09-04,Milagros Alcolea Guzmán,F,Quito,Referido,Bachiller,2018,Diseño Gráfico,Presencial,Independiente,Comercio,Matriculado,David Rosales,Loja
+874,2025-05-30,Plinio Calvo Ojeda,F,Zamora,WhatsApp,Técnico,2024,Big Data e Inteligencia de Negocios,Presencial,Empleado,Industrial,Contactado,Luis Pineda,Machala
+875,2025-08-26,Amando Prats Guerra,M,Guayaquil,Facebook Ads,Técnico,2018,Gastronomía,Presencial,Independiente,Salud,Perdido,María Hidalgo,Loja
+876,2025-05-16,José Antonio Asenjo-Barragán,M,Zamora,Facebook Ads,Técnico,2015,Gastronomía,Presencial,Estudiante,Servicios,Contactado,David Rosales,Loja
+877,2025-06-05,Bernardo Ferrán Asenjo,M,Cuenca,Página Web,Técnico,2015,Big Data e Inteligencia de Negocios,Presencial,Desempleado,Industrial,Nuevo,Ana Torres,Machala
+878,2025-05-10,Rebeca Anguita Calderón,M,Guayaquil,Facebook Ads,Universitario,2016,Enfermería,Presencial,Desempleado,Industrial,Contactado,David Rosales,Machala
+879,2025-07-12,Francisco Jose Gargallo Pombo,F,Machala,Email,Universitario,2018,Talento Humano,Online,Estudiante,Servicios,Nuevo,Ana Torres,Loja
+880,2025-05-08,Pánfilo Santiago Iglesia Bello,F,Cuenca,Facebook Ads,Bachiller,2018,Administración Financiera,Online,Estudiante,Educación,Perdido,Luis Pineda,Machala
+881,2025-08-19,Haroldo Salas Machado,F,Loja,WhatsApp,Bachiller,2017,Talento Humano,Presencial,Desempleado,Industrial,Nuevo,Ana Torres,Machala
+882,2025-09-05,Carmina Fuertes,F,Guayaquil,Página Web,Universitario,2017,Big Data e Inteligencia de Negocios,Presencial,Estudiante,Educación,Matriculado,David Rosales,Loja
+883,2025-04-07,Pepito Barragán Amaya,F,Cuenca,Referido,Técnico,2017,Electrónica,Presencial,Independiente,Industrial,Contactado,David Rosales,Loja
+884,2025-05-22,Carmen Salazar,F,Loja,Página Web,Bachiller,2022,Gastronomía,Presencial,Desempleado,Industrial,Matriculado,David Rosales,Machala
+885,2025-08-13,Nadia Miró Osuna,M,Loja,Facebook Ads,Universitario,2015,Administración Financiera,Presencial,Empleado,Servicios,Contactado,Luis Pineda,Machala
+886,2025-09-10,Eustaquio Cabanillas Torrijos,F,Machala,Facebook Ads,Universitario,2021,Talento Humano,Online,Desempleado,Salud,Contactado,Luis Pineda,Machala
+887,2025-06-16,Lucas Polo-Folch,M,Loja,WhatsApp,Técnico,2017,Gastronomía,Presencial,Desempleado,Servicios,Nuevo,Ana Torres,Loja
+888,2025-04-04,Ámbar Calleja Manjón,M,Quito,Referido,Bachiller,2019,Gastronomía,Presencial,Estudiante,Servicios,Nuevo,Ana Torres,Loja
+889,2025-03-04,Vinicio Pagès Lozano,F,Cuenca,WhatsApp,Técnico,2024,Ciberseguridad,Online,Independiente,Servicios,Nuevo,David Rosales,Loja
+890,2025-07-13,Julie Micaela Franco Belda,F,Machala,WhatsApp,Bachiller,2016,Electrónica,Online,Estudiante,Servicios,Nuevo,David Rosales,Loja
+891,2025-06-09,Ciríaco Saura-Font,F,Loja,Página Web,Bachiller,2020,Electrónica,Online,Desempleado,Educación,Nuevo,María Hidalgo,Loja
+892,2025-05-16,Rubén Bellido-Elorza,F,Cuenca,WhatsApp,Universitario,2018,Ciberseguridad,Online,Empleado,Tecnología,Nuevo,María Hidalgo,Machala
+893,2025-03-26,Coral Nieto Landa,M,Guayaquil,WhatsApp,Técnico,2016,Enfermería,Presencial,Desempleado,Servicios,Nuevo,Luis Pineda,Loja
+894,2025-04-19,Plinio de Torralba,M,Loja,Página Web,Bachiller,2018,Gastronomía,Online,Estudiante,Educación,Nuevo,Luis Pineda,Machala
+895,2025-06-11,Mónica Sanmiguel Llobet,M,Zamora,Facebook Ads,Universitario,2018,Administración Financiera,Online,Independiente,Educación,Matriculado,Luis Pineda,Machala
+896,2025-05-12,Tristán Belda Company,F,Loja,WhatsApp,Universitario,2018,Desarrollo de Software,Presencial,Estudiante,Industrial,Matriculado,María Hidalgo,Loja
+897,2025-07-18,Mamen Clavero Chaves,M,Cuenca,Facebook Ads,Bachiller,2020,Ciberseguridad,Presencial,Empleado,Comercio,Contactado,Luis Pineda,Loja
+898,2025-03-21,Natalia Amparo Montesinos Mercader,M,Quito,Referido,Técnico,2016,Electrónica,Online,Independiente,Salud,Nuevo,María Hidalgo,Machala
+899,2025-06-26,Mirta Escribano Millán,F,Loja,WhatsApp,Técnico,2015,Desarrollo de Software,Presencial,Independiente,Industrial,Nuevo,Ana Torres,Loja
+900,2025-05-03,Cecilia Vilanova,M,Machala,Facebook Ads,Universitario,2015,Administración Financiera,Presencial,Independiente,Educación,Perdido,María Hidalgo,Machala
+901,2025-08-22,Adrián Gimeno Llobet,M,Zamora,WhatsApp,Técnico,2023,Desarrollo de Software,Presencial,Estudiante,Comercio,Contactado,Ana Torres,Machala
+902,2025-06-25,Remigio Buendía-Alemán,M,Cuenca,WhatsApp,Técnico,2017,Big Data e Inteligencia de Negocios,Online,Independiente,Industrial,Nuevo,Luis Pineda,Machala
+903,2025-08-31,Renata Diez,F,Quito,Página Web,Técnico,2023,Desarrollo de Software,Presencial,Empleado,Industrial,Nuevo,David Rosales,Loja
+904,2025-07-09,Tomasa Viñas Moreno,M,Zamora,WhatsApp,Bachiller,2015,Desarrollo de Software,Presencial,Estudiante,Comercio,Nuevo,Luis Pineda,Loja
+905,2025-04-13,Adelardo del Mulet,F,Machala,Facebook Ads,Bachiller,2015,Enfermería,Presencial,Desempleado,Industrial,Matriculado,Luis Pineda,Loja
+906,2025-08-10,Gema Bustamante Espinosa,M,Zamora,Facebook Ads,Técnico,2018,Diseño Gráfico,Presencial,Independiente,Salud,Nuevo,David Rosales,Loja
+907,2025-09-11,Oriana Ballester Barrera,M,Machala,WhatsApp,Técnico,2022,Gastronomía,Presencial,Empleado,Servicios,Contactado,Ana Torres,Machala
+908,2025-05-01,Maximiano Colomer Carro,M,Machala,Referido,Universitario,2019,Ciberseguridad,Presencial,Estudiante,Educación,Nuevo,Luis Pineda,Loja
+909,2025-03-01,Julio César Pedro Pereira Perelló,M,Machala,WhatsApp,Bachiller,2024,Administración Financiera,Presencial,Estudiante,Industrial,Matriculado,Luis Pineda,Machala
+910,2025-08-22,Paz Arana Costa,F,Guayaquil,WhatsApp,Técnico,2018,Desarrollo de Software,Presencial,Desempleado,Tecnología,Contactado,María Hidalgo,Loja
+911,2025-06-22,Viviana Amat Pera,F,Cuenca,Facebook Ads,Bachiller,2024,Electrónica,Presencial,Independiente,Salud,Nuevo,Luis Pineda,Loja
+912,2025-05-15,María Teresa Palau Gordillo,M,Loja,Referido,Bachiller,2024,Talento Humano,Presencial,Desempleado,Industrial,Contactado,David Rosales,Machala
+913,2025-08-05,Maite Patricia Echevarría Colom,M,Machala,Página Web,Universitario,2024,Gastronomía,Presencial,Empleado,Salud,Nuevo,María Hidalgo,Machala
+914,2025-09-07,Primitivo del Roca,F,Loja,Referido,Universitario,2024,Administración Financiera,Presencial,Empleado,Educación,Contactado,Luis Pineda,Machala
+915,2025-08-21,Inmaculada Benavente,M,Loja,Página Web,Técnico,2015,Desarrollo de Software,Presencial,Estudiante,Tecnología,Matriculado,Ana Torres,Loja
+916,2025-03-18,Paca Calatayud Anguita,M,Machala,Facebook Ads,Técnico,2024,Diseño Gráfico,Presencial,Desempleado,Salud,Nuevo,David Rosales,Machala
+917,2025-08-25,Heliodoro Acero,F,Machala,Página Web,Universitario,2018,Gastronomía,Presencial,Independiente,Educación,Nuevo,María Hidalgo,Loja
+918,2025-09-17,Emigdio Lledó Alcalde,M,Quito,WhatsApp,Universitario,2019,Electrónica,Online,Empleado,Servicios,Matriculado,David Rosales,Machala
+919,2025-04-12,Pablo Izaguirre Perea,F,Cuenca,WhatsApp,Bachiller,2016,Talento Humano,Presencial,Estudiante,Industrial,Perdido,Ana Torres,Machala
+920,2025-03-28,Miguela Heras Peinado,F,Cuenca,Página Web,Técnico,2023,Administración Financiera,Presencial,Desempleado,Tecnología,Perdido,David Rosales,Machala
+921,2025-07-11,Rodrigo Severo Falcón Recio,F,Cuenca,Facebook Ads,Universitario,2022,Desarrollo de Software,Presencial,Independiente,Educación,Matriculado,David Rosales,Machala
+922,2025-09-10,Marc Núñez Gálvez,F,Zamora,Referido,Universitario,2016,Ciberseguridad,Online,Estudiante,Industrial,Contactado,Ana Torres,Machala
+923,2025-08-22,Raimundo Yáñez Pino,M,Quito,Página Web,Universitario,2015,Desarrollo de Software,Presencial,Estudiante,Tecnología,Contactado,David Rosales,Machala
+924,2025-07-29,Jennifer de Real,M,Cuenca,Facebook Ads,Bachiller,2022,Desarrollo de Software,Online,Estudiante,Servicios,Nuevo,Ana Torres,Machala
+925,2025-08-28,Cruz Lledó Moles,F,Quito,Facebook Ads,Universitario,2018,Diseño Gráfico,Online,Desempleado,Comercio,Perdido,Ana Torres,Loja
+926,2025-03-28,Alberto del Barriga,F,Loja,Página Web,Universitario,2020,Desarrollo de Software,Presencial,Desempleado,Servicios,Nuevo,Luis Pineda,Loja
+927,2025-03-12,Mirta Torrents Mora,F,Machala,WhatsApp,Bachiller,2015,Diseño Gráfico,Presencial,Desempleado,Educación,Contactado,David Rosales,Loja
+928,2025-06-14,Desiderio Gracia Figuerola,F,Zamora,Facebook Ads,Técnico,2023,Big Data e Inteligencia de Negocios,Presencial,Independiente,Tecnología,Nuevo,María Hidalgo,Loja
+929,2025-06-27,Miguel Arranz Gimeno,F,Machala,Facebook Ads,Bachiller,2024,Diseño Gráfico,Online,Empleado,Tecnología,Nuevo,Luis Pineda,Machala
+930,2025-09-12,Roque Rosa-Duran,F,Loja,Facebook Ads,Universitario,2018,Electrónica,Online,Desempleado,Educación,Matriculado,David Rosales,Loja
+931,2025-09-06,Bartolomé Campos Manso,M,Guayaquil,Facebook Ads,Bachiller,2022,Enfermería,Presencial,Estudiante,Industrial,Nuevo,María Hidalgo,Loja
+932,2025-03-06,Silvestre Castell-Mayol,F,Loja,WhatsApp,Universitario,2018,Diseño Gráfico,Presencial,Empleado,Comercio,Nuevo,David Rosales,Loja
+933,2025-04-10,Gervasio Torrents Vazquez,F,Cuenca,Página Web,Bachiller,2021,Big Data e Inteligencia de Negocios,Presencial,Desempleado,Salud,Matriculado,David Rosales,Loja
+934,2025-04-29,Nadia Cal Pino,M,Loja,WhatsApp,Universitario,2024,Desarrollo de Software,Presencial,Desempleado,Industrial,Perdido,Ana Torres,Loja
+935,2025-06-12,Yaiza Vila Diéguez,M,Machala,Facebook Ads,Técnico,2020,Enfermería,Presencial,Empleado,Industrial,Matriculado,Luis Pineda,Loja
+936,2025-09-17,Gabriel Espinosa Busquets,F,Zamora,Facebook Ads,Bachiller,2024,Desarrollo de Software,Presencial,Estudiante,Industrial,Nuevo,María Hidalgo,Machala
+937,2025-07-29,Jovita Cañellas Salom,F,Loja,Facebook Ads,Universitario,2020,Diseño Gráfico,Presencial,Independiente,Educación,Nuevo,Luis Pineda,Loja
+938,2025-04-06,Ale Becerra Salcedo,M,Machala,Facebook Ads,Universitario,2020,Enfermería,Online,Independiente,Educación,Matriculado,María Hidalgo,Loja
+939,2025-04-01,Valentín Pedro,M,Zamora,Facebook Ads,Técnico,2020,Talento Humano,Online,Estudiante,Educación,Contactado,Luis Pineda,Loja
+940,2025-07-01,Julia Cervera Bautista,M,Guayaquil,Página Web,Universitario,2015,Talento Humano,Online,Empleado,Industrial,Nuevo,María Hidalgo,Machala
+941,2025-05-22,Antonio Espejo Salvà,F,Guayaquil,WhatsApp,Técnico,2020,Administración Financiera,Presencial,Desempleado,Tecnología,Contactado,María Hidalgo,Machala
+942,2025-04-11,Onofre Tormo Navarro,M,Guayaquil,WhatsApp,Universitario,2024,Talento Humano,Online,Desempleado,Salud,Perdido,Luis Pineda,Machala
+943,2025-04-14,Perla Lladó-Vilar,F,Loja,Facebook Ads,Universitario,2021,Ciberseguridad,Presencial,Estudiante,Educación,Perdido,Luis Pineda,Machala
+944,2025-05-04,Borja Lledó Costa,M,Machala,Página Web,Técnico,2019,Electrónica,Presencial,Empleado,Servicios,Nuevo,Ana Torres,Loja
+945,2025-06-16,Paulina Sotelo Zorrilla,F,Loja,WhatsApp,Universitario,2020,Desarrollo de Software,Presencial,Estudiante,Servicios,Contactado,Luis Pineda,Machala
+946,2025-04-25,Nerea Montenegro Pérez,M,Quito,WhatsApp,Técnico,2018,Enfermería,Presencial,Estudiante,Servicios,Contactado,Ana Torres,Machala
+947,2025-09-04,Nacio Llano Gras,M,Machala,Página Web,Universitario,2022,Gastronomía,Presencial,Empleado,Educación,Nuevo,David Rosales,Loja
+948,2025-07-19,Dalila Fabra Corbacho,M,Quito,WhatsApp,Técnico,2018,Administración Financiera,Presencial,Independiente,Comercio,Contactado,Luis Pineda,Loja
+949,2025-08-09,Cirino Seco Royo,M,Loja,WhatsApp,Universitario,2016,Electrónica,Presencial,Empleado,Comercio,Nuevo,Luis Pineda,Machala
+950,2025-07-19,Moreno Granados Alba,M,Guayaquil,Página Web,Bachiller,2019,Administración Financiera,Presencial,Estudiante,Comercio,Contactado,Ana Torres,Machala
+951,2025-03-27,Epifanio Pérez Salmerón,F,Machala,WhatsApp,Bachiller,2020,Enfermería,Presencial,Estudiante,Servicios,Perdido,David Rosales,Loja
+952,2025-05-15,Cristian Aguilar,F,Machala,WhatsApp,Técnico,2021,Big Data e Inteligencia de Negocios,Presencial,Empleado,Salud,Nuevo,Luis Pineda,Machala
+953,2025-05-23,Cesar Alonso Calleja,F,Loja,Página Web,Técnico,2018,Administración Financiera,Presencial,Independiente,Salud,Contactado,Ana Torres,Machala
+954,2025-03-18,Cintia Artigas Abellán,M,Machala,Página Web,Técnico,2019,Ciberseguridad,Online,Empleado,Comercio,Matriculado,Luis Pineda,Loja
+955,2025-09-18,Casemiro Seco Alcalá,F,Loja,Facebook Ads,Bachiller,2020,Enfermería,Presencial,Independiente,Tecnología,Contactado,Ana Torres,Loja
+956,2025-05-04,Adora de Macias,M,Cuenca,Página Web,Bachiller,2022,Ciberseguridad,Presencial,Independiente,Servicios,Contactado,María Hidalgo,Machala
+957,2025-06-17,Édgar Perales Gomis,M,Guayaquil,Referido,Universitario,2018,Big Data e Inteligencia de Negocios,Online,Desempleado,Educación,Matriculado,Ana Torres,Machala
+958,2025-09-28,Roberta Catalán Peñas,M,Machala,Facebook Ads,Universitario,2015,Ciberseguridad,Online,Empleado,Comercio,Contactado,Ana Torres,Loja
+959,2025-08-08,Dionisia Vega,M,Cuenca,Página Web,Universitario,2023,Ciberseguridad,Presencial,Independiente,Servicios,Matriculado,Ana Torres,Machala
+960,2025-06-06,Judith Amores Cámara,M,Guayaquil,WhatsApp,Universitario,2016,Talento Humano,Presencial,Desempleado,Servicios,Nuevo,Ana Torres,Machala
+961,2025-03-07,Eloy Crespi,M,Guayaquil,Referido,Universitario,2019,Ciberseguridad,Presencial,Empleado,Servicios,Contactado,María Hidalgo,Machala
+962,2025-07-02,Ricardo Exposito,M,Cuenca,Referido,Bachiller,2022,Diseño Gráfico,Presencial,Estudiante,Servicios,Nuevo,María Hidalgo,Loja
+963,2025-06-09,Maricruz del Castrillo,M,Machala,Página Web,Técnico,2018,Talento Humano,Presencial,Empleado,Tecnología,Nuevo,María Hidalgo,Machala
+964,2025-09-02,Edgardo Sales Pedrero,M,Zamora,Email,Técnico,2022,Administración Financiera,Online,Empleado,Tecnología,Nuevo,David Rosales,Machala
+965,2025-09-10,Pascuala Sebastián Velasco,M,Quito,Página Web,Bachiller,2016,Administración Financiera,Presencial,Desempleado,Servicios,Matriculado,Ana Torres,Loja
+966,2025-06-09,Eligia Infante Baró,M,Machala,Referido,Bachiller,2015,Enfermería,Presencial,Desempleado,Servicios,Perdido,Luis Pineda,Machala
+967,2025-05-12,Alfonso Aparicio Piña,F,Machala,Página Web,Bachiller,2022,Ciberseguridad,Presencial,Independiente,Comercio,Perdido,Ana Torres,Machala
+968,2025-03-01,Faustino Corbacho Julián,M,Cuenca,WhatsApp,Técnico,2020,Big Data e Inteligencia de Negocios,Presencial,Empleado,Tecnología,Nuevo,David Rosales,Loja
+969,2025-06-05,Fernanda Martínez-Ricart,F,Cuenca,WhatsApp,Bachiller,2019,Talento Humano,Presencial,Estudiante,Comercio,Nuevo,María Hidalgo,Loja
+970,2025-04-23,Simón Pera Carro,F,Quito,Referido,Universitario,2017,Electrónica,Online,Estudiante,Servicios,Nuevo,David Rosales,Loja
+971,2025-04-15,Natalia Cazorla Vera,M,Loja,Email,Técnico,2023,Enfermería,Presencial,Independiente,Salud,Matriculado,David Rosales,Machala
+972,2025-03-23,Artemio Gascón Galán,M,Quito,WhatsApp,Bachiller,2021,Electrónica,Presencial,Estudiante,Tecnología,Nuevo,Luis Pineda,Machala
+973,2025-03-19,Zacarías Velasco,M,Cuenca,WhatsApp,Universitario,2019,Administración Financiera,Presencial,Empleado,Educación,Matriculado,María Hidalgo,Loja
+974,2025-05-08,Sigfrido Jiménez-Gual,M,Zamora,Facebook Ads,Técnico,2015,Enfermería,Presencial,Independiente,Salud,Contactado,David Rosales,Machala
+975,2025-06-27,Vicenta Valera Adadia,F,Cuenca,Facebook Ads,Bachiller,2015,Enfermería,Presencial,Estudiante,Comercio,Perdido,María Hidalgo,Loja
+976,2025-05-28,Gabino Revilla Frutos,M,Quito,Referido,Bachiller,2024,Diseño Gráfico,Presencial,Empleado,Comercio,Nuevo,María Hidalgo,Machala
+977,2025-05-19,Pastora Soler,M,Zamora,WhatsApp,Universitario,2017,Administración Financiera,Presencial,Estudiante,Comercio,Perdido,Luis Pineda,Loja
+978,2025-09-25,Toribio del Madrigal,F,Quito,WhatsApp,Técnico,2016,Desarrollo de Software,Presencial,Independiente,Industrial,Nuevo,Luis Pineda,Loja
+979,2025-06-21,Roberto de Baró,M,Quito,Facebook Ads,Bachiller,2016,Big Data e Inteligencia de Negocios,Online,Estudiante,Servicios,Contactado,María Hidalgo,Machala
+980,2025-04-16,Baudelio Pagès Mulet,M,Cuenca,Facebook Ads,Técnico,2018,Ciberseguridad,Presencial,Independiente,Servicios,Matriculado,David Rosales,Machala
+981,2025-07-16,Calisto Luján-Nieto,F,Cuenca,Facebook Ads,Técnico,2018,Gastronomía,Online,Empleado,Servicios,Nuevo,David Rosales,Machala
+982,2025-04-25,Maxi Espejo Barrio,F,Loja,Facebook Ads,Bachiller,2017,Gastronomía,Online,Empleado,Industrial,Nuevo,María Hidalgo,Machala
+983,2025-03-15,Eliseo Saldaña-Ruiz,M,Machala,Facebook Ads,Técnico,2017,Diseño Gráfico,Presencial,Desempleado,Servicios,Nuevo,Luis Pineda,Machala
+984,2025-06-17,Elba Carbonell-Palacios,M,Quito,Facebook Ads,Bachiller,2016,Ciberseguridad,Presencial,Desempleado,Industrial,Nuevo,Ana Torres,Machala
+985,2025-04-12,Asdrubal Rodrigo Manso Egea,M,Guayaquil,WhatsApp,Universitario,2015,Enfermería,Presencial,Empleado,Industrial,Contactado,Luis Pineda,Loja
+986,2025-05-11,Amaro Chaparro-Cornejo,M,Zamora,WhatsApp,Técnico,2024,Big Data e Inteligencia de Negocios,Online,Empleado,Comercio,Matriculado,Ana Torres,Loja
+987,2025-08-09,María Jesús Adán,F,Loja,WhatsApp,Universitario,2019,Diseño Gráfico,Presencial,Estudiante,Industrial,Matriculado,Ana Torres,Machala
+988,2025-09-16,Valentina Piñeiro Talavera,M,Machala,WhatsApp,Técnico,2022,Enfermería,Presencial,Independiente,Comercio,Nuevo,María Hidalgo,Loja
+989,2025-05-05,Piedad Trinidad Gordillo Iniesta,F,Zamora,Facebook Ads,Técnico,2024,Gastronomía,Presencial,Empleado,Servicios,Contactado,Luis Pineda,Machala
+990,2025-07-31,Rosalía Torres,M,Cuenca,Facebook Ads,Técnico,2023,Administración Financiera,Presencial,Independiente,Tecnología,Contactado,María Hidalgo,Machala
+991,2025-03-25,Marco Montenegro Aroca,M,Machala,WhatsApp,Bachiller,2022,Electrónica,Online,Independiente,Comercio,Perdido,Luis Pineda,Loja
+992,2025-04-20,Emelina Carreño Planas,M,Zamora,Página Web,Bachiller,2019,Desarrollo de Software,Presencial,Independiente,Educación,Matriculado,María Hidalgo,Loja
+993,2025-05-11,Nazaret Español Lillo,M,Loja,Referido,Universitario,2020,Enfermería,Presencial,Desempleado,Servicios,Nuevo,María Hidalgo,Loja
+994,2025-04-02,Ana Sofía Exposito Múgica,M,Cuenca,WhatsApp,Bachiller,2023,Big Data e Inteligencia de Negocios,Online,Empleado,Servicios,Nuevo,Luis Pineda,Loja
+995,2025-07-01,Augusto Ricart Mendez,F,Machala,Facebook Ads,Universitario,2020,Enfermería,Presencial,Desempleado,Servicios,Contactado,María Hidalgo,Loja
+996,2025-09-22,Amor Aguilar Riquelme,M,Quito,WhatsApp,Universitario,2023,Administración Financiera,Online,Desempleado,Educación,Matriculado,Luis Pineda,Machala
+997,2025-09-11,Rosalinda Amanda Isern Villanueva,M,Zamora,Facebook Ads,Bachiller,2018,Talento Humano,Presencial,Independiente,Tecnología,Nuevo,María Hidalgo,Loja
+998,2025-05-14,Irma Guerrero-Checa,M,Cuenca,Facebook Ads,Técnico,2024,Gastronomía,Presencial,Desempleado,Servicios,Matriculado,Luis Pineda,Machala
+999,2025-03-01,Mireia Grau,M,Quito,Facebook Ads,Técnico,2023,Electrónica,Presencial,Desempleado,Comercio,Nuevo,David Rosales,Loja
+1000,2025-07-21,Rita Rafaela Campo Pi,F,Quito,Página Web,Bachiller,2017,Gastronomía,Online,Desempleado,Industrial,Nuevo,David Rosales,Loja
