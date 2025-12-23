@@ -8,8 +8,18 @@ import streamlit as st
 import matplotlib.pyplot as plt
 import joblib
 
-
 st.set_page_config(page_title="Dashboard + Recomendador (Streamlit)", layout="wide")
+
+# ======================================================
+# PATHS (COMPATIBLE LOCAL + STREAMLIT CLOUD)
+# - En Streamlit Cloud NO existe C:\...
+# - Se usan rutas relativas al repo
+# ======================================================
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+MODELOS_DIR = os.path.join(BASE_DIR, "modelos")        # <-- aquí van los .joblib
+ASSETS_DIR = os.path.join(BASE_DIR, "assets")
+LOGO_PATH = os.path.join(ASSETS_DIR, "logo.jpg")
+
 
 # ======================================================
 # HELPERS
@@ -59,10 +69,17 @@ def plot_bar_from_series(title: str, s: pd.Series, top_n: int = 20):
 
 
 @st.cache_resource
-def load_artifacts(base_path: str):
-    model_path = os.path.join(base_path, "modelo_final.joblib")
-    enc_path = os.path.join(base_path, "label_encoder.joblib")
-    feat_path = os.path.join(base_path, "features_modelo.joblib")
+def load_artifacts():
+    """
+    Espera estos archivos dentro de la carpeta del repo:
+    modelos/
+      - modelo_final.joblib
+      - label_encoder.joblib
+      - features_modelo.joblib
+    """
+    model_path = os.path.join(MODELOS_DIR, "modelo_final.joblib")
+    enc_path = os.path.join(MODELOS_DIR, "label_encoder.joblib")
+    feat_path = os.path.join(MODELOS_DIR, "features_modelo.joblib")
 
     if not os.path.exists(model_path):
         raise FileNotFoundError(f"No encuentro: {model_path}")
@@ -86,20 +103,20 @@ def align_and_fill_user_df(user_df: pd.DataFrame, features: List[str]) -> pd.Dat
     Alinea columnas al esquema del modelo y evita error np.isnan en OneHotEncoder
     forzando strings en categóricas.
     """
-    # 1) agregar faltantes
+    # agregar faltantes
     for c in features:
         if c not in user_df.columns:
             user_df[c] = np.nan
 
-    # 2) ordenar/recortar
+    # ordenar/recortar
     user_df = user_df[features].copy()
 
-    # 3) limpiar strings vacíos a NaN
+    # limpiar strings vacíos a NaN
     for c in user_df.columns:
         if user_df[c].dtype == "object":
             user_df[c] = user_df[c].replace("", np.nan)
 
-    # 4) cast robusto
+    # cast robusto
     numeric_hints = ("anio", "año", "edad", "score", "nota", "promedio", "ingreso", "salario", "monto", "precio")
 
     for c in user_df.columns:
@@ -136,13 +153,6 @@ if "view" not in st.session_state:
 
 
 # ======================================================
-# PATHS (FIJOS)
-# ======================================================
-BASE = r"C:\Users\dimas\OneDrive\Escritorio\Streamlit practicas"
-LOGO_PATH = os.path.join(BASE, "assets", "logo.jpg")
-
-
-# ======================================================
 # SIDEBAR
 # ======================================================
 st.sidebar.title("Menú")
@@ -150,7 +160,7 @@ st.sidebar.title("Menú")
 if os.path.exists(LOGO_PATH):
     st.sidebar.image(LOGO_PATH, width=220)
 else:
-    st.sidebar.caption("ℹ️ (Opcional) Pon un logo en assets/logo.jpg")
+    st.sidebar.caption("ℹ️ (Opcional) Pon un logo en assets/logo.jpg (dentro del repo)")
 
 st.sidebar.divider()
 
@@ -255,14 +265,15 @@ if st.session_state.view == "reco":
     st.subheader("🎓 Recomendador de Carrera (Top-3)")
 
     try:
-        best, le, features = load_artifacts(BASE)
+        best, le, features = load_artifacts()
     except Exception as e:
         st.error(f"No puedo cargar el modelo/artefactos: {e}")
         st.info(
-            "Asegúrate de haber generado estos archivos en la carpeta BASE:\n"
-            "- modelo_final.joblib\n"
-            "- label_encoder.joblib\n"
-            "- features_modelo.joblib"
+            "✅ En Streamlit Cloud los archivos deben estar DENTRO del repo.\n\n"
+            "Crea la carpeta **modelos/** y sube:\n"
+            "- modelos/modelo_final.joblib\n"
+            "- modelos/label_encoder.joblib\n"
+            "- modelos/features_modelo.joblib\n"
         )
         st.stop()
 
@@ -308,6 +319,7 @@ if st.session_state.view == "reco":
         GENERO_OPTS = ["", "M", "F"]
         current_year = date.today().year
 
+        # ocultar estos campos del formulario
         HIDE_COLS = {"estado_lead", "asesor_asignado"}
 
         inputs = {}
@@ -342,7 +354,6 @@ if st.session_state.view == "reco":
                     inputs[c] = st.selectbox(c, NIVEL_EDUCATIVO_OPTS, index=0)
 
                 else:
-                    # Default: texto
                     inputs[c] = st.text_input(c, value="")
 
         if st.button("🔍 Recomendar (Top-3)"):
