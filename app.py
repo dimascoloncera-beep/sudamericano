@@ -180,7 +180,7 @@ st.sidebar.caption("Modo recomendado: carga un archivo y usa el recomendador.")
 # ======================================================
 # MAIN
 # ======================================================
-st.title("Recomendador de Carrera Instituto Sudamericano Ecuador")
+st.title("🎓 Recomendador de Carrera - INSTITUTO SUPERIOR TECNOLOGICO SUDAMERICANO")
 
 # --------- CARGA DEL ARCHIVO ----------
 if data_file is not None:
@@ -202,9 +202,9 @@ df = st.session_state.df
 # ======================================================
 if st.session_state.view == "data":
     if df is None:
-        st.info("⬅️ Arrastra un archivo .csv o .xlsx para comenzar.")
+        st.info("Arrastra un archivo .csv o .xlsx para comenzar.")
     else:
-        st.subheader("📌 Datos cargados (vista previa)")
+        st.subheader("Datos cargados (vista previa)")
         c1, c2, c3 = st.columns([1, 1, 2])
         c1.metric("Registros", f"{len(df):,}")
         c2.metric("Columnas", f"{df.shape[1]:,}")
@@ -269,7 +269,7 @@ if st.session_state.view == "reco":
     except Exception as e:
         st.error(f"No puedo cargar el modelo/artefactos: {e}")
         st.info(
-            "✅ En Streamlit Cloud los archivos deben estar DENTRO del repo.\n\n"
+            "En Streamlit Cloud los archivos deben estar DENTRO del repo.\n\n"
             "Crea la carpeta **modelos/** y sube:\n"
             "- modelos/modelo_final.joblib\n"
             "- modelos/label_encoder.joblib\n"
@@ -397,4 +397,5 @@ if st.session_state.view == "reco":
                     file_name="predicciones_carreras.csv",
                     mime="text/csv",
                 )
+
 
