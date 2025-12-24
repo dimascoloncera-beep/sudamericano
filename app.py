@@ -180,7 +180,7 @@ st.sidebar.caption("Modo recomendado: carga un archivo y usa el recomendador.")
 # ======================================================
 # MAIN
 # ======================================================
-st.title("App Streamlit: Datos, Gráficas y Recomendador de Carrera")
+st.title("Recomendador de Carrera Instituto Sudamericano Ecuador")
 
 # --------- CARGA DEL ARCHIVO ----------
 if data_file is not None:
@@ -397,3 +397,4 @@ if st.session_state.view == "reco":
                     file_name="predicciones_carreras.csv",
                     mime="text/csv",
                 )
+
