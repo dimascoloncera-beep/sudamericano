@@ -359,7 +359,7 @@ if st.session_state.view == "reco":
             df_work = align_and_fill_user_df(df_work, features)
 
             # ✅ columnas a quitar SOLO en el reporte/descarga de TAB2
-            DROP_COLS_TAB2 = ["id_registro", "estado_lead", "asesor_asignado"]
+            DROP_COLS_TAB2 = ["id_registro", "estado_lead", "asesor_asignado","nombre_completo"]
 
             if st.button("⚡ Predecir Top-1 para todo el archivo"):
                 model = best["model"]
@@ -385,3 +385,4 @@ if st.session_state.view == "reco":
                     file_name="predicciones_carreras.csv",
                     mime="text/csv",
                 )
+
