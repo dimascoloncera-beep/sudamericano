@@ -353,7 +353,7 @@ if st.session_state.view == "reco":
         if df is None:
             st.info("Primero carga un archivo en el sidebar para predecir por lote.")
         else:
-            st.markdown("Esto predice Top-1 para cada fila del archivo cargado (sin entrenar, solo inferencia).")
+            st.markdown("Esto predice Top-1 para cada fila del archivo cargado (Revisar la Columna Prediccion Carrera al final de la tabla).")
 
             df_work = df.copy()
             df_work = align_and_fill_user_df(df_work, features)
@@ -385,4 +385,5 @@ if st.session_state.view == "reco":
                     file_name="predicciones_carreras.csv",
                     mime="text/csv",
                 )
+
 
