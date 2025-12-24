@@ -12,14 +12,11 @@ st.set_page_config(page_title="Dashboard + Recomendador (Streamlit)", layout="wi
 
 # ======================================================
 # PATHS (COMPATIBLE LOCAL + STREAMLIT CLOUD)
-# - En Streamlit Cloud NO existe C:\...
-# - Se usan rutas relativas al repo
 # ======================================================
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-MODELOS_DIR = os.path.join(BASE_DIR, "modelos")        # <-- aquí van los .joblib
+MODELOS_DIR = os.path.join(BASE_DIR, "modelos")
 ASSETS_DIR = os.path.join(BASE_DIR, "assets")
 LOGO_PATH = os.path.join(ASSETS_DIR, "logo.jpg")
-
 
 # ======================================================
 # HELPERS
@@ -70,13 +67,6 @@ def plot_bar_from_series(title: str, s: pd.Series, top_n: int = 20):
 
 @st.cache_resource
 def load_artifacts():
-    """
-    Espera estos archivos dentro de la carpeta del repo:
-    modelos/
-      - modelo_final.joblib
-      - label_encoder.joblib
-      - features_modelo.joblib
-    """
     model_path = os.path.join(MODELOS_DIR, "modelo_final.joblib")
     enc_path = os.path.join(MODELOS_DIR, "label_encoder.joblib")
     feat_path = os.path.join(MODELOS_DIR, "features_modelo.joblib")
@@ -99,24 +89,16 @@ def load_artifacts():
 
 
 def align_and_fill_user_df(user_df: pd.DataFrame, features: List[str]) -> pd.DataFrame:
-    """
-    Alinea columnas al esquema del modelo y evita error np.isnan en OneHotEncoder
-    forzando strings en categóricas.
-    """
-    # agregar faltantes
     for c in features:
         if c not in user_df.columns:
             user_df[c] = np.nan
 
-    # ordenar/recortar
     user_df = user_df[features].copy()
 
-    # limpiar strings vacíos a NaN
     for c in user_df.columns:
         if user_df[c].dtype == "object":
             user_df[c] = user_df[c].replace("", np.nan)
 
-    # cast robusto
     numeric_hints = ("anio", "año", "edad", "score", "nota", "promedio", "ingreso", "salario", "monto", "precio")
 
     for c in user_df.columns:
@@ -376,6 +358,9 @@ if st.session_state.view == "reco":
             df_work = df.copy()
             df_work = align_and_fill_user_df(df_work, features)
 
+            # ✅ columnas a quitar SOLO en el reporte/descarga de TAB2
+            DROP_COLS_TAB2 = ["id_registro", "estado_lead", "asesor_asignado"]
+
             if st.button("⚡ Predecir Top-1 para todo el archivo"):
                 model = best["model"]
                 proba = model.predict_proba(df_work)
@@ -386,16 +371,17 @@ if st.session_state.view == "reco":
                 results["Prediccion_Carrera"] = pred_label
                 results["Confianza_%"] = (np.max(proba, axis=1) * 100).round(1)
 
+                # ✅ quitar columnas (si existen) antes de mostrar y descargar
+                results_report = results.drop(columns=DROP_COLS_TAB2, errors="ignore")
+
                 st.success("✅ Predicciones listas")
-                st.dataframe(results.head(50))
+                st.dataframe(results_report.head(50))
                 st.caption("Mostrando primeras 50 filas (puedes descargar si quieres).")
 
-                csv = results.to_csv(index=False).encode("utf-8")
+                csv = results_report.to_csv(index=False).encode("utf-8")
                 st.download_button(
                     "⬇️ Descargar predicciones (CSV)",
                     data=csv,
                     file_name="predicciones_carreras.csv",
                     mime="text/csv",
                 )
-
-
